@@ -3,21 +3,31 @@ layout: default
 ---
 
 <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
+  <h1 class="title">Books</h1>
+  <h2 class="subtitle">my reading notes</h2>
+  <table class="post-list">
+    <thead>
+      <tr>
+        <th>date</th>
+        <th>title</th>
+        <th>link</th>
+      </tr>
+    </thead>
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+      <tr class="click-row" data-href="{{ post.url | prepend: site.baseurl }}">
+        <td>{{ post.date | date: "%-d %b %Y" }}</td>
+        <td>{{ post.title }}</td>
+        <td>view</td>
+      </tr>
     {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+  </table>
 </div>
+
+<script>
+  var elements = document.getElementsByClassName("click-row")
+  Array.prototype.forEach.call(elements, function(el) {
+    el.addEventListener('click', function() {
+      window.location.href = this.dataset.href
+    })
+  })
+</script>

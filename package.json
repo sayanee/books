@@ -1,0 +1,23 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "my reading notes",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo nothing yet!",
+    "start": "sass css/main.sass:css/main.css && bundle exec jekyll serve",
+    "build": "sass css/main.sass:css/main.css",
+    "watch": "sass --watch css/main.sass:css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayanee/books.git"
+  },
+  "keywords": [ "books", "reading" ],
+  "author": "Sayanee Basu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sayanee/books/issues"
+  },
+  "homepage": "https://books.sayan.ee"
+}
