@@ -305,6 +305,9 @@ a {
       margin: 0; }
 
   article {
-    margin-bottom: 50px; } }
+    margin-bottom: 50px; }
+
+  .post-list td:first-child, .post-list th:first-child {
+    display: none; } }
 
 /*# sourceMappingURL=main.css.map */
