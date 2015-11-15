@@ -1,4 +1,4 @@
-@import "//fonts.googleapis.com/css?family=Economica:700|Open+Sans:400";
+@import "//fonts.googleapis.com/css?family=Economica:700|Droid+Serif:400,400italic,700,700italic|Josefin+Slab:400,700";
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -183,11 +183,18 @@ html {
 body {
   margin: 0 auto;
   width: 960px;
-  font-family: "Open Sans", sans-serif; }
+  font-family: "Droid Serif", sans-serif;
+  font-size: 1em;
+  color: #000;
+  line-height: 1.58; }
 
 header {
-  margin: 3em 0 0 0;
-  border-bottom: 1px solid #000; }
+  margin: 3em 0 0 0; }
+
+article {
+  width: 800px;
+  margin: 0 auto;
+  margin-bottom: 100px; }
 
 .menu {
   text-align: right; }
@@ -207,7 +214,8 @@ header {
 .post-list {
   width: 95%;
   text-align: left;
-  margin: 4em auto; }
+  margin: 4em auto;
+  font-size: 0.9em; }
   .post-list th {
     text-transform: uppercase;
     font-weight: bold; }
@@ -220,8 +228,31 @@ header {
   .post-list th, .post-list td {
     padding: 1em; }
 
+h1 {
+  font-size: 3em; }
+
+p {
+  font-size: 1.2em;
+  color: rgba(0, 0, 0, 0.8);
+  line-height: 1.55; }
+
+blockquote p {
+  padding: 1.2em;
+  line-height: 1.6;
+  color: rgba(0, 0, 0, 0.6);
+  font-family: "Josefin Slab", serif;
+  font-size: 1.5em; }
+
+a {
+  color: #1cbd49;
+  text-decoration: none; }
+  a:link, a:visited {
+    text-decoration: none; }
+  a:hover, a:active {
+    text-decoration: underline; }
+
 .title {
-  font-size: 32vw;
+  font-size: 26em;
   text-align: center;
   text-transform: uppercase;
   font-family: "Economica", sans-serif;
@@ -230,19 +261,42 @@ header {
   line-height: 0.9; }
 
 .subtitle {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Droid Serif", sans-serif;
   color: gray;
   text-align: right;
   font-size: 2vw; }
 
+.meta {
+  font-size: 0.9em;
+  color: #1cbd49; }
+
 @media only screen and (max-width: 960px) {
   body {
-    width: 95%; }
+    width: 95%;
+    font-size: 0.8em; }
+
+  article {
+    width: 100%; }
 
   .title {
     font-size: 36vw; }
 
   .subtitle {
     font-size: 4vw; } }
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 2em; }
+
+  blockquote {
+    padding: 0.5em;
+    margin: 0;
+    background: #eee; }
+    blockquote p {
+      padding: 0.2em;
+      font-size: 1.4em;
+      margin: 0; }
+
+  article {
+    margin-bottom: 50px; } }
 
 /*# sourceMappingURL=main.css.map */

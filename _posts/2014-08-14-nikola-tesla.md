@@ -7,8 +7,7 @@ categories:
 abstract: This is the autobiography of Nikola Tesla. He writes about his childhood, experiments and most importantly for me the process of his thinking and tenacity to stick to something until it's done. An inspiring read for any scientist and engineer.
 ---
 
-He writes this at the age of 63 after a deep career and work in the field of electricity and mechanics.
-___
+Nikola Tesla writes this at the age of 63 after a deep career and work in the field of electricity and mechanics.
 
 Why invent? Why for me and others...
 
@@ -161,7 +160,3 @@ Basis of thought and compulsion
 Cause of wrong ideas
 
 > **Deficient observation** is merely a form of ignorance and responsible for the many morbid notions and foolish ideas prevailing.
-
-___
-
-<p class="discussion">I'm in an autobiography reading mode. Which other scientists or engineers also wrote autobiographies that you loved reading?</p>
