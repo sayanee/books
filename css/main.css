@@ -251,6 +251,11 @@ blockquote p {
   font-family: "Josefin Slab", serif;
   font-size: 1.5em; }
 
+code {
+  background: #eee;
+  padding: 0.2em 0.5em;
+  border-radius: 5px; }
+
 a {
   color: #1cbd49;
   text-decoration: none; }
