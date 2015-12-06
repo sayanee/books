@@ -8,3 +8,4 @@ url: "http://books.sayan.ee"
 twitter_username: jekyllrb
 github_username:  jekyll
 markdown: redcarpet
+permalink: /:title
