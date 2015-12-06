@@ -6,7 +6,7 @@ categories:
 - books
 ---
 
-This was an insightful book on creativity, leadership, team work and excellence in the pursuit of making animation films, but really the concepts in this book can be applied to any creative or engineering fields
+[This was an insightful book on creativity](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration-ebook/dp/B00FUZQYBO), leadership, team work and excellence in the pursuit of making animation films, but the concepts in this book can be applied to any creative or engineering fields
 
 ## Stories
 
