@@ -4,9 +4,9 @@
   "description": "my reading notes",
   "main": "index.html",
   "scripts": {
-    "test": "echo nothing yet!",
-    "start": "sass css/main.sass:css/main.css && bundle exec jekyll serve",
     "build": "sass css/main.sass:css/main.css",
+    "start": "sass css/main.sass:css/main.css && bundle exec jekyll serve",
+    "test": "echo nothing yet!",
     "watch": "sass --watch css/main.sass:css/main.css"
   },
   "repository": {
