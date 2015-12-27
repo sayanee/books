@@ -459,3 +459,7 @@ Instantly changing mind
 Shifting focus
 
 > How do you prevent this from happening? The trick is to **shift the emphasis in any meeting away from the source of an idea and onto the idea itself**. People often place too much significance on the source of an idea, accepting it (or not criticizing it) because it comes from Steve or a respected director. But Steve had no interest in that kind of affirmation.
+
+Why keeping manpower separate is important
+
+> As I have said, we decided early on that Pixar and Disney Animation should remain completely separate entities. What this meant was that **neither would do any production work for the other, no matter how pressing the deadlines or how dire the situation**. No exceptions. Why? Because mixing the two staffs would have been a bureaucratic nightmare. But there was an overarching management principle at work as well. Simply put, **we wanted each studio to know that it could stand on its own and solve its own problems**. If we made it easy for one studio to borrow people or resources from the other to help solve a problem, the upshot would be that **we’d mask the problem**. Not allowing such borrowing was **a conscious choice on our part to force problems to the surface where we could face them head on**. Almost immediately, we had a crisis on Ratatouille that would severely test this policy.
