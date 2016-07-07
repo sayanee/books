@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "The Architecture of Open Source Applications"
-authors: Robert Chansler, Russell Bryant, Roy Bryant, Rosangela Canino-Koening, Francesco Cesarini, Eric Allman, Keith Bostic and Titus Brown
+authors: Several authors
 categories:
 - books
 ---
+
+This books is [available online for reading and buying](http://aosabook.org/en/index.html).
 
 Primarily as a module registry
 
