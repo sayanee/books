@@ -4,6 +4,7 @@ title: Autobiography of Benjamin Franklin
 authors: Benjamin Franklin
 categories:
 - Books
+recommend: yes
 ---
 
 - **Book Title:** Franklin's Autobiography
@@ -35,7 +36,7 @@ his visit to London…
 
 > Thus I spent about eighteen months in London; most part of the time I work’d hard at my business, and spent but little upon myself except in seeing plays and in books. My friend Ralph had kept me poor; he owed me about twenty-seven pounds, which I was now never likely to receive; a great sum out of my small earnings! I lov’d him, notwithstanding, for he had many amiable qualities. I had by no means improv’d my fortune; but I had picked up some very ingenious acquaintance, whose conversation was of great advantage to me; and I had read considerably.
 
-on his moreal beliefs..
+on his moral beliefs..
 
 > I grew convinc’d that truth, sincerity and integrity in dealings between man and man were of the utmost importance to the felicity of life; and I form’d written resolutions, which still remain in my journal book, to practice them ever while I lived. Revelation had indeed no weight with me, as such; but I entertain’d an opinion that, though certain actions might not be bad because they were forbidden by it, or good because it commanded them, yet probably these actions might be forbidden because they were bad for us, or commanded because they were beneficial to us, in their own natures, all the circumstances of things considered.
 
@@ -74,4 +75,3 @@ how he planned to attain moral perfection…
 on Franklin Effect…
 
 > I therefore did not like the opposition of this new member, who was a gentleman of fortune and education, with talents that were likely to give him, in time, great influence in the House, which, indeed, afterwards happened. I did not, however, aim at gaining his favour by paying any servile respect to him, but, after some time, took this other method. Having heard that he had in his library a certain very scarce and curious book, I wrote a note to him, expressing my desire of perusing that book, and requesting he would do me the favour of lending it to me for a few days. He sent it immediately, and I return’d it in about a week with another note, expressing strongly my sense of the favour. When we next met in the House, he spoke to me (which he had never done before), and with great civility; and he ever after manifested a readiness to serve me on all occasions, so that we became great friends, and our friendship continued to his death. This is another instance of the truth of an old maxim I had learned, which says, “He that has once done you a kindness will be more ready to do you another, than he whom you yourself have obliged.” And it shows how much more profitable it is prudently to remove, than to resent, return, and continue inimical proceedings.
-

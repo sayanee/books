@@ -4,6 +4,7 @@ title:  "Madame Curie"
 authors: Eve Curie
 categories:
 - books
+recommend: yes
 ---
 
 Wealth and honors did not matter

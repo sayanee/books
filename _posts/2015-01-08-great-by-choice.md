@@ -4,6 +4,7 @@ title:  "Great by Choice"
 authors: Jim Collins, Morten T. Hansen
 categories:
 - books
+recommend: yes
 ---
 
 Myth of visionary

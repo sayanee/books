@@ -4,6 +4,7 @@ title:  "Andrew Carnegie"
 authors: Andrew Carnegie
 categories:
 - books
+recommend: yes
 ---
 
 I was curious how someone from a relatively disadvantaged background can become the richest man in the world.
@@ -230,4 +231,3 @@ Wealth distribution
 Communication
 
 > Most quarrels become acute from the parties not seeing and communicating with each other and hearing too much of their disagreement from others. They do not fully understand the other's point of view and all that can be said for it. **Wise is he who offers the hand of reconciliation should a difference with a friend arise.**
-

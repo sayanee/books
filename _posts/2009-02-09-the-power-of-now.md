@@ -4,6 +4,7 @@ title: The Power of NOW
 authors: Ekhart Tolle
 categories:
 - Books
+recommend: yes
 ---
 
 

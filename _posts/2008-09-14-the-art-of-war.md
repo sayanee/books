@@ -4,6 +4,7 @@ title: The Art of War by Sun Tzu
 authors: Sun Tzu
 categories:
 - Books
+recommend: yes
 ---
 
 
@@ -125,4 +126,3 @@ leadership...
 > The general who advances without coverting fame and retreats without fearing disgrace, whose only thought is to protect his country and do good service for his sovereign, is the jewel of the kingdom
 
 Bestow rewards without regard to rule, issue orders without regard to previous arrangements; and you will be able to handle a whole army as though you had to do with but a single man.
-

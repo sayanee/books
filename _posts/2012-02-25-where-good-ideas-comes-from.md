@@ -4,6 +4,7 @@ title:  "Where Good Ideas Come From"
 authors: Steven Johnson
 categories:
 - books
+recommend: yes
 ---
 
 City effect == more creative

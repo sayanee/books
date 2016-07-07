@@ -4,6 +4,7 @@ title: The Intelligent Invester
 authors: Benjamin Graham
 categories:
 - Books
+recommend: yes
 ---
 
 

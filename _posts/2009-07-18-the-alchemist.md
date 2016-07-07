@@ -4,6 +4,7 @@ title: The Alchemist
 authors: Paulo Coelho
 categories:
 - Books
+recommend: yes
 ---
 
 

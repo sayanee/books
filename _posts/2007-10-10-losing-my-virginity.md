@@ -4,6 +4,7 @@ title: Losing my Virginity
 authors: Richard Branson
 categories:
 - Books
+recommend: yes
 ---
 
 
@@ -78,4 +79,3 @@ On brand name and reputations…
 The last paragraph…
 
 > At the outset, each of those individual ventures was a step into the unknown for the company – a bit like the loss of one’s virginity. But, unlike losing your virginity, in whatever would you make for yourself, you can keep embracing the new and the different over and over again. That’s what I have always wanted for Virgin and whether it’s achieved by judgment or luck, I wouldn’t have it any other way.
-

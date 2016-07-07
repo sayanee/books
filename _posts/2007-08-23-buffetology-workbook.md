@@ -4,7 +4,9 @@ title: Buffetology Workbook
 authors: Mary Buffet and David Clark
 categories:
 - Books
+recommend: yes
 ---
+
 - **Book Title**: The Buffetology Workbook - Value Investing the Warren Buffet Way
 - **Authors**: Mary Buffet and David Clark
 - **About the Author**: Mary Buffet is the former daughter-in-law od Warren Buffet

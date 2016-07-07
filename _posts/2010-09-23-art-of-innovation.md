@@ -4,6 +4,7 @@ title: Art of Innovation
 authors: Tom Kelly
 categories:
 - Books
+recommend: yes
 ---
 
 - **Book Title**: The Art of Innovation: Lessons in Creativity from IDEO, America's Leading Design Firm

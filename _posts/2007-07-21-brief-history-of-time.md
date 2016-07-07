@@ -4,6 +4,7 @@ title: Brief History of Time
 authors: Stephen Hawking
 categories:
 - Books
+recommend: yes
 ---
 
 
@@ -73,4 +74,3 @@ universe
 philosophers
 
 > Philosophers reduced the scope of their inquiries so much that Wittgenstein, the most famous philosopher of this century, said, “The sole remaining task for philosophy is the analysis of language.” What a comedown from the great tradition of philosophy from Aristotle to Kant! However, if we do discover a complete theory, it should in time be understandable in broad principle by everyone, not just a few scientists. Then we shall all, philosophers, scientists, and just ordinary people, be able to take part in the discussion of the question of why it is that we and the universe exist. If we find the answer to that, it would be the ultimate triumph of human reason – for then we would know the mind of God.
-

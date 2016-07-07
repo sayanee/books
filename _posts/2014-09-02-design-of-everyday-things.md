@@ -4,6 +4,7 @@ title:  "The Design of Everyday Things"
 authors: Don Norman
 categories:
 - books
+recommend: yes
 ---
 
 Good design in invisible

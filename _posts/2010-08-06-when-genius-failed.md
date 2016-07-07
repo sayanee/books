@@ -4,6 +4,7 @@ title: When Genius Failed
 authors: Roger Lowenstein
 categories:
 - Books
+recommend: yes
 ---
 
 - **Book Title**: When Genius Failed - The Rise and Fall of Long-Term Capital Management
@@ -45,4 +46,3 @@ bulging problem...
 Trust in modern finance and brains..
 
 > The supreme irony is that the professors were trying to deconstruct and ultimately to minimise risk, not - they believed - to speculate on overcoming it. In this, the fund was not unique. Long-Term was in fact the quintessential fund of the late 20th century - an experiment in harnessing the markets to the twin new disciplines of financial economics and computer programming. The belief that tomorrow's risks can be inferred from yesterday's prices and volatilities prevails at virtually every investment bank and trading desks. This was Long Term's basic mistake, and its stunning losses betrayed the flaw at the very heart - the veyr brain - of moden finance.
-

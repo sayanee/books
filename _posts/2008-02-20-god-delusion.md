@@ -4,6 +4,7 @@ title: God Delusion by Richard Dawkins
 authors: Richard Dawkins
 categories:
 - Books
+recommend: yes
 ---
 
 

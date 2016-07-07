@@ -4,6 +4,7 @@ title: Innovator's Dilemma
 authors: Clayton Christensen
 categories:
 - Books
+recommend: yes
 ---
 
 - **Book Title**: The Innovator's Dilemma
@@ -39,4 +40,3 @@ Well managed companies...
 2. Investing aggressively in technologies that give those customers what they say they want
 3. Seeking higher margins
 4. Targeting larger markets rather than smaller ones
-

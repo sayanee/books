@@ -4,6 +4,7 @@ title: Stumbling on Happiness
 authors: Daniel Gilbert
 categories:
 - Books
+recommend: yes
 ---
 
 - **Title**: [Stumbling on Happiness](http://www.amazon.com/Stumbling-Happiness-Daniel-Gilbert/dp/1400077427)

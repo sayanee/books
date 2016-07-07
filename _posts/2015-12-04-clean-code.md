@@ -4,6 +4,7 @@ title:  "Clean Code"
 authors: Robert C. Martin
 categories:
 - books
+recommend: yes
 ---
 
 [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=dp_kinw_strp_1) is a great reminder and overview of writing maintainable elegant code.

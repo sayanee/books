@@ -4,6 +4,7 @@ title: How to be Idle
 authors: Tom Hodgkinson
 categories:
 - Books
+recommend: yes
 ---
 
 
@@ -78,4 +79,3 @@ Meditation...
 >
 
 > There is no purer form of idleness than meditation. It is where doing absolutely nothing for hours on end is elevated to the level of a spiritual quest. Meditation is a way of connecting oneself with an inner dimension, a spirit, a soul, some sort of essence, which is largely ignored by the rational over mind. … I would argue for a far more informal approach. For me, meditation can occur at odd moments. It can come (and often does) when staring out of the window of a train, always one of the true idle pleasures.
-

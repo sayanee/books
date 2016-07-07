@@ -4,6 +4,7 @@ title: Rich Dad, Poor Dad
 authors: Robert Kiyosaki
 categories:
 - Books
+recommend: yes
 ---
 
 

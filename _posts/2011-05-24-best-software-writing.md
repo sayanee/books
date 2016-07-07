@@ -4,6 +4,7 @@ title: Best software writing
 authors: Joel Spolsky
 categories:
 - Books
+recommend: yes
 ---
 
 - **Title**: [The Best Software Writings, I](http://www.amazon.com/Best-Software-Writing-Selected-Introduced/dp/1590595009)

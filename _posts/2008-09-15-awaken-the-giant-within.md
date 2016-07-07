@@ -4,6 +4,7 @@ title: Awaken the Giant within
 authors: Tony Robbins
 categories:
 - Books
+recommend: yes
 ---
 
 
@@ -74,4 +75,3 @@ Change a good word to a great word...
 5. be impeccable
 6. master your time and your life
 7. rest and play
-

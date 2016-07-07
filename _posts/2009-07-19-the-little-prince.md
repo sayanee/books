@@ -4,6 +4,7 @@ title: The Little Prince
 authors: Antoine de Saint-Exupery
 categories:
 - Books
+recommend: yes
 ---
 
 

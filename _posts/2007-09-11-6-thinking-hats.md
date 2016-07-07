@@ -4,6 +4,7 @@ title: 6 thinking hats by Edward de Bono
 authors: Edward de Bono
 categories:
 - Books
+recommend: yes
 ---
 
 

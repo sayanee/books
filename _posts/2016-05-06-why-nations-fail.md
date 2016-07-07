@@ -4,6 +4,7 @@ title:  "Why Nations Fail"
 authors: Daron Acemoglu and James Robinsonn
 categories:
 - books
+recommend: yes
 ---
 
 Colonization and gold

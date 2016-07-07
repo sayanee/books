@@ -4,6 +4,7 @@ title: A new earth
 authors: Eckhart Tolle
 categories:
 - Books
+recommend: yes
 ---
 
 
@@ -97,4 +98,3 @@ pain-body
 how to let go of the ego
 
 > There is only one perpetrator of evil on the planet: human unconsciousness. The realisation is true forgiveness. With forgiveness, your victim identity dissolves, and your true power emerges – the power of presence. Instead of blaming the darkness, you bring in the light.
-

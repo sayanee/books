@@ -4,6 +4,7 @@ title: Delivering Happiness
 authors: Tony Hsieh
 categories:
 - Books
+recommend: yes
 ---
 
 
@@ -91,4 +92,3 @@ Happiness Framework 3:
 3. Purpose
 
 > What I find interesting is that many people go through life chasing after the pleasure type of happiness, thinking that once they are able to sustain that, then they will worry about the passion and, if they get around to it, look for their higher purpose.
-

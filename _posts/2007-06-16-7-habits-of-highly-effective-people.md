@@ -4,6 +4,7 @@ title: 7 Habits of Highly Effective People
 auhors: Stephen Covey
 categories:
 - Books
+recommend: yes
 ---
 
 
