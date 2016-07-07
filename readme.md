@@ -1,8 +1,8 @@
-#books
+# books
 
-> my reading notes at [books.sayan.ee](https://books.sayan.ee/)
+> my reading notes at [books.sayan.ee](https://books.sayan.ee)
 
-## start in 3 steps
+## quick start
 
 1. install packages: `npm i && bundle install`
 - start the website: `npm start`
@@ -15,7 +15,7 @@
 
 ## contribute
 
-You are welcome to [raise a pull request](https://help.github.com/articles/using-pull-requests/) or [an issue](https://github.com/sayanee/books/issues) to correct [the notes](/_posts).
+You are welcome to [raise a pull request](https://help.github.com/articles/using-pull-requests/) to correct [the notes](/_posts) in the `_posts` directory.
 
 ## license
 
