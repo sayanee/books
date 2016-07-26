@@ -6,7 +6,7 @@
   "scripts": {
     "build": "sass css/main.sass:css/main.css",
     "deploy": "git push origin gh-pages",
-    "start": "sass css/main.sass:css/main.css && bundle exec jekyll serve",
+    "start": "sass css/main.sass:css/main.css && jekyll serve",
     "test": "echo nothing yet!",
     "watch": "sass --watch css/main.sass:css/main.css"
   },
