@@ -9,7 +9,7 @@ recommend: yes
 
 After reading about the history of Silicon Valley, this book of Industrial Revolution gave me more insights on the critical ingredients required for innovation and progress. In summary they are:
 
-1. belief that our present generation is capable in knowing and solving more than the past
+- belief that our present generation is capable in knowing and solving more than the past
 - ditching blind reverence for the ancients
 - establishment of autonomous grassroots groups of interests
 - emphasis on learning by doing and experiments
