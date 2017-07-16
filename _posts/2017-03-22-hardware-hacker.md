@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adventures in Making and Breaking Hardware"
+title:  "The Hardware Hacker"
 authors: Andrew “bunnie” Huang
 categories:
 - books
