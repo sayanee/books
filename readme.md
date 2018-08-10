@@ -2,18 +2,12 @@
 
 > my reading notes at [books.sayan.ee](https://books.sayan.ee)
 
-## quick start
+## Getting Started
 
-1. install packages: `npm i && bundle install`
-1. start the website: `npm start`
-1. read the book notes at [localhost:4000](http://0.0.0.0:4000) in the browser
+1. Run `make install` to download dependancies
+1. Run `make serve` to run the site locally
 
-## develop
-
-1. build the stylesheets: `npm run build`
-1. continuously build the stylesheets: `npm run watch`
-
-## contribute
+## Contribute
 
 You are welcome to [raise a pull request](https://help.github.com/articles/using-pull-requests/) to correct [the notes](/_posts) in the `_posts` directory.
 
