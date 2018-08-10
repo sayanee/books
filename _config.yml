@@ -1,7 +1,6 @@
 title: Books
 subtitle: my reading notes
-description: > # this means to ignore newlines until "baseurl:"
-  Book reviews of the stuff I read
+description: Book reviews of the stuff I read
 url: "https://books.sayan.ee"
 twitter_username: jekyllrb
 github_username:  jekyll
