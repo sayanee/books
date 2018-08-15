@@ -273,12 +273,6 @@ a {
   margin: 0.5em 0 -0.1em 0;
   line-height: 0.9; }
 
-.subtitle {
-  font-family: "Droid Serif", sans-serif;
-  color: gray;
-  text-align: right;
-  font-size: 2vw; }
-
 .meta {
   font-size: 0.9em;
   color: #1cbd49; }
@@ -292,10 +286,7 @@ a {
     width: 100%; }
 
   .title {
-    font-size: 36vw; }
-
-  .subtitle {
-    font-size: 4vw; } }
+    font-size: 36vw; } }
 @media only screen and (max-width: 600px) {
   h1 {
     font-size: 2em; }
