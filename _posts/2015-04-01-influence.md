@@ -4,7 +4,7 @@ title:  "Influence"
 authors: Robert B. Cialdini
 categories:
 - books
-recommend: yes
+
 ---
 
 Influence principles

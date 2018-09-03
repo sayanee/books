@@ -4,7 +4,7 @@ title: Pleasure of Finding things out
 authors: Richard Feynman
 categories:
 - Books
-recommend: yes
+
 ---
 
 

@@ -4,7 +4,7 @@ title: The Art of War by Sun Tzu
 authors: Sun Tzu
 categories:
 - Books
-recommend: yes
+
 ---
 
 

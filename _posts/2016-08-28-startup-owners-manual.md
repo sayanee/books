@@ -4,7 +4,7 @@ title:  "The Startup Owner's Manual"
 authors: Steve Blank and Bob Dorf
 categories:
 - books
-recommend: yes
+
 ---
 
 **Reading period**: 3 August 2016 - 28 August 2016

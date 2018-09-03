@@ -4,7 +4,7 @@ title: Brief History of Time
 authors: Stephen Hawking
 categories:
 - Books
-recommend: yes
+
 ---
 
 

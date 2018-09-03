@@ -4,7 +4,7 @@ title: Richest Man in Babylon
 authors: George S. Clason
 categories:
 - Books
-recommend: yes
+
 ---
 
 - **Book Title**: The Richest Man in Babylon

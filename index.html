@@ -17,7 +17,6 @@ layout: default
   <table class="post-list">
     <thead>
       <tr>
-        <th> 👍 </th>
         <th>date</th>
         <th>title</th>
         <th>author(s)</th>
@@ -25,15 +24,12 @@ layout: default
     </thead>
     {% for post in site.posts %}
       <tr class="click-row" data-href="{{ post.url | prepend: site.baseurl }}">
-        <td>{% if post.recommend %}👍{% endif %}</td>
         <td>{{ post.date | date: "%-d %b %Y" }}</td>
         <td>{{ post.title }}</td>
         <td>{{ post.authors }}</td>
       </tr>
     {% endfor %}
   </table>
-
-  <p>👍 : I gained a deeper perspective by reading this book.</p>
 </div>
 
 <script>

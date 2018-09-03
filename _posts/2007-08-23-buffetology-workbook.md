@@ -4,7 +4,7 @@ title: Buffetology Workbook
 authors: Mary Buffet and David Clark
 categories:
 - Books
-recommend: yes
+
 ---
 
 - **Book Title**: The Buffetology Workbook - Value Investing the Warren Buffet Way

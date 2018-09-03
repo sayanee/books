@@ -4,7 +4,7 @@ title: Understanding Exposure by Bryan Peterson
 authors: Bryan Peterson
 categories:
 - Books
-recommend: yes
+
 ---
 
 

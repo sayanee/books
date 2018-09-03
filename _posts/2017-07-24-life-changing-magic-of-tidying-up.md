@@ -4,7 +4,7 @@ title:  "The Life-Changing Magic of Tidying Up"
 authors: Marie Kondo
 categories:
 - books
-recommend: yes
+
 ---
 
 Tidying up clutter == tidying up life -- life transforming

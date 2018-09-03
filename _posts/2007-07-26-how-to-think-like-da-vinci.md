@@ -4,7 +4,7 @@ title: How to think like Da Vinci
 authors: Michael Gelb
 categories:
 - Learning
-recommend: yes
+
 ---
 
 - **Book Title**: How to think like Leonardo Da Vinci: 7 steps to the Genius Every day

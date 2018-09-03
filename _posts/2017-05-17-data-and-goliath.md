@@ -4,7 +4,7 @@ title:  "Data and Goliath: The Hidden Battles to Collect Your Data and Control Y
 authors: Bruce Schneier
 categories:
 - books
-recommend: yes
+
 ---
 
 Every web developer / engineers working with the Internet should read this so that we are aware of what we are engineering, so that we can effectively build transparent and accountable data collection, so that we build systems that uses encryption and safety vulnerability declaration.

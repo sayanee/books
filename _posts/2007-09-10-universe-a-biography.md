@@ -4,7 +4,7 @@ title: Universe - A Biography by John Gribbin
 authors: John Gribbin
 categories:
 - Books
-recommend: yes
+
 ---
 
 

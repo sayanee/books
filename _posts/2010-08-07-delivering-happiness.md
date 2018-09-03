@@ -4,7 +4,7 @@ title: Delivering Happiness
 authors: Tony Hsieh
 categories:
 - Books
-recommend: yes
+
 ---
 
 

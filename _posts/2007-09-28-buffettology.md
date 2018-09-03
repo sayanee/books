@@ -4,7 +4,7 @@ title: Buffettology
 authors: Mary Buffet & David Clark
 categories:
 - Books
-recommend: yes
+
 ---
 
 - **Book Title**: Buffettology - The previously unexplained techniques that have made Warren Buffett the World's most Famous Investor

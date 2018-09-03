@@ -4,7 +4,7 @@ title: Code Reading
 authors: Diomidis Spinellis
 categories:
 - Books
-recommend: yes
+
 ---
 
 - **Book Title**:  [Code Reading: The Open Source Perspective](http://www.amazon.com/Code-Reading-Open-Source-Perspective/dp/0201799405)

@@ -4,7 +4,7 @@ title: Einstein, Picasso
 authors: Arthur I. Miller
 categories:
 - Books
-recommend: yes
+
 ---
 
 

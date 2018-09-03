@@ -4,7 +4,7 @@ title:  "Alibaba's World"
 authors: Porter Erisman
 categories:
 - books
-recommend: yes
+
 ---
 
 This book was written by one of Alibaba's early employees. Interesting to see how this company grew in a non-traditional technology city and led by someone who's not technical.

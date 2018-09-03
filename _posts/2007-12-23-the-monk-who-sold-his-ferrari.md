@@ -4,7 +4,7 @@ title: The Monk who sold his Ferrari
 authors: Robin S. Sharma
 categories:
 - Books
-recommend: yes
+
 ---
 
 

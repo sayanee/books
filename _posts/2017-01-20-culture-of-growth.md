@@ -4,7 +4,7 @@ title:  "A Culture of Growth: The Origins of the Modern Economy"
 authors: Mokyr, Joel
 categories:
 - books
-recommend: yes
+
 ---
 
 After reading about the history of Silicon Valley, this book of Industrial Revolution gave me more insights on the critical ingredients required for innovation and progress. In summary they are:

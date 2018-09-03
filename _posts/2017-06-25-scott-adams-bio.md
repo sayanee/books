@@ -4,7 +4,7 @@ title:  "How to Fail at Almost Everything and Still Win Big"
 authors: Scott Adams
 categories:
 - books
-recommend: yes
+
 ---
 
 The Six Filters for Truth:

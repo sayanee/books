@@ -4,7 +4,7 @@ title: How to be Idle
 authors: Tom Hodgkinson
 categories:
 - Books
-recommend: yes
+
 ---
 
 

@@ -4,7 +4,7 @@ title: Cashflow Quadrant
 authors: Robert Kiyosaki
 categories:
 - Books
-recommend: yes
+
 ---
 
 - **Book Title**: Cashflow Quadrant-Rich dad's guide to financial freedom

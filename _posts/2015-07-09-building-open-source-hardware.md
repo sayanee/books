@@ -4,7 +4,7 @@ title:  "Building Open Source Hardware"
 authors: Alicia Gibb
 categories:
 - books
-recommend: yes
+
 ---
 
 Motive

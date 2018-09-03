@@ -4,7 +4,7 @@ title:  "Superintelligence"
 authors: Walter Issacson
 categories:
 - books
-recommend: yes
+
 ---
 
 Wanted to read this books as Elon Musk recommended it a few times. Possibly my first introduction to AI.

@@ -4,7 +4,7 @@ title: A new earth
 authors: Eckhart Tolle
 categories:
 - Books
-recommend: yes
+
 ---
 
 

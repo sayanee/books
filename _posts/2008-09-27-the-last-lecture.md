@@ -4,7 +4,7 @@ title: The last Lecture
 authors: Randy Pausch
 categories:
 - Books
-recommend: yes
+
 ---
 
 

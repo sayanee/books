@@ -4,7 +4,7 @@ title:  "The Black Swan"
 authors: Nassim Nicholas Taleb
 categories:
 - books
-recommend: yes
+
 ---
 
 What is a Black Swan?

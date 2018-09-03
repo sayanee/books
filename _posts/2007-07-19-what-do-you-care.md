@@ -4,7 +4,7 @@ title: What do you care what other people think
 authors: Richard P. Feynman
 categories:
 - Books
-recommend: yes
+
 ---
 
 

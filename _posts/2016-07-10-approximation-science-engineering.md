@@ -4,7 +4,7 @@ title:  "The Art of approximation in Science and Engineering"
 authors: MIT
 categories:
 - books
-recommend: yes
+
 ---
 
 This book is almost like a life skill - how to approximate things, but in the process how to make sense of it, derive knowledge from existing knowledge. There are plenty of classical physics examples to show how such approximations can be done especially in the context of mechanics (physics) and engineering.

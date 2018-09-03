@@ -4,7 +4,7 @@ title:  "My Life and Work"
 authors: Henry Ford
 categories:
 - books
-recommend: yes
+
 ---
 
 Always a thirst of progress

@@ -4,7 +4,7 @@ title: Anything You Want
 authors: Derek Sivers
 categories:
 - Books
-recommend: yes
+
 ---
 
 - **Title**: [Anything You Want](http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118)

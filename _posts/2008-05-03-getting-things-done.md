@@ -4,7 +4,7 @@ title: Getting Things Done
 authors: David Allen
 categories:
 - Books
-recommend: yes
+
 ---
 
 

@@ -4,7 +4,7 @@ title: Autobiography of Benjamin Franklin
 authors: Benjamin Franklin
 categories:
 - Books
-recommend: yes
+
 ---
 
 - **Book Title:** Franklin's Autobiography

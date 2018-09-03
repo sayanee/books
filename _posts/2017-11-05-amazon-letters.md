@@ -4,7 +4,7 @@ title:  "Shareholder's letter from Jeff Bezos"
 authors: Jeff Bezos
 categories:
 - letters
-recommend: yes
+
 ---
 
 Despite the letters being written for 20 years, 2 decades, there were some themes that held consistent:

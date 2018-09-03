@@ -4,7 +4,7 @@ title:  "Cathedral and Bazaar"
 authors: Eric S. Raymond
 categories:
 - books
-recommend: yes
+
 ---
 
 A deeply insightful book on why open source model works and how it works. Highly recommended for anyone who wants to lead open source projects, which is increasingly becoming a pivotal step towards any software development. Note that this was written in the late 1990s, hence looking back we might have more examples from today. [Here's the free version on the Internet](http://www.catb.org/esr/writings/cathedral-bazaar/).

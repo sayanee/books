@@ -4,7 +4,7 @@ title:  "The Everything Store"
 authors: Brad Stone
 categories:
 - books
-recommend: yes
+
 ---
 
 This is a good starting book to get an insight on how Amazon was built by its founding team.

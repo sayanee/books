@@ -4,7 +4,7 @@ title:  "The Hardware Hacker"
 authors: Andrew “bunnie” Huang
 categories:
 - books
-recommend: yes
+
 ---
 
 ## Attitude

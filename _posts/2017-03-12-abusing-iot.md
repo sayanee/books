@@ -4,7 +4,7 @@ title:  "Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts"
 authors: Nitesh Dhanjani
 categories:
 - books
-recommend: yes
+
 ---
 
 This book has plenty of real-life consumer device examples to learn from.

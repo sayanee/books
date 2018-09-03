@@ -4,7 +4,7 @@ title:  "The Silent Intelligence - The Internet of Things"
 authors: Daniel Kellmereit and Daniel Obodovski
 categories:
 - books
-recommend: yes
+
 ---
 
 Taking years for acceptance

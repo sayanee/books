@@ -4,7 +4,7 @@ title:  "The Effective Engineer"
 authors: Edmund Lau
 categories:
 - books
-recommend: yes
+
 ---
 
 Effective == Results

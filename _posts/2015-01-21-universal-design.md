@@ -4,7 +4,7 @@ title:  "Universal Principles of Design"
 authors: Lidwell, Holden and Butler
 categories:
 - books
-recommend: yes
+
 ---
 
 80/20

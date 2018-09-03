@@ -4,7 +4,7 @@ title:  "My Inventions"
 authors: Nikola Tesla
 categories:
 - books
-recommend: yes
+
 abstract: This is the autobiography of Nikola Tesla. He writes about his childhood, experiments and most importantly for me the process of his thinking and tenacity to stick to something until it's done. An inspiring read for any scientist and engineer.
 ---
 

@@ -4,7 +4,7 @@ title: Tao Te Ching
 authors: Lao Tzu
 categories:
 - Books
-recommend: yes
+
 ---
 
 

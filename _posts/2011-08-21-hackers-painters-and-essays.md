@@ -4,7 +4,7 @@ title: Hackers & Painters and Essays
 authors: Paul Graham
 categories:
 - Books
-recommend: yes
+
 ---
 
 - **Book**: [Hackers &amp; Painters](http://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/0596006624) and [Essays](http://paulgraham.com/articles.html) by Paul Graham

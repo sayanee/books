@@ -4,7 +4,7 @@ title: Discover your Genius
 authors: Michael Gelb
 categories:
 - Books
-recommend: yes
+
 ---
 
 

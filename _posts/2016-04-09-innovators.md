@@ -4,7 +4,7 @@ title:  "Innovators"
 authors: Walter Issacson
 categories:
 - books
-recommend: yes
+
 ---
 
 Collaboration on various industry sectors

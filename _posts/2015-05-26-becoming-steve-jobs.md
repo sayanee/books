@@ -4,7 +4,7 @@ title:  "Becoming Steve Jobs"
 authors: Brent Schlender, Rick Tetzeli
 categories:
 - books
-recommend: yes
+
 ---
 
 Forward thinking >> Past veneration

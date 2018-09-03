@@ -4,7 +4,7 @@ title: Awaken the Giant within
 authors: Tony Robbins
 categories:
 - Books
-recommend: yes
+
 ---
 
 

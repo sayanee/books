@@ -4,7 +4,7 @@ title:  "Deskbound: Standing up to a sitting world"
 authors: kelly Starrett
 categories:
 - books
-recommend: yes
+
 ---
 
 Posture !== exercise

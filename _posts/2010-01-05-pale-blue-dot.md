@@ -4,7 +4,7 @@ title: Pale Blue Dot
 authors: Carl Sagan
 categories:
 - Books
-recommend: yes
+
 ---
 
 
