@@ -182,9 +182,9 @@ html {
 
 body {
   margin: 0 auto;
-  width: 960px;
+  width: 90%;
   font-family: "Montserrat", sans-serif;
-  font-size: 1em;
+  font-size: 1.2em;
   color: #000;
   line-height: 1.58; }
 
@@ -192,7 +192,7 @@ header {
   margin: 3em 0 0 0; }
 
 article {
-  width: 800px;
+  width: 90%;
   margin: 0 auto;
   margin-bottom: 100px; }
 
@@ -203,6 +203,9 @@ hr {
   border-top: 1px solid #eee;
   margin: 1em 0;
   padding: 0; }
+
+.home {
+  width: 100%; }
 
 .menu {
   text-align: right; }
@@ -270,8 +273,8 @@ a {
   text-transform: uppercase;
   font-family: "Oswald", sans-serif;
   padding: 0;
-  margin: 0.5em 0 -0.1em 0;
-  line-height: 0.9; }
+  margin: 0;
+  font-weight: normal; }
 
 .meta {
   font-size: 0.9em;
