@@ -183,7 +183,7 @@ html {
 body {
   margin: 0 auto;
   width: 960px;
-  font-family: "Droid Serif", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 1em;
   color: #000;
   line-height: 1.58; }
@@ -248,7 +248,7 @@ blockquote p {
   padding: 1.2em;
   line-height: 1.6;
   color: rgba(0, 0, 0, 0.6);
-  font-family: "Josefin Slab", serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 1.5em; }
 
 code {
@@ -268,7 +268,7 @@ a {
   font-size: 26em;
   text-align: center;
   text-transform: uppercase;
-  font-family: "Economica", sans-serif;
+  font-family: "Oswald", sans-serif;
   padding: 0;
   margin: 0.5em 0 -0.1em 0;
   line-height: 0.9; }
