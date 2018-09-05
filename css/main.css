@@ -268,7 +268,7 @@ a {
     text-decoration: underline; }
 
 .title {
-  font-size: 26em;
+  font-size: 30vw;
   text-align: center;
   text-transform: uppercase;
   font-family: "Oswald", sans-serif;
@@ -286,10 +286,7 @@ a {
     font-size: 0.8em; }
 
   article {
-    width: 100%; }
-
-  .title {
-    font-size: 36vw; } }
+    width: 100%; } }
 @media only screen and (max-width: 600px) {
   h1 {
     font-size: 2em; }
