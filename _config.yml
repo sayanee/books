@@ -2,7 +2,5 @@ title: Books
 subtitle: my reading notes
 description: Book reviews of the stuff I read
 url: "https://books.sayan.ee"
-twitter_username: jekyllrb
-github_username:  jekyll
 markdown: kramdown
 permalink: /:title
