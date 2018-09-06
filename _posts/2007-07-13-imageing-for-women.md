@@ -2,8 +2,7 @@
 layout: post
 title: Imaging for Women
 authors: Sharlyn Stafford
-categories:
-- Books
+
 ---
 
 - **Book Title**:Imaging for Women- Colour, Style and Make-Up

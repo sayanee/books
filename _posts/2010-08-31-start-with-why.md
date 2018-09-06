@@ -2,8 +2,7 @@
 layout: post
 title: Start with WHY
 authors: Simon Sinek
-categories:
-- Books
+
 ---
 
 - **Book Title**: [Start with WHY](http://www.startwithwhy.com/) - How Great Leaders Inspire Everyone to Take Action
@@ -90,4 +89,3 @@ Small vs Big companies...
 personal success...
 
 > ... some people, while in pursuit of success, simply mistake WHAT they achieve as the final destination. This is the reason they never feel satisfied no matter how big their yacht is, no matter how much they achieve. The false assumption we often make is that if we simply achieve more, the feeling of success will follow. But it rarely does.
-

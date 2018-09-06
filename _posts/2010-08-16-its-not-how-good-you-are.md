@@ -2,8 +2,7 @@
 layout: post
 title: It's not how good you are
 authors: Paul Arden
-categories:
-- Books
+
 ---
 
 - **Book Title**: It's not how good you are, it's how good you want to be
@@ -52,4 +51,3 @@ Get out of advertising...
 Present creative work first...
 
 > Try opening with the creative work. If he likes it he'll listen with interest to whatever else is said. If he doesn't, you're dead anyway, and it will shorten the meeting.
-

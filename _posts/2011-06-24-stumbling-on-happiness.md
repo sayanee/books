@@ -2,8 +2,6 @@
 layout: post
 title: Stumbling on Happiness
 authors: Daniel Gilbert
-categories:
-- Books
 
 ---
 

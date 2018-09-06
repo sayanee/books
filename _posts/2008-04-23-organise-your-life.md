@@ -2,10 +2,8 @@
 layout: post
 title: Organise your life
 authors: Eisenberg, Kelly
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Organise Your Life - Free yourself from Clutter & find more personal time
 - **Author**: Roni Eisenberg with kate Kelly

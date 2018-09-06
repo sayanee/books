@@ -2,8 +2,6 @@
 layout: post
 title: Code Reading
 authors: Diomidis Spinellis
-categories:
-- Books
 
 ---
 

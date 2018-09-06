@@ -2,11 +2,8 @@
 layout: post
 title: A new earth
 authors: Eckhart Tolle
-categories:
-- Books
 
 ---
-
 
 - **Book Title**: A new earth – Awakening to your life’s purpose
 - **Author**: Eckhart Tolle

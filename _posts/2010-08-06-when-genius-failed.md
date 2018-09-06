@@ -2,8 +2,6 @@
 layout: post
 title: When Genius Failed
 authors: Roger Lowenstein
-categories:
-- Books
 
 ---
 

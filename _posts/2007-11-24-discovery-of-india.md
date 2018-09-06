@@ -2,15 +2,13 @@
 layout: post
 title: Discovery of India
 authors: Jawaharlal Nehru
-categories:
-- Books
----
 
+---
 
 - **Book Title:** Discovery of India
 - **Author:** [Jawaharlal Nehru ](http://en.wikipedia.org/wiki/Jawaharlal_Nehru)
 - **Year written/published:** 1933
-- **Book Source:** [Google Books](http://books.google.com/- books?id=rHA9AAAAMAAJ&dq=discovery+of+India&pgis=1), [Library](http://vistaweb.nlb.gov.- sg/cgi-bin/cw_cgi?fullRecord+10103+3002+12567732+1+1)
+- **Book Source:** [Google Books](http://books.google.com/?id=rHA9AAAAMAAJ&dq=discovery+of+India&pgis=1), [Library](http://vistaweb.nlb.gov.- sg/cgi-bin/cw_cgi?fullRecord+10103+3002+12567732+1+1)
 - **Summary:**Father of Indira Gandhi and Grand Father of Rajiv Gandhi, Jawaharlal Nehru was the first Prime Minister of India in 1947. He wrote this book while in prison. Discovery of India talks about the history and transition of India to what it is today... it's a really inspiring and eye opening book. Anybody who want to read about - the Indian civilisation and Nehru's thoughts about India must definitely read this book.
 - **My Comments:** It's a truly thought provoking book... i never knew Nehru is just a - great writer too. A thorough knowledge of history from the pre-aryan ages... Nehru also - inputs his own thoughts about the way numerous people and cultures and believes that - has shaped India.
 - **Some extracts:**

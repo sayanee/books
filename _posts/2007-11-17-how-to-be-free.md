@@ -2,10 +2,8 @@
 layout: post
 title: How to be Free
 authors: Tom Hodgkinson
-categories:
-- Books
----
 
+---
 
 - **Book Title:** How to be Free
 - **Author:**Tom Hodgkinson

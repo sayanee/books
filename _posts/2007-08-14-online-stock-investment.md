@@ -2,10 +2,8 @@
 layout: post
 title: Online Stock Investment
 authors: Loh, Soh & Lai
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Online Stock Investment: 5 simple steps to Profit
 - **Author**:Leslie Loh, Charlie Soh, Stephen Lai

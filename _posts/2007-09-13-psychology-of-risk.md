@@ -2,10 +2,8 @@
 layout: post
 title: Psychology of Risk
 authors: Ari Kiev
-categories:
-- Books
----
 
+---
 
 - **Book Title**: The Psychology of Risk - Mastering Market Uncertainty
 - **Author**: Ari Kiev
@@ -92,4 +90,3 @@ other discussions...
 conclusion...
 
 > The market is like a blank canvas on which you can create your vision. If you can take risks in the present moment without regard to your history and without regard to your limiting thoughts ab out how things are supposed to be, you can begin to trade successfully in line with that vision today.... ...  Mastery can, in fact, be boiled down to 2 basic premises: 1)defining a goal and a strategy by which to reach that goal and 2)trading in terms of what is keeping you form the realisations of that goal. When you trade with the lens of your vision, you will see reality more clearly and will be able to take risks more consciously with definite intentions to produce specific results in a specific way.
-

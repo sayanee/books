@@ -2,8 +2,6 @@
 layout: post
 title:  "The Idea Factory"
 authors: Jon Gertner
-categories:
-- books
 
 ---
 

@@ -2,8 +2,6 @@
 layout: post
 title:  "Influence"
 authors: Robert B. Cialdini
-categories:
-- books
 
 ---
 

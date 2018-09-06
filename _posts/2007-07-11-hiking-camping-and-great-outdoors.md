@@ -2,10 +2,8 @@
 layout: post
 title: Hiking, Camping and Great Outdoors
 authors: Michael Mouland
-categories:
-- Books
----
 
+---
 
 - **Book Title**: The Complete Idiot's Guide to Hiking, Camping and the Great Outdoors
 - **Author**: Michael Mouland

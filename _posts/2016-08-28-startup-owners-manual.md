@@ -2,8 +2,6 @@
 layout: post
 title:  "The Startup Owner's Manual"
 authors: Steve Blank and Bob Dorf
-categories:
-- books
 
 ---
 

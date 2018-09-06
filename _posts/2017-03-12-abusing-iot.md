@@ -2,8 +2,6 @@
 layout: post
 title:  "Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts"
 authors: Nitesh Dhanjani
-categories:
-- books
 
 ---
 

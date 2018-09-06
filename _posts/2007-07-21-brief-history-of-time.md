@@ -2,11 +2,8 @@
 layout: post
 title: Brief History of Time
 authors: Stephen Hawking
-categories:
-- Books
 
 ---
-
 
 - **Book Title**:A Brief History of Time
 - **Author**: [Stephen Hawking ](http://en.wikipedia.org/wiki/Stephen_Hawking)

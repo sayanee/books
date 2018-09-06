@@ -2,10 +2,8 @@
 layout: post
 title: Confident Investing
 authors: Deborah Owens
-categories:
-- Books
----
 
+---
 
 - **Book Title:** Confident Investing
 - **Author:** Deborah Owens

@@ -2,8 +2,7 @@
 layout: post
 title:  "Daily Rituals: How Artists Work"
 authors: Mason Currey
-categories:
-- books
+
 ---
 
 It was heartening and humbling to read various kinds of routine and daily life of composers, writers, painters and then realise that all struggle with work and yet cannot live without it. This quote probably sums up the book:

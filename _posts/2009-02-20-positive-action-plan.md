@@ -2,10 +2,8 @@
 layout: post
 title: Positive Action Plan
 authors: Napoleon Hill
-categories:
-- Books
----
 
+---
 
 - **Book Title:** Positive Action Plan - 365 meditations for making each day a success
 - **Author**: Napoleon Hill
@@ -23,4 +21,3 @@ thoughts in mind...
 decisiveness >
 
 > Success people are decisive; they don't agonise over decisions and thereby miss out on a great opportunity. They gather relevant information, discuss alternatives with advisors whose opinions they respect and then make a decision and get on with it.
-

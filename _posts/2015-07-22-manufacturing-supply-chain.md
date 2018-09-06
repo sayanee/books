@@ -2,8 +2,7 @@
 layout: post
 title:  "Manufacturing and Supply Chain turnaround"
 authors: Charles Clark
-categories:
-- books
+
 ---
 
 Everything in tip-top condition

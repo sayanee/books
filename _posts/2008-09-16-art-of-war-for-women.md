@@ -2,10 +2,8 @@
 layout: post
 title: Art of War for Women
 authors: Ching-ning Chu
-categories:
-- Books
----
 
+---
 
 - **Book Title**: The Art of War for women - Sun Tzu's ancient strategies and wisdom for winning at work
 - **Author**: Ching-Ning Chu
@@ -36,4 +34,3 @@ strategies for overcoming office jealousy...
 2.  Slap her twice the first time she steps out of line. Keep your plan as dark as the night. When you love, be as unpredictable as the thunderbolt.
 3. Support a coworker Support a junior colleague.
 4. learn to pick the sweet fruits from the tree of office jealousies When the offender cannot afford you no matter how she tries, you have taken the fun out of her vicious game and all the power out of her soul. This is the best strategy to manage office jealousy
-

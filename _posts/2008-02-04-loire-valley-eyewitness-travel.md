@@ -2,10 +2,8 @@
 layout: post
 title: Loire Valley Eyewitness Travel
 authors: Jack Tresidder
-categories:
-- Books
----
 
+---
 
 - **Book Title:** Loire Valley Eyewitness Travel
 - **Author:** Jack Tresidder
@@ -54,4 +52,3 @@ Dynasties of the Loire Valley
 town of Tours:
 
 > The medieval old town, Le Vieux Tours, is full of narrow streets lined with beautiful half-timbered houses. Now sensitively restored, it is a lively area crammed with little cafes, bard, restaurant that attract locals as well as tourists.
-

@@ -2,8 +2,6 @@
 layout: post
 title:  "The Art of approximation in Science and Engineering"
 authors: MIT
-categories:
-- books
 
 ---
 

@@ -2,8 +2,6 @@
 layout: post
 title:  "The Life-Changing Magic of Tidying Up"
 authors: Marie Kondo
-categories:
-- books
 
 ---
 
@@ -133,7 +131,7 @@ Haha nice :)
 
 Book categories
 
-> If there are too many books to arrange on the floor all at one time, I ask my clients to divide them into four broad categories: **General (books you read for pleasure) Practical (references, cookbooks, etc.) Visual (photograph collections, etc.) Magazines**
+> If there are too many books to arrange on the floor all at one time, I ask my clients to divide them into four broad  **General (books you read for pleasure) Practical (references, cookbooks, etc.) Visual (photograph collections, etc.) Magazines**
 
 Digital books solve that...
 
@@ -149,11 +147,11 @@ Recognizing and remembering actual info
 
 Papers... also scanning solves it. But delete them after a few years
 
-> For this reason, I recommend you dispose of anything that does not fall into one of three categories: currently in use, needed for a limited period of time, or must be kept indefinitely.
+> For this reason, I recommend you dispose of anything that does not fall into one of three  currently in use, needed for a limited period of time, or must be kept indefinitely.
 
 Inbox or archival - a little bit GTD
 
-> My filing method is extremely simple. I divide them into two categories: papers to be saved and papers that need to be dealt with.
+> My filing method is extremely simple. I divide them into two  papers to be saved and papers that need to be dealt with.
 
 Essentials, but no joy
 

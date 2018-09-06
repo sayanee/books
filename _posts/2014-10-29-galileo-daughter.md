@@ -2,8 +2,7 @@
 layout: post
 title:  "Galileo's Daughter"
 authors: Dava Sobel
-categories:
-- books
+
 ---
 
 Galileo and Bruno

@@ -2,10 +2,8 @@
 layout: post
 title: Day trade part-time
 authors: Cook and Szwec
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Day Trade part-time
 - **Author**:John cook and Jeanette Szwec

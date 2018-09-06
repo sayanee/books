@@ -2,11 +2,8 @@
 layout: post
 title: Unlimited Power
 authors: Anthony Robbins
-categories:
-- Books
+
 ---
-
-
 
 - **Book Title**: Unlimited Power
 - **Author**: Anthony Robbins
@@ -47,4 +44,3 @@ opposites attract?
 stories...
 
 > There's a famous story told about Tom Watson, the founder of IBM. One of his subordinates had made a horrendous mistake that has cost the company and said, "I suppose you want my resignation.: Watson looked at him and said, "Are you kidding? we just spent 10 million dollars educating you!"
-

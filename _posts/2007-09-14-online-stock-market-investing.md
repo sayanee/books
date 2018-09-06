@@ -2,10 +2,8 @@
 layout: post
 title: Online Stock Market Investing
 authors: Alexander Davidson
-categories:
-- Books
----
 
+---
 
 - **Book Title**: The Complete Guide to Online Stock Market Investing - The Definitive 20-Day guide
 - **Author**: Alexander Davidson

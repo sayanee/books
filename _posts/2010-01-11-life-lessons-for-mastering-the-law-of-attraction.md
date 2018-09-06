@@ -2,10 +2,8 @@
 layout: post
 title: Life Lessons for Mastering the Law of Attraction
 authors: Canfield, Hansen, Gabellini, Gregory
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Life Lessons for Mastering the Law of Attraction - 7 Essential Ingredients for Living a Prosperous Life
 - **Author**: Jack Canfield, Mark Victor Hansen, Jeasnna Gabellini, Eva Gregory

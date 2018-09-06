@@ -2,11 +2,8 @@
 layout: post
 title: The Intelligent Invester
 authors: Benjamin Graham
-categories:
-- Books
 
 ---
-
 
 - **Book Title:** The Intelligent Investor - The Classic text on Value Investing
 - **Author:** [Benjamin Graham](http://en.wikipedia.org/wiki/Benjamin_Graham)

@@ -2,10 +2,8 @@
 layout: post
 title:  "The Hardware Startup"
 authors: DiResta, Renee; Forrest, Brady; Vinyard, Ryan
-categories:
-- books
----
 
+---
 
 Building software company is much easier now
 
@@ -41,7 +39,7 @@ Comparison to the web or computer era
 
 Categories
 
-> Most hardware startups make products that fall into one of four subcategories: **connected devices, personal sensor devices, robotics, and designed products**.
+> Most hardware startups make products that fall into one of four sub **connected devices, personal sensor devices, robotics, and designed products**.
 
 Connected device
 

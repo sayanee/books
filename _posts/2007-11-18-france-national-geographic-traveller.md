@@ -2,15 +2,13 @@
 layout: post
 title: France - National geographic Traveller
 authors: Rosemary Bailey
-categories:
-- Books
----
 
+---
 
 - **Book Title:** France - National Geographic Traveller
 - **Author:** Rosemary Bailey
 - **Year written/published:** 2007
-- **Book Source:** [Google Books](http://books.google.com/- books?id=PyLpAgAACAAJ&dq=france+national+geographic+traveler+bailey)
+- **Book Source:** [Google Books](http://books.google.com/?id=PyLpAgAACAAJ&dq=france+national+geographic+traveler+bailey)
 - **My Comments:** Really informative with driving routes, walking routes and regional - maps! France has too many architecture, castles and palace and cathedrals... and they - are all so beautiful!!!!
 - **Contents page:**
   1. History and Culture

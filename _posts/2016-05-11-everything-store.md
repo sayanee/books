@@ -2,8 +2,6 @@
 layout: post
 title:  "The Everything Store"
 authors: Brad Stone
-categories:
-- books
 
 ---
 

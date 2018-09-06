@@ -2,8 +2,6 @@
 layout: post
 title:  "Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World"
 authors: Bruce Schneier
-categories:
-- books
 
 ---
 

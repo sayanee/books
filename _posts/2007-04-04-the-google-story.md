@@ -2,10 +2,8 @@
 layout: post
 title: The Google Story
 authors: David Vise
-categories:
-- Books
----
 
+---
 
 Just finished this book... [check out it's website](http://thegooglestory.com/)! 
 
@@ -32,4 +30,3 @@ Google's management and financial model by [Schmidt](http://en.wikipedia.org/wik
 >
 
 > Schmidt explained they were allocated 70/20/10. By that, he meant that 70 percent was put into core search and advertising, 20% was put into adjacent products and 10% was invested in totally new ideas, the vision of things to come. "You have to work on your core business because that is the thing that brings in the cash flow, the customers, the business," he said. As for the 10%, "We have a very sipohisticated set of product managers and technology leaders who understand how to take some of these brilliant ideas and turn them into businesses."
-

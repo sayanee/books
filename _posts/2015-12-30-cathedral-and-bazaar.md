@@ -2,8 +2,6 @@
 layout: post
 title:  "Cathedral and Bazaar"
 authors: Eric S. Raymond
-categories:
-- books
 
 ---
 

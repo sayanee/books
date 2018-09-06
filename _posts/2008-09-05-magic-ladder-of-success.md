@@ -2,10 +2,8 @@
 layout: post
 title: Magic Ladder of Success
 authors: Napolean Hill
-categories:
-- Books
----
 
+---
 
 - **Book Title:** Magic Ladder to Success
 - **Author**: Napolean Hill

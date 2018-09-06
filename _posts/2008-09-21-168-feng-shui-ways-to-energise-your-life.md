@@ -2,10 +2,8 @@
 layout: post
 title: 168 Feng Shui ways to Energise your Life
 authors: Lillian Too
-categories:
-- Books
----
 
+---
 
 - **Book Title**: 168 Feng Shui Ways to Energise your Life
 - **Author**: Lillian Too

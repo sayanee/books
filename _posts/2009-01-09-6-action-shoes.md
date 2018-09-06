@@ -2,10 +2,8 @@
 layout: post
 title: 6 action shoes
 authors: Edward de Bono
-categories:
-- Books
----
 
+---
 
 - **Book Title**: 6 action shoes
 - **Author**: Edward de Bono

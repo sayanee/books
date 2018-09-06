@@ -2,8 +2,7 @@
 layout: post
 title: Never Eat Alone
 authors: Keith Ferrazzi
-categories:
-- Books
+
 ---
 
 ![](/img/never-eat-alone2.jpg "never-eat-alone")
@@ -25,4 +24,3 @@ getting info:
 on people:
 
 > Our strength comes from what we do and know cumulatively. The fact is, no one gets ahead in this world without a lot of help. Eliminating things like intimidation and manipulation, there is only one way to get anybody to do anything. Do you know what it is? This is far from a trivial question. Business is, after all, the ability to motivate a group of individuals to move an idea from concept to reality; to take a theory and make it a practice; to gain the buy-in of your employees and colleagues; to encourage others to execute your plans.
-

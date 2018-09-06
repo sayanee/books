@@ -2,10 +2,8 @@
 layout: post
 title: Self Leadership and the 101 Minute Manager
 authors: Blanchard, Fowler, Hawkins
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Self Leadership and the 101 Minute Manager
 - **Authors**: Ken Blanchard, Susan Fowler, Laurence Hawkins

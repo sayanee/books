@@ -2,8 +2,7 @@
 layout: post
 title:  "Steve Jobs"
 authors: Walter Issacson
-categories:
-- books
+
 ---
 
 Who is Steve Jobs?

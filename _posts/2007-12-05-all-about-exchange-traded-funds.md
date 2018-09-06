@@ -2,10 +2,8 @@
 layout: post
 title: All about exchange traded funds
 authors: Archie M. Richards
-categories:
-- Books
----
 
+---
 
 - **Book Title:** All about Exchange-Traded Funds
 - **Author:** Archie M. Richards

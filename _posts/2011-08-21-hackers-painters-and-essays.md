@@ -2,8 +2,6 @@
 layout: post
 title: Hackers & Painters and Essays
 authors: Paul Graham
-categories:
-- Books
 
 ---
 

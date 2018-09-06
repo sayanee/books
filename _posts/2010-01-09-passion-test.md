@@ -2,8 +2,7 @@
 layout: post
 title: Passion Test
 authors: Janet Attwood and Chris Attwood
-categories:
-- Books
+
 ---
 
 - **Book Title**: The Passion test - Effortless Path to discovering your Life purpose

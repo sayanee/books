@@ -2,8 +2,7 @@
 layout: post
 title:  "Human Javascript"
 authors: Henrik Joreteg
-categories:
-- books
+
 ---
 
 Programming the DOM

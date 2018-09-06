@@ -2,8 +2,6 @@
 layout: post
 title:  "Enchanted Objects: Innovation, Design, and the Future of Technology"
 authors: David Rose
-categories:
-- books
 
 ---
 

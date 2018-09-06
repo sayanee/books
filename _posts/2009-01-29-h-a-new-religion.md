@@ -2,10 +2,8 @@
 layout: post
 title: H+ - a new religion
 authors: Edward de Bono
-categories:
-- Books
----
 
+---
 
 - **Book Title**: H+ - A new Religion
 - **Author**: Edward de Bono

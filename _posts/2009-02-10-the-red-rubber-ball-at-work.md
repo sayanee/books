@@ -2,10 +2,8 @@
 layout: post
 title: The Red Rubber Ball at work
 authors: Kevin Carroll
-categories:
-- Books
----
 
+---
 
 - **Book Title**: The Red Rubber Ball at work
 - **Author**: Kevin Carroll

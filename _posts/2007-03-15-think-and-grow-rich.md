@@ -2,10 +2,8 @@
 layout: post
 title: Think and Grow Rich
 authors: Napolean Hill
-categories:
-- Books
----
 
+---
 
 [Think and Grow Rich](http://en.wikipedia.org/wiki/Think_and_Grow_Rich) - A great book. It was written in 1937 just at the end of the Great Depression. I liked it and if you wanna read it for free, just [download the eBook](http://www.zilliontech.com/knowledge/thinkandgrowrich.html) or [read from a blog ](http://think-and-grow-rich-book.blogspot.com/)or [another website](http://www.absolute1.net/napoleon-hill-think-and-grow-rich.html) :D
 

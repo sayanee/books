@@ -2,8 +2,7 @@
 layout: post
 title:  "Four Steps to the Epiphany"
 authors: Steve Blank
-categories:
-- books
+
 ---
 
 A hero with 1000 faces

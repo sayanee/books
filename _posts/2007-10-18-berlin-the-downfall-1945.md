@@ -2,10 +2,8 @@
 layout: post
 title: Berlin the downfall 1945
 authors: Anthony Beever
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Berlin - The Downfall 1945
 - **Author**: Anthony Beever
@@ -21,4 +19,3 @@ lessons...
 A soldier's word...
 
 > We no longer fought for Hitler, or for National Socialism, or for the 3rd Reich, ' wrote an Alsatian veteran of the _Grossdeutschland_ Division, or even our fiancees or mothers or families trapped in bomb ravaged town. We fought for simple fear... We fought for ourselves, so that we wouldn't die in holes filled with mud and snow; we fought like rats.
-

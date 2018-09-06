@@ -2,8 +2,6 @@
 layout: post
 title:  "Universal Principles of Design"
 authors: Lidwell, Holden and Butler
-categories:
-- books
 
 ---
 

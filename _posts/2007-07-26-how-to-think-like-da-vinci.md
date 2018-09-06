@@ -2,8 +2,6 @@
 layout: post
 title: How to think like Da Vinci
 authors: Michael Gelb
-categories:
-- Learning
 
 ---
 

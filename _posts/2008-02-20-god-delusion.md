@@ -2,11 +2,8 @@
 layout: post
 title: God Delusion by Richard Dawkins
 authors: Richard Dawkins
-categories:
-- Books
 
 ---
-
 
 - **Book Title**: The God Delusion
 - **Author**: [Richard Dawkins ](http://richarddawkins.net/)

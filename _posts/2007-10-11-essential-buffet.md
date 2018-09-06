@@ -2,8 +2,7 @@
 layout: post
 title: Essential Buffet
 authors: Robert Hagstrom
-categories:
-- Books
+
 ---
 
 - **Book Title**: The Essential Buffet - Timeless Principles for the new Economy

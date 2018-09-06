@@ -2,15 +2,13 @@
 layout: post
 title: Effective Project Management
 authors: James P. Clements, Jack Gido
-categories:
-- Books
----
 
+---
 
 - **Book Title:** Effective Project Management
 - **Author:** James P. Clements & Jack Gido
 - **Year written/published:** 2006
-- **Book Source:** [Google Books](http://books.google.com/- books?id=irsiGQAACAAJ&dq=Effective+Project+Management+Clements), [Library](http://vistaweb.nlb.gov.sg- /cgi-bin/cw_cgi?fullRecord+27454+3002+12782453+1+1)
+- **Book Source:** [Google Books](http://books.google.com/?id=irsiGQAACAAJ&dq=Effective+Project+Management+Clements), [Library](http://vistaweb.nlb.gov.sg- /cgi-bin/cw_cgi?fullRecord+27454+3002+12782453+1+1)
 - **Summary:** Project Management theories and tools
 - **My Comments:** This book is a textbook... typically for business students. But i needed a - structured book like this to get an overview of what is Project management
 - **Contents page:**

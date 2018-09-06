@@ -2,10 +2,8 @@
 layout: post
 title: Nice Girls don't get the corner Office
 authors: Lois P. Frankel
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Nice Girls don't get the corner Office - 101 unconscious mistakes women make that sabotage their careers
 - **Author**: Lois P. Frankel

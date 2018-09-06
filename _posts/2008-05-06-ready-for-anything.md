@@ -2,10 +2,8 @@
 layout: post
 title: Ready for Anything
 authors: David Allen
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Ready for Anything – 52 Productivity Principles for Work and life
 - **Author**: David Allen

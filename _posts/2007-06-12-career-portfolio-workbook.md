@@ -2,10 +2,8 @@
 layout: post
 title: Career Portfolio Workbook
 authors: Frank Satterthwaite and Gary D’orsi
-categories:
-- Books
----
 
+---
 
 - **Book Title:** The Career Portfolio Workbook
 - **Author**: Frank Satterthwaite & Gary D’orsi

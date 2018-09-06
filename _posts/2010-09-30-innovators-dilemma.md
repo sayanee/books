@@ -2,8 +2,6 @@
 layout: post
 title: Innovator's Dilemma
 authors: Clayton Christensen
-categories:
-- Books
 
 ---
 

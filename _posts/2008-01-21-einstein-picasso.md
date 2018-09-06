@@ -2,11 +2,8 @@
 layout: post
 title: Einstein, Picasso
 authors: Arthur I. Miller
-categories:
-- Books
 
 ---
-
 
 - **Book Title:** Einstein, Picasso - Space, Time and the Beauty that causes Havoc
 - **Author:** Arthur I. Miller

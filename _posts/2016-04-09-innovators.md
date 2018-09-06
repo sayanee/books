@@ -2,8 +2,6 @@
 layout: post
 title:  "Innovators"
 authors: Walter Issacson
-categories:
-- books
 
 ---
 

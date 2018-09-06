@@ -2,8 +2,7 @@
 layout: post
 title:  "Leaving Earth"
 authors: Andrew Rader
-categories:
-- books
+
 ---
 
 Technology and livable environments

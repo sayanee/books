@@ -2,10 +2,8 @@
 layout: post
 title: Letters from Father to Daughter
 authors: Jawaharlal Nehru
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Letters from a father to his daughter
 - **Author**: Jawaharlal Nehru

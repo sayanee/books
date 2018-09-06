@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Belgium - Insight Guides
-categories:
-- Books
----
 
+---
 
 - **Book Title:** Belgium - Insight Guides
 - **Year written/published:** 2005

@@ -2,8 +2,7 @@
 layout: post
 title:  "Lean Startup"
 authors: Eris Reis
-categories:
-- books
+
 ---
 
 Sections of entrepreneurship

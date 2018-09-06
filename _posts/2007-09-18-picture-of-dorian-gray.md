@@ -2,10 +2,8 @@
 layout: post
 title: Picture of Dorian Gray
 authors: Oscar Wilde
-categories:
-- Books
----
 
+---
 
 - **Book Title**: The Picture of Dorian Gray
 - **Author**: [Oscar Wilde](http://en.wikipedia.org/wiki/Oscar_Wilde)

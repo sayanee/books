@@ -2,10 +2,8 @@
 layout: post
 title: Why the toast always lands butter side down
 authors: Richard Robinson
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Why the toast always lands butter side down
 - **Author**: Richard Robinson

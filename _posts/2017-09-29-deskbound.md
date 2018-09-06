@@ -2,8 +2,6 @@
 layout: post
 title:  "Deskbound: Standing up to a sitting world"
 authors: kelly Starrett
-categories:
-- books
 
 ---
 
@@ -117,4 +115,4 @@ Whole body mobility prescription
 1. Upper Leg
 1. Knee
 1. Lower Leg
-1. Ankle, Foot and Toes 
+1. Ankle, Foot and Toes

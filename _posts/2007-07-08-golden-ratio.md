@@ -2,8 +2,6 @@
 layout: post
 title: Golden Ratio
 authors: Mario Livio
-categories:
-- Books
 
 ---
 

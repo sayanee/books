@@ -2,12 +2,8 @@
 layout: post
 title: Losing my Virginity
 authors: Richard Branson
-categories:
-- Books
 
 ---
-
-
 
 - **Book Title**: Losing my Virginity
 - **Author**: [Richard Branson ](http://en.wikipedia.org/wiki/Richard_Branson)

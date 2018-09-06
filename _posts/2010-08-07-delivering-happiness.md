@@ -2,8 +2,6 @@
 layout: post
 title: Delivering Happiness
 authors: Tony Hsieh
-categories:
-- Books
 
 ---
 

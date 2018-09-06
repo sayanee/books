@@ -2,8 +2,6 @@
 layout: post
 title: Cashflow Quadrant
 authors: Robert Kiyosaki
-categories:
-- Books
 
 ---
 
@@ -27,7 +25,7 @@ Some words…
 - **B quadrant words**:  I’m looking for a new president to run the company”
 - **I quadrant words**:  “Is my cash flow based on an internal rate of return or net rate of return?”
 
-The fear of losing money seems to divide investors into 4 broad categories:
+The fear of losing money seems to divide investors into 4 broad
 
 1. people who are risk-adverse and do nothing but play it safe, keeping their money in the bank
 2. people who turn the job of investing over to someone else, such as the financial advisor or the mutual fund manager

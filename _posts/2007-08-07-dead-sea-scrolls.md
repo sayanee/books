@@ -2,8 +2,7 @@
 layout: post
 title: Dead Sea Scrolls
 authors: Carsten Peter Thiede
-categories:
-- Books
+
 ---
 
 - **Book Title**: The Dead Sea Scrolls and the Jewish Origins of Christianity

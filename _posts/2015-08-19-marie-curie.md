@@ -2,8 +2,6 @@
 layout: post
 title:  "Madame Curie"
 authors: Eve Curie
-categories:
-- books
 
 ---
 

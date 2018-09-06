@@ -2,8 +2,7 @@
 layout: post
 title: Europe through the backdoor
 authors: Rick Steves
-categories:
-- Books
+
 ---
 
 - **Book Title**: Rick Steves' Europe Through the Back Door 2006
@@ -97,4 +96,3 @@ outsmarting thieves...
 money belt items...
 
 > passport, plane ticket, railpass, credit card, debit card, cash, plastic sheath to keep them dry, contact list, trip calendar + calendar
-

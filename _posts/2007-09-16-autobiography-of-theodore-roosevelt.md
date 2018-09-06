@@ -2,10 +2,8 @@
 layout: post
 title: Autobiography of Theodore Roosevelt
 authors: Theodore Roosevelt
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Theodore Roosevelt
 - **Author**: [Theodore Roosevelt ](http://en.wikipedia.org/wiki/Theodore_Roosevelt)

@@ -2,8 +2,8 @@
 layout: post
 title:  "My Life and Work"
 authors: Henry Ford
-categories:
-- books
+
+
 
 ---
 

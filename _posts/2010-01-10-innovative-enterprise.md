@@ -2,10 +2,8 @@
 layout: post
 title: Innovative Enterprise
 authors: HBR Publishing
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Harvard Business Review on the Innovative Enterprise
 - **Author**: HBR Publishing

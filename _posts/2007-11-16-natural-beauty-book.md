@@ -2,10 +2,8 @@
 layout: post
 title: Natural beauty Book
 authors: Josephine Fairley
-categories:
-- Books
----
 
+---
 
 - **Book Title:** The Ultimate Natural Beauty Book - 100 organic beauty products to make - and use easily at home
 - **Author:**Josephine Fairley

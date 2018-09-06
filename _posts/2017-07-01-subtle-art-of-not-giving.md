@@ -2,8 +2,6 @@
 layout: post
 title:  "The Subtle Art of Not Giving a F*ck"
 authors: Mark Manson
-categories:
-- books
 
 ---
 

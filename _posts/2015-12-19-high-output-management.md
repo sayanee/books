@@ -2,8 +2,6 @@
 layout: post
 title:  "High Output Management"
 authors: Andrew S. Grove
-categories:
-- books
 
 ---
 

@@ -2,8 +2,7 @@
 layout: post
 title: Do more faster
 authors: David Cohen, Brad Feld
-categories:
-- Books
+
 ---
 
 - **Book Title**: Do More Faster - TechStars Lessons to Accelerate your Startup

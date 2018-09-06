@@ -2,8 +2,6 @@
 layout: post
 title: Anything You Want
 authors: Derek Sivers
-categories:
-- Books
 
 ---
 

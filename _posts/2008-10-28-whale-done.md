@@ -2,10 +2,8 @@
 layout: post
 title: Whale Done
 authors: Blanchard, Lacinak, Tompkins, Ballard
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Whale Done! The Power of Positive Relationships
 - **Author**: Ken Blanchard, Thad Lacinak, Chuck Tompkins, Jim Ballard
@@ -32,4 +30,3 @@ Redirection of responses...
 - express your continuing trust and confidence in the person
 
 never assume you know what motivates a person
-

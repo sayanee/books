@@ -2,10 +2,8 @@
 layout: post
 title: Create your own future by Brian Tracy
 authors: Brian Tracy
-categories:
-- Books
----
 
+---
 
 - **Book Title:** Create your own future - How to master 12 critical factors of unlimited success
 - **Author:** Brian Tracy

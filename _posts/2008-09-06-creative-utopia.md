@@ -2,10 +2,8 @@
 layout: post
 title: Creative Utopia
 authors: Theo Stephan Williams
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Creative Utopia - 12 ways to realise total creativity
 - **Author**: Theo Stephan Williams
@@ -35,7 +33,6 @@ Fundamental applications of Feng shui:
 5. Use wind chimes outdoors where you can hear them occasionally attract strong, healthful chi
 6. Choose artwork accessories for your office that appeal to you personally
 7. Fish, bird, fountains
-
 
 thinking out of the proverbial box
 

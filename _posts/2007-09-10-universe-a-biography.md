@@ -2,11 +2,8 @@
 layout: post
 title: Universe - A Biography by John Gribbin
 authors: John Gribbin
-categories:
-- Books
 
 ---
-
 
 - **Book Title**: The Universe - A Biography
 - **Author**:John Gribbin

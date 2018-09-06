@@ -2,10 +2,8 @@
 layout: post
 title: Time Line Therapy
 authors: Tad James, Wyatt Woodsmall
-categories:
-- Books
----
 
+---
 
 - **Book Title:** Time Line Therapy and the Basis of Personality
 - **Author:** Tad James & Wyatt Woodsmall
@@ -37,4 +35,3 @@ Detaching Emotions
 > One of the other things I often like to do beforehand is to detach the emotional content of the memories. I'll say something like this: "When you think of a specific event that is particularly unhappy for you, it's OK for you to continue to remember that event, but perhaps you'd like to have the emotions detached from that event. As you think of that particular event, notice down at the lower right-hand corner a little hook there. What I'd like you to do is to unhook the emotions that are there, just unhook them. Now, step out of the picture and make sure you see yourself in the picture. Notice now that changes the event." After you've done it with one event, you can do it with many. If they have a lot of negative events in their Time Line, you can then say, "What I'd like you to do now is to take all the events in the past that you're not particularly happy about, unhook all the emotions that are there." And it does happen. They unhook the emotions. Then the memories that remain are informational rather than negatively emotional.
 
 > We believe that the past should be informational rather than negatively emotional. We have learnings from the past. It is important that we learned from those events, and we probably stored those learnings in that special place we reserve for all such learnings. It is also important to remember that the past does not have to be negatively emotional. It should be informational, and it should contain positive emotions.
-

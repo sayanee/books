@@ -2,8 +2,7 @@
 layout: post
 title: who took my money
 authors: Robert Kiyosaki
-categories:
-- Books
+
 ---
 
 - **Book Title**: Who Took my Money? Why Slow investors lose and fast money wins!

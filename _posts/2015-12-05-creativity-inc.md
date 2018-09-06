@@ -2,8 +2,6 @@
 layout: post
 title:  "Creativity Inc"
 authors: Ed Catmuli
-categories:
-- books
 
 ---
 

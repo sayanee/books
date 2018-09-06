@@ -2,10 +2,8 @@
 layout: post
 title: Ordinary People Extraordinary Wealth
 authors: Ric Edelman
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Ordinary People, Extraordinary Wealth: 8 secrets of how Ordinary Americans became successful investors and you can be to!
 - **Author**: Ric Edelman
@@ -64,4 +62,3 @@ Some common traits..
 Budgeting vs. tracking expenses…
 
 > On the other hand, there’s widespread agreement that tracking expenses is worthwhile, because 76% of my clients say they do it. This is an important distinction because there’s a big difference between budgeting and tracking expenses. The former s a promise of how you will spend money; the latter reflects how you actually do spend it. And while budgeters foten spend more than they has earlier promised themselves – creating such problem as falling in debt, trackers keep themselves, well on track towards their goals.
-

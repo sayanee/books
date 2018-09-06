@@ -2,10 +2,8 @@
 layout: post
 title: Gift Wrapping
 authors: Kunio Ekiguchi
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Gift Wrapping - Creative Ideas from Japan
 - **Author**: Kunio Ekiguchi

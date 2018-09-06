@@ -2,10 +2,8 @@
 layout: post
 title: Lifetime Plan for Success
 authors: Dale Carnegie
-categories:
-- Books
----
 
+---
 
 How to Win Friends and Influence People & How to stop worrying and start living by [Dale Carnegie ](http://en.wikipedia.org/wiki/Dale_Carnegie)- these 2 best sellers were combined in this book. If i can sum up in just 2 words about what this book exactly teaches, it'll be tactfulness and diplomacy. It's a great book... in fact i would wanna buy it!
 

@@ -2,10 +2,7 @@
 layout: post
 title:  "My Inventions"
 authors: Nikola Tesla
-categories:
-- books
 
-abstract: This is the autobiography of Nikola Tesla. He writes about his childhood, experiments and most importantly for me the process of his thinking and tenacity to stick to something until it's done. An inspiring read for any scientist and engineer.
 ---
 
 Nikola Tesla writes this at the age of 63 after a deep career and work in the field of electricity and mechanics.

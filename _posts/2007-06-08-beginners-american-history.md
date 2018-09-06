@@ -2,10 +2,8 @@
 layout: post
 title: Beginner’s American History
 authors: D. H. Montgomery
-categories:
-- Books
----
 
+---
 
 - **Book Title:** The Beginner’s American History
 - **Author:** D. H. Montgomery
@@ -91,4 +89,3 @@ Abraham Lincoln and the start of the Civil War…
 > In less than six weeks after Lincoln actually became President, in the spring of 1861 a terrible war broke out between the North and the South. The people of South Carolina fired the first gun in that war. They, together with a great part of the people of ten other southern states, resolved to leave the Union. They set up an independent government called the Confederate States of America, and made Jefferson Davis its president.
 
 > The main reason why so many of the people of the South wished to withdraw from the United States was that little by little the North and the South had become like two different countries. At the time of the Revolution, when we broke away from the rule of England, every one of the states held negro slaves; but in the course of eighty years a great change had taken place. The negroes at the North had become free, but those of the South still remained slaves. Now this difference in the way of doing work made it impossible for the North and the South to agree about many things.
-

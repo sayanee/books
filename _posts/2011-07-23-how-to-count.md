@@ -2,8 +2,7 @@
 layout: post
 title:  "How to Count"
 authors: Steven Frank
-categories:
-- books
+
 ---
 
 Binary

@@ -2,10 +2,8 @@
 layout: post
 title: Inside Steve's Brain
 authors: Leander Kahney
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Inside Steve's Brain
 - **Author**: Leander Kahney

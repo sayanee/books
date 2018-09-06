@@ -2,10 +2,8 @@
 layout: post
 title: Drop the Pink Elephant
 authors: Bill McFarlan
-categories:
-- Books
----
 
+---
 
 - **Book Title:** Drop the Pink Elephant: 15 ways to say what you mean - and mean what you say
 - **Author**: Bill Mc Farlan

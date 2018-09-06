@@ -2,11 +2,8 @@
 layout: post
 title: Awaken the Giant within
 authors: Tony Robbins
-categories:
-- Books
 
 ---
-
 
 - **Book Title**: Awaken the Giant Within: How to take immediate control of your mental, emotional, physical and financial destiny
 - **Author**: Anthony Robbins

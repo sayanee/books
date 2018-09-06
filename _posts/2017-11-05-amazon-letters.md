@@ -2,8 +2,6 @@
 layout: post
 title:  "Shareholder's letter from Jeff Bezos"
 authors: Jeff Bezos
-categories:
-- letters
 
 ---
 

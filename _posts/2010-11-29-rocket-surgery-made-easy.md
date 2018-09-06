@@ -2,8 +2,7 @@
 layout: post
 title: Rocket surgery made easy
 authors: Steve Krug
-categories:
-- Books
+
 ---
 
 - **Book Title**: [Rocket Surgery Made Easy](http://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292)

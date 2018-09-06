@@ -2,8 +2,6 @@
 layout: post
 title:  "The Hardware Hacker"
 authors: Andrew “bunnie” Huang
-categories:
-- books
 
 ---
 

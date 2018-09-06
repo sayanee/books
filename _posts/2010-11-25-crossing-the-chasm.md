@@ -2,8 +2,6 @@
 layout: post
 title: Crossing the Chasm
 authors: Geoffrey Moore
-categories:
-- Books
 
 ---
 

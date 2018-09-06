@@ -2,8 +2,6 @@
 layout: post
 title:  "Clean Code"
 authors: Robert C. Martin
-categories:
-- books
 
 ---
 

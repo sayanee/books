@@ -2,8 +2,7 @@
 layout: post
 title: Open Business Models
 authors: Henry Chesbrough
-categories:
-- Books
+
 ---
 
 ![](/img/open-business-models.jpeg "open-business-models")

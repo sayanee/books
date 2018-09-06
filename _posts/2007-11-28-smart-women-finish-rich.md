@@ -2,10 +2,8 @@
 layout: post
 title: Smart Women finish rich
 authors: David Bach
-categories:
-- Books
----
 
+---
 
 - **Book Title:** Smart Women finish Rich
 - **Author:**David Bach

@@ -2,8 +2,7 @@
 layout: post
 title: Mein Kampf (Vol.1)
 authors: Adolf Hilter
-categories:
-- Books
+
 ---
 
 - **Book Title:** [Mein Kampf ](http://en.wikipedia.org/wiki/Mein_Kampf)(My Struggle)
@@ -38,4 +37,3 @@ On his fate and destiny...
 On Aryan race...
 
 > Every manifestation of human culture, every product of art, science, and techinical skill, which we see before our eyes today is almost exclusively the product of the Aryan the creative power. This very fact fully justifies the conclusion tha it was the Aryan alone who founded a superior type of humanity; therefore he represents the archtype of what we understand by the term: MAN.
-

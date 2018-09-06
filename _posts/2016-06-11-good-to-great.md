@@ -2,8 +2,6 @@
 layout: post
 title:  "Good to Great"
 authors: Jim Collins
-categories:
-- books
 
 ---
 

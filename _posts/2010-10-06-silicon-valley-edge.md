@@ -2,8 +2,7 @@
 layout: post
 title: Silicon Valley Edge
 authors: Lee, Miller, Hancock, Rowen
-categories:
-- Books
+
 ---
 
 - **Book Title**: Silicon Valley Edge - A Habitat for Innovation and Entrepreneurship

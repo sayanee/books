@@ -2,9 +2,7 @@
 layout: post
 title:  "Shape of Design"
 authors: Frank Chimero
-categories:
-- books
-abstract: Beautiful literature in continuous prose on why design is important and how designers work towards it.
+
 ---
 
 Go ahead [download](http://shapeofdesignbook.com/) and make a quiet afternoon reflection on all things making and design.

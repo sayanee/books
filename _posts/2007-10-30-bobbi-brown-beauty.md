@@ -2,10 +2,8 @@
 layout: post
 title: Bobbi Brown beauty
 authors: Annemarie Iverson
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Bobbi Brown beauty
 - **Author**: Bobbi Brown & Annemarie Iverson

@@ -2,10 +2,8 @@
 layout: post
 title: Flipping the Switch
 authors: John G. Miller
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Flipping the Switch – 5 keys to success to work and in life
 - **Author**: John G. Miller

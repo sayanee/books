@@ -2,8 +2,8 @@
 layout: post
 title: SUMO Your Relationships
 authors: Paul McGee
-categories:
-- Books
+
+
 ---
 
 

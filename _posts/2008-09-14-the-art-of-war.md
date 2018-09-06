@@ -2,11 +2,8 @@
 layout: post
 title: The Art of War by Sun Tzu
 authors: Sun Tzu
-categories:
-- Books
 
 ---
-
 
 - **Book Title**: The art of war
 - **Author**: Sun Tzu

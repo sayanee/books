@@ -2,10 +2,8 @@
 layout: post
 title: Billionaire in Training
 authors: Bradley Sugars
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Billionaire in Training: Because Millionaire just isn't rich enough
 - **Author**: Bradly J. Sugars

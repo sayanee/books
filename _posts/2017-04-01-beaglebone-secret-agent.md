@@ -2,8 +2,7 @@
 layout: post
 title:  "BeagleBone for Secret Agents"
 authors: Datko
-categories:
-- books
+
 ---
 
 ## Book recommendations

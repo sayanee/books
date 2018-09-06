@@ -2,8 +2,7 @@
 layout: post
 title: The Speed Reading Book
 authors: Tony Buzan
-categories:
-- Books
+
 ---
 
 - **Book Title:** The Speed Reading Book

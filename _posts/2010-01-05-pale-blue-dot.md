@@ -2,11 +2,8 @@
 layout: post
 title: Pale Blue Dot
 authors: Carl Sagan
-categories:
-- Books
 
 ---
-
 
 - **Book Title**: Pale Blue Dot
 - **Author**: Carl Sagan

@@ -2,10 +2,8 @@
 layout: post
 title: Rough Guide to Normandy and Brittany
 authors: Greg Ward
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Rough Guide to Brittany and Normandy
 - **Author**: Greg Ward

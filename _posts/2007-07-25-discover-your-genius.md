@@ -2,11 +2,8 @@
 layout: post
 title: Discover your Genius
 authors: Michael Gelb
-categories:
-- Books
 
 ---
-
 
 - **Book Title:**  Discover your Genius: How to Think like History's 10 most Revolutionary Minds
 - **Author:** Michael J. Gelb

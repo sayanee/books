@@ -2,11 +2,8 @@
 layout: post
 title: Tao Te Ching
 authors: Lao Tzu
-categories:
-- Books
 
 ---
-
 
 - **Book Title**: Tao Te Chin - The corner stone of Chinese culture
 - **Author**: Lao Tzu

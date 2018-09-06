@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Use Your Head by Tony Buzan
-categories:
-- Books
----
+title: Use Your Head
+authors: Tony Buzan
 
+---
 
 - **Book Title:** Use Your Head
 - **Author:** Tony Buzan

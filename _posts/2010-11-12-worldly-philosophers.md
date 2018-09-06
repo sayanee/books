@@ -2,8 +2,7 @@
 layout: post
 title: Worldly Philosophers
 authors: Robert L. Heilbroner
-categories:
-- Books
+
 ---
 
 - **Book Title**: The Worldly Philosophers: The Lives, Times And Ideas Of The Great Economic Thinkers

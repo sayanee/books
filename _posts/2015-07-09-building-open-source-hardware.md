@@ -2,8 +2,6 @@
 layout: post
 title:  "Building Open Source Hardware"
 authors: Alicia Gibb
-categories:
-- books
 
 ---
 
@@ -115,7 +113,7 @@ Allowing derivatives
 
 Types of derivatives
 
-> Changes for derivatives generally fall within four categories: (1) The function of the device is altered; (2) the form of the device is modified; (3) the change is economic, with the creator selling the same product at a different usually lower price point; or (4) the change enables a better design for manufacture (DFM), making it easier to manufacture or supply parts.
+> Changes for derivatives generally fall within four  (1) The function of the device is altered; (2) the form of the device is modified; (3) the change is economic, with the creator selling the same product at a different usually lower price point; or (4) the change enables a better design for manufacture (DFM), making it easier to manufacture or supply parts.
 
 Arduino and trademark
 
@@ -281,7 +279,6 @@ Not easy to make consumer electronics modular and hackable
 Less wasteful
 
 > We decided to make a modular product with higher costs anyway, because over the course of the product's lifetime, it will **give us flexibility and it will be less wasteful to replace or upgrade one part, rather than the whole product**.
-
 
 [Error cost Escalation by NASA](http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20100036670.pdf)
 

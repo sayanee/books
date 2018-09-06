@@ -2,8 +2,7 @@
 layout: post
 title: The Success Principles
 authors: Jack Canfield
-categories:
-- Books
+
 ---
 
 - **Book Title:** [The Success Principles ](http://thesuccessprinciples.com/) - How to get from where you are to where you want to be

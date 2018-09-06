@@ -2,8 +2,6 @@
 layout: post
 title: Best software writing
 authors: Joel Spolsky
-categories:
-- Books
 
 ---
 

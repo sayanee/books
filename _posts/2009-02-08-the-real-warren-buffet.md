@@ -2,10 +2,8 @@
 layout: post
 title: The Real Warren Buffet
 authors: James O’Loughlin
-categories:
-- Books
----
 
+---
 
 - **Book Title**: The Real Warren Buffet
 - **Author**: James O’Loughlin

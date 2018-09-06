@@ -2,10 +2,8 @@
 layout: post
 title: The Secret
 authors: Rhonda Byrne
-categories:
-- Books
----
 
+---
 
 - **Book Title**: The Secret
 - **Author**: Rhonda Byrne

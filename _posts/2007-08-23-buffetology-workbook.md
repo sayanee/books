@@ -2,8 +2,6 @@
 layout: post
 title: Buffetology Workbook
 authors: Mary Buffet and David Clark
-categories:
-- Books
 
 ---
 
@@ -28,7 +26,7 @@ Introduction…
 
 Identifying the economic engine Warren wants to own
 
-- Warren has separated the world of business into 2 different categories: the healthy consumer monopoly type business and the sick commodity type business
+- Warren has separated the world of business into 2 different  the healthy consumer monopoly type business and the sick commodity type business
 - A consumer monopoly is a type of business that sells a brand name product or has a unique position that allows it to act like a monopoly.
 - A commodity type business is the kind that manufactures a generic product or service that a lot of companies produce and sell
 

@@ -2,9 +2,6 @@
 layout: post
 title:  "Selfish Genes"
 authors: Richard Dawkins
-categories:
-- books
-abstract: A thought provoking book taking a plunge into the natural selection and evolution on why genes are fundamentally selfish and how as conscious beings we can be the opposite.
 
 ---
 

@@ -2,8 +2,7 @@
 layout: post
 title: Blog Design Solutions
 authors: multiple
-categories:
-- Books
+
 ---
 
 - **Book Title:** Blog Design Solutions

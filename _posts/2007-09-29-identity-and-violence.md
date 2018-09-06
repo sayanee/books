@@ -2,10 +2,8 @@
 layout: post
 title: Identity and Violence
 authors: Amartya Sen
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Identity and Violence - The Illusion of Destiny
 - **Author**: [Amartya Sen](http://en.wikipedia.org/wiki/Amartya_Sen)
@@ -43,4 +41,3 @@ Global roots of democracy
 Schools, reasoning and faith
 
 > Rather than reducing existing state0financed faith based schools, actually adding other to them - Muslims schools, Hindu schools, the Sikh schools to pre-existing Christian ones 0 can have the effect of reducing the role of reasoning which the children may have the opportunity to cultivate and use. And this is happening at a time when there is a great need for broadening the horizon of understanding of other people and other groups, and when the ability to undertake reason decision making is of particular importance.
-

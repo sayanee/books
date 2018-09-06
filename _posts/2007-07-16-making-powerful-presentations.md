@@ -2,10 +2,8 @@
 layout: post
 title: Making Powerful Presentations
 authors: Yardley Kelly
-categories:
-- Books
----
 
+---
 
 - **Book Title**:Making Powerful Presentations using Neuro-Linguistic Programming
 - **Authors**: Gary Yardley & Jan Kelly

@@ -2,8 +2,7 @@
 layout: post
 title:  "Feynman Lectures"
 authors: Richard Feynman
-categories:
-- books
+
 ---
 
 An approximation

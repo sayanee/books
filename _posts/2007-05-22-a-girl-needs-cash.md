@@ -2,8 +2,7 @@
 layout: post
 title: A girl needs cash
 authors: Joan Perry
-categories:
-- Books
+
 ---
 
 - **Book Title:** A Girl Needs Cash - Banish the white knight myth and Take Charge of your Financial Life

@@ -2,10 +2,8 @@
 layout: post
 title: Over the top
 authors: Zig Ziglar
-categories:
-- Books
----
 
+---
 
 You are at the top when...
 

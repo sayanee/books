@@ -2,8 +2,7 @@
 layout: post
 title:  "On the Shortness of Life"
 authors: Seneca
-categories:
-- books
+
 ---
 
 Awareness of ending

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Cascading Style Sheets
-categories:
-- Books
+
 ---
 
 - **Book Title:** Cascading Style Sheets: Separating Content from Presentation

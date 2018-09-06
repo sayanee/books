@@ -2,8 +2,7 @@
 layout: post
 title: Interview Power
 authors: Tom Washington
-categories:
-- Books
+
 ---
 
 - **Book Title:** Interview Power: Selling yourself Face to Face

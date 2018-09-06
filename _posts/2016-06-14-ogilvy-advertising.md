@@ -2,8 +2,6 @@
 layout: post
 title:  "Ogilvy on Advertising"
 authors: David Ogilvy
-categories:
-- books
 
 ---
 

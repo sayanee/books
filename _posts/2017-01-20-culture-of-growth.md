@@ -2,8 +2,6 @@
 layout: post
 title:  "A Culture of Growth: The Origins of the Modern Economy"
 authors: Mokyr, Joel
-categories:
-- books
 
 ---
 

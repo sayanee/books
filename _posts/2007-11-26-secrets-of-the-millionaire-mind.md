@@ -2,10 +2,8 @@
 layout: post
 title: Secrets of the Millionaire Mind
 authors: Harv Eker
-categories:
-- Books
----
 
+---
 
 - **Book Title:** Secrets of the Millionaire Mind - Mastering the inner game of wealth
 - **Author:** T. Harv Eker
@@ -49,4 +47,3 @@ wealth files...
 15. Rich people have their money work hard for them Poor people work hard for their money
 16. Rich people act in spite of fear Poor people let ear stop them
 17. Rich people constantly learn and grow Poor people think they already know
-

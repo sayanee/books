@@ -2,11 +2,8 @@
 layout: post
 title: How to be Idle
 authors: Tom Hodgkinson
-categories:
-- Books
 
 ---
-
 
 **Book Title:** How to be Idle **Author:** Tom Hodgkinson **Year written/published:** 2004 **Book Source:** Google Books, Library **My Comments:** Loved it... lazy chilling out reading :P realised that i'm indeed an idler at heart ... :D **Contents page:**
 1. 8am: Waking up is Hard to do

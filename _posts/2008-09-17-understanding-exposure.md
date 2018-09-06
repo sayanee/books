@@ -2,11 +2,8 @@
 layout: post
 title: Understanding Exposure by Bryan Peterson
 authors: Bryan Peterson
-categories:
-- Books
 
 ---
-
 
 - **Book Title**: Understanding Exposure - How to shoot great photographs with a film or digital camera
 - **Author**: Bryan Peterson

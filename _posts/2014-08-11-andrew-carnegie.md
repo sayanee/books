@@ -2,8 +2,6 @@
 layout: post
 title:  "Andrew Carnegie"
 authors: Andrew Carnegie
-categories:
-- books
 
 ---
 

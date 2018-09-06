@@ -2,11 +2,8 @@
 layout: post
 title: Beauty secrets
 authors: Diane Irons
-categories:
-- Books
+
 ---
-
-
 
 - **Book Title**: The World's Best Kept beauty Secrets - What really works in Beauty, Diet and Fashion
 - **Author**: Diane Irons

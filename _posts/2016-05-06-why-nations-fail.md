@@ -2,8 +2,6 @@
 layout: post
 title:  "Why Nations Fail"
 authors: Daron Acemoglu and James Robinsonn
-categories:
-- books
 
 ---
 

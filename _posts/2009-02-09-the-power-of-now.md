@@ -2,11 +2,8 @@
 layout: post
 title: The Power of NOW
 authors: Ekhart Tolle
-categories:
-- Books
 
 ---
-
 
 - **Book Title**: The Power of NOW – A Guide to Spiritual Enlightenment
 - **Author**: Ekhart Tolle

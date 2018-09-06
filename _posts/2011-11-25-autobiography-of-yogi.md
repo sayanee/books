@@ -2,8 +2,7 @@
 layout: post
 title:  "Autobiography of a Yogi"
 authors: Paramahansa Yogananda
-categories:
-- books
+
 ---
 
 Evenmindedness

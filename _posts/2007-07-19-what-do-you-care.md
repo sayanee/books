@@ -2,11 +2,8 @@
 layout: post
 title: What do you care what other people think
 authors: Richard P. Feynman
-categories:
-- Books
 
 ---
-
 
 - **Book Title**: What do you care what other people think? Further Adventures of a Curious Character
 - **Author**: Richard P. Feynman

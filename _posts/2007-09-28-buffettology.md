@@ -2,8 +2,6 @@
 layout: post
 title: Buffettology
 authors: Mary Buffet & David Clark
-categories:
-- Books
 
 ---
 

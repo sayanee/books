@@ -2,10 +2,8 @@
 layout: post
 title: Mutual Funds
 authors: Mark Mobius
-categories:
-- Books
----
 
+---
 
 - **Book Title:** Mutual Funds - an Introduction to the core concepts
 - **Author:** [Mark Mobius](http://en.wikipedia.org/wiki/Mark_Mobius)

@@ -2,8 +2,6 @@
 layout: post
 title: Iconoclast by Gregory Berns
 authors: Gregory Berns
-categories:
-- Books
 
 ---
 

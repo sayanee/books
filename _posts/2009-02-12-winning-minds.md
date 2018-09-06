@@ -2,8 +2,8 @@
 layout: post
 title: Winning Minds
 authors: Ros Jay
-categories:
-- Books
+
+
 ---
 
 

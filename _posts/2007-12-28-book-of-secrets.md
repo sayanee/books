@@ -2,10 +2,8 @@
 layout: post
 title: book of secrets
 authors: Deepak Chopra
-categories:
-- Books
----
 
+---
 
 - **Book Title:** The book of secrets - Unlocking the hidden dimensions of your life
 - **Author:** Deepak Chopra

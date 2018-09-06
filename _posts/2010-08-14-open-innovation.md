@@ -2,8 +2,7 @@
 layout: post
 title: Open Innovation
 authors: Chesbrough, Wim Vanhaverbeke, Joel West
-categories:
-- Books
+
 ---
 
 - **Book Title**: Open Innovation - Researching a New Paradigm
@@ -58,4 +57,3 @@ Role of IP
 early and present technological innovations...
 
 > ... recounts how the key technologies of the early and mid-20th century was developed by industrial research departments within the large diversified enterprises of US and Europe. Such diversification, along with vertical integration from research and development (R&D) through distribution, provided these firms with competitive advantage over smaller and newer rivals through economies of scale and scope.... "It is a view that says successful innovation requires control... This paradigm counsels firms to be strongly self-reliant, because one cannot be sure of the quality, availability and capability of other's ideas.."... However, from his study of US industry practice at the end of the 20th century,,, this model was reaching its limits. Along other factors he identified the increased mobility of knowledge and availability of venture capital to create new firms to capitalize on such knowledge.
-

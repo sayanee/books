@@ -2,8 +2,6 @@
 layout: post
 title: Autobiography of Benjamin Franklin
 authors: Benjamin Franklin
-categories:
-- Books
 
 ---
 

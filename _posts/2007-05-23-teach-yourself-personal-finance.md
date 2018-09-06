@@ -2,8 +2,7 @@
 layout: post
 title: Teach yourself Personal Finance
 authors: Janet Bigham Bernstel, Lea Saslav
-categories:
-- Books
+
 ---
 
 - **Book Title:** MacMillan Teach yourself Personal Finance in 24 hours

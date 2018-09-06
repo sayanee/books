@@ -2,8 +2,8 @@
 layout: post
 title: Sure You're Joking Mr. Feynman
 authors: Richard P. Feynman
-categories:
-- Books
+
+
 
 ---
 

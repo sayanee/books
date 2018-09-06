@@ -2,13 +2,10 @@
 layout: post
 title:  "Superintelligence"
 authors: Walter Issacson
-categories:
-- books
 
 ---
 
 Wanted to read this books as Elon Musk recommended it a few times. Possibly my first introduction to AI.
-
 
 Why give a thought to AI?
 

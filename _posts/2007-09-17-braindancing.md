@@ -2,10 +2,8 @@
 layout: post
 title: Braindancing
 authors: Dilip Mukerjea
-categories:
-- Books
----
 
+---
 
 
 - **Book Title**: Braindancing - brain blazing practical techniques in creativity for immediate application

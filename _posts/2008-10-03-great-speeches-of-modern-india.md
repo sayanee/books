@@ -2,10 +2,8 @@
 layout: post
 title: Great Speeches of Modern India
 authors: Rudrangshu Mukherjee
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Great Speeches of Modern India
 - **Author**: Compiled by Rudrangshu Mukherjee

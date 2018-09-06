@@ -2,10 +2,8 @@
 layout: post
 title: The Secret Handshake
 authors: Kathleen Kelley Reardon
-categories:
-- Books
----
 
+---
 
 - **Book Title**: The Secret Handshake – Mastering the Politics of Business Inner Circle
 - **Author**: Kathleen Kelley Reardon

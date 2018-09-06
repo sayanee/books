@@ -2,8 +2,7 @@
 layout: post
 title:  "Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers"
 authors: Timothy Ferris
-categories:
-- books
+
 ---
 
 ## Books to read

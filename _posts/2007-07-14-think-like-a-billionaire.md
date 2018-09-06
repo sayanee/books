@@ -2,10 +2,8 @@
 layout: post
 title: Think like a Billionaire
 authors: Donald Trump
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Think like a Billionaire - Everything you need to know about success, real estate and life
 - **Author**: [Donald Trump](http://en.wikipedia.org/wiki/Donald_Trump)

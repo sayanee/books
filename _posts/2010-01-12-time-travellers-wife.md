@@ -2,8 +2,6 @@
 layout: post
 title: Time Traveller's Wife
 authors: Audrey Niffenegger
-categories:
-- Books
 
 ---
 

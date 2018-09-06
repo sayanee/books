@@ -2,8 +2,7 @@
 layout: post
 title: Wikinomics
 authors: Don Tapscott and Anthony D. Williams
-categories:
-- Books
+
 ---
 
 - **Book Title**: Wikinomics: How Mass Collaboration Changes Everything

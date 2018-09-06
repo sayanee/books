@@ -2,8 +2,7 @@
 layout: post
 title:  "The Obstacle Is the Way"
 authors: Ryan Holiday
-categories:
-- books
+
 ---
 
 Marcus Aurelius' Meditations

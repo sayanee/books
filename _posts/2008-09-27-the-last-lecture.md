@@ -2,11 +2,8 @@
 layout: post
 title: The last Lecture
 authors: Randy Pausch
-categories:
-- Books
 
 ---
-
 
 - **Book Title**: The Last Lecture
 - **Author**: [Randy Pausch](http://en.wikipedia.org/wiki/Randy_Pausch)

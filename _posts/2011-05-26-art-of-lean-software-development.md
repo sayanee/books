@@ -2,8 +2,7 @@
 layout: post
 title: Art of lean software development
 authors: Curt Hibbs, Steve Jewett, Mike Sullivan
-categories:
-- Books
+
 ---
 
 - **Title**: [The Art of Lean Software Development](http://oreilly.com/catalog/9780596517311)

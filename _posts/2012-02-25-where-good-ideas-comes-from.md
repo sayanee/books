@@ -2,8 +2,6 @@
 layout: post
 title:  "Where Good Ideas Come From"
 authors: Steven Johnson
-categories:
-- books
 
 ---
 

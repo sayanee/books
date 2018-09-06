@@ -2,10 +2,8 @@
 layout: post
 title: Women & Money
 authors: Suze Orman
-categories:
-- Books
----
 
+---
 
 - **Book Title:** Women and Money - Owning the power to control your destiny
 - **Author:**Suze Orman

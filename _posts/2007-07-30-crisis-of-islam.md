@@ -2,10 +2,8 @@
 layout: post
 title: Crisis of Islam
 authors: Bernard Lewis
-categories:
-- Books
----
 
+---
 
 - **Book Title**:The Crisis of Islam: Holy War and Unholy Terror
 - **Author**: Bernard Lewis

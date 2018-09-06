@@ -2,8 +2,6 @@
 layout: post
 title:  "Becoming Steve Jobs"
 authors: Brent Schlender, Rick Tetzeli
-categories:
-- books
 
 ---
 

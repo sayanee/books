@@ -2,8 +2,6 @@
 layout: post
 title:  "Alibaba's World"
 authors: Porter Erisman
-categories:
-- books
 
 ---
 

@@ -2,8 +2,6 @@
 layout: post
 title: Art of Innovation
 authors: Tom Kelly
-categories:
-- Books
 
 ---
 

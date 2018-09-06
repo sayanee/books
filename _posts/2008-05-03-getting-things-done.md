@@ -2,11 +2,8 @@
 layout: post
 title: Getting Things Done
 authors: David Allen
-categories:
-- Books
 
 ---
-
 
 - **Book Title**: Getting Things Done – The art of Stress Free productivity
 - **Author**: David Allen

@@ -2,10 +2,8 @@
 layout: post
 title:  "Culture & Empire"
 authors: Pieter Hintjens
-categories:
-- books
----
 
+---
 
 Units of functions - cells
 

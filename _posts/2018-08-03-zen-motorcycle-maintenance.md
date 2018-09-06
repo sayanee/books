@@ -2,8 +2,6 @@
 layout: post
 title:  "Zen and the Art of Motorcycle Maintenance"
 authors: Robert M. Pirsig
-categories:
-- books
 
 ---
 
@@ -87,7 +85,7 @@ Attacking the effects
 
 Scientific Method
 
-> The logical statements entered into the notebook are broken down into six categories: (1) statement of the problem, (2) hypotheses as to the cause of the problem, (3) experiments designed to test each hypothesis, (4) predicted results of the experiments, (5) observed results of the experiments and (6) conclusions from the results of the experiments. This
+> The logical statements entered into the notebook are broken down into six  (1) statement of the problem, (2) hypotheses as to the cause of the problem, (3) experiments designed to test each hypothesis, (4) predicted results of the experiments, (5) observed results of the experiments and (6) conclusions from the results of the experiments. This
 
 When does an experiment fail?
 

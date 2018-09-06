@@ -2,10 +2,8 @@
 layout: post
 title: 8 steps to 7 figures
 authors: Charles Carlson
-categories:
-- Books
----
 
+---
 
 - **Book Title:** Eight Steps to Seven Figures - The investment strategies of everyday - millionaires and how you can become wealthy too
 - **Author:** Charles Carlson

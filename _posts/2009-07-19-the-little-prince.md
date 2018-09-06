@@ -2,11 +2,8 @@
 layout: post
 title: The Little Prince
 authors: Antoine de Saint-Exupery
-categories:
-- Books
 
 ---
-
 
 - **Book Title**: The Little Prince
 - **Author**: Antoine de Saint-Exupery

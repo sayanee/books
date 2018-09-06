@@ -2,10 +2,8 @@
 layout: post
 title: How to enjoy life and your job
 authors: Dale Carnegie
-categories:
-- Books
----
 
+---
 
 - **Book Title**: How to enjoy life and your job
 - **Author**: Dale Carnegie

@@ -2,8 +2,7 @@
 layout: post
 title: Strategy - A View from the Top
 authors: John A. Pearce, Cornelis A. De Kluyver
-categories:
-- Books
+
 ---
 
 - **Book Title**: Strategy: A View From The Top (An Executive Perspective)

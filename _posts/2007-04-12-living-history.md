@@ -2,10 +2,8 @@
 layout: post
 title: Living History
 authors: Hillary Clinton
-categories:
-- Books
----
 
+---
 
 Hillary Rodham Clinton - former First Lady of US, mother of Chelsea Clinton,  [junior US Senetor for New York](http://en.wikipedia.org/wiki/Hillary_Rodham_Clinton). I had a chance to read her own words about her life until the day she left the White House living history. You can get a glimpse of one chapter 'Bill Clinton' [right here](http://www.thinkingpeace.com/Lib/lib103.html).
 
@@ -48,4 +46,3 @@ Nelson Mandela's inauguration...
 > ... But here was Mandela, honoring 3 men who had held him prisoner.
 
 > When I got to know Mandela better, he explained that as a young man he had a quick temper. In prison he learned to control his emotions in order to survive. His years in jail had given him the time and motivation to look deeply into his own heart and to deal with the pain he found. He reminded me that gratitude and forgiveness, which often result from pain and suffering, require tremendous discipline. The day his imprisonment ended, he told me, "as I walked out the door towards the gate that would lead to my freedom, I knew if I didn't leave my bitterness and hatred behind, I'd still be in Prison."
-

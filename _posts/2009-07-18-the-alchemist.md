@@ -2,11 +2,8 @@
 layout: post
 title: The Alchemist
 authors: Paulo Coelho
-categories:
-- Books
 
 ---
-
 
 - **Book Title**: The Alchemist
 - **Author**: Paulo Coelho

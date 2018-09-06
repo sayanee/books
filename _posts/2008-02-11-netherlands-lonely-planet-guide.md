@@ -2,10 +2,8 @@
 layout: post
 title: Netherlands - Lonely Planet Guide
 authors: Neal Bedoford, Simon Sellers
-categories:
-- Books
----
 
+---
 
 - **Book Title**: Netherlands – Lonely planet
 - **Author**: Neal Bedoford, Simon Sellers

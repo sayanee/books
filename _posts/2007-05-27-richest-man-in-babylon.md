@@ -2,8 +2,6 @@
 layout: post
 title: Richest Man in Babylon
 authors: George S. Clason
-categories:
-- Books
 
 ---
 

@@ -2,10 +2,8 @@
 layout: post
 title: Karen Brown's France
 authors: Karen Brown
-categories:
-- Books
----
 
+---
 
 - **Book Title:** Karen Brown’s France
 - **Author:** [Karen Brown](http://www.karenbrown.com/)

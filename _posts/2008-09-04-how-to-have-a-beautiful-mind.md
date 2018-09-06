@@ -2,10 +2,8 @@
 layout: post
 title: How to have a Beautiful Mind
 authors: Edward de Bono
-categories:
-- Books
----
 
+---
 
 - **Book Title**: How to have a Beautiful Mind
 - **Author**: Edward de Bono
@@ -32,7 +30,6 @@ categories:
 16. Interruption
 17. Attitude
 18. Starting and topics
-
 
 **Some extracts**:
 

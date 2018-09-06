@@ -1,12 +1,9 @@
 ---
 layout: post
 title: 7 Habits of Highly Effective People
-auhors: Stephen Covey
-categories:
-- Books
+authors: Stephen Covey
 
 ---
-
 
 - **Book Title**: The 7 Habits of Highly Effective People
 - **Author**: [Stephen R. Covey ](http://en.wikipedia.org/wiki/Stephen_Covey)

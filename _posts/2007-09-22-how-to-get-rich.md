@@ -2,10 +2,8 @@
 layout: post
 title: How to Get Rich
 authors: Donald Trump
-categories:
-- Books
----
 
+---
 
 - **Book Title**: How to get Rich - The Secrets of Business Success from the star of the Apprentice
 - **Author**: [Donald J. Trump ](http://en.wikipedia.org/wiki/Donald_trump)
@@ -89,4 +87,3 @@ Meetings…
 Busy weekend…
 
 > Last year I took a transatlantic weekend business trip that included breakfast in London with Mohamed Al Fayed and dinner in Slovenia with Melania’s parents before flying back to New York. We were back in time for me to be in the office by 9am Monday.
-
