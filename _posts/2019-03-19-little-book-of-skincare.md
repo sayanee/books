@@ -15,7 +15,7 @@ authors: Charlotte Cho
 - [Korea and skincare](#korea-and-skincare)
 - [Myths](#myths)
 - [Skin and health](#skin-and-health)
-- [Cleaning and toners](#cleaning-and-toners)
+- [Cleansing and Toning](#cleansing-and-toning)
 - [Exfoliation](#exfoliation)
 - [Moisturizer](#moisturizer)
 - [Sheet mask](#sheet-mask)
@@ -167,7 +167,7 @@ Skincare is non-evasive
 
 > I think it’s a healthier and better option to invest in and partake in the Korean mindset of skin care. **Skin care is noninvasive and less expensive**, and clear, healthy skin makes people feel and look better.
 
-## Cleaning and toners
+## Cleansing and Toning
 
 Double cleansing
 
@@ -392,7 +392,7 @@ Eating well
 
 ## No makeup-makeup look
 
-BB Creams
+BB Cream (Blemish Balm cream)
 
 > Korean cosmetic companies took the original concept of BB cream and evolved it into something that would cover up imperfections, but also prep and moisturize while providing anti-aging and brightening properties and sun protection.
 
