@@ -9,7 +9,7 @@ authors: Matthew Walker
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [12 for Healthy Sleep](#12-for-healthy-sleep)
+- [12 Tips for Healthy Sleep](#12-tips-for-healthy-sleep)
 - [Side effects of not sleeping](#side-effects-of-not-sleeping)
 - [Characteristics of sleep](#characteristics-of-sleep)
 - [What causes sleep disruption](#what-causes-sleep-disruption)
@@ -28,7 +28,7 @@ authors: Matthew Walker
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## 12 for Healthy Sleep
+## 12 Tips for Healthy Sleep
 
 1. Stick to a sleep schedule
 1. Exercise is great, but not too late in the day.
