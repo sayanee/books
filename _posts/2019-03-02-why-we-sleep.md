@@ -5,12 +5,43 @@ authors: Matthew Walker
 
 ---
 
-## Summary: Steps to sleep well
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- Sleep on schedule every day
-- Maintain an average of 8 hours of sleep
-- Remove evening blue lights to ensure melatonin rise
-- Avoid electronic device usage 60 minutes before sleeping
+
+- [12 for Healthy Sleep](#12-for-healthy-sleep)
+- [Side effects of not sleeping](#side-effects-of-not-sleeping)
+- [Characteristics of sleep](#characteristics-of-sleep)
+- [What causes sleep disruption](#what-causes-sleep-disruption)
+- [What is sleep?](#what-is-sleep)
+- [Animal kingdom and human evolution](#animal-kingdom-and-human-evolution)
+- [From fetus, newborns to adults and REM sleep](#from-fetus-newborns-to-adults-and-rem-sleep)
+- [Learning and Sleep](#learning-and-sleep)
+- [Dreams](#dreams)
+- [Alcohol and sedation](#alcohol-and-sedation)
+- [Sleeping pills and its perils](#sleeping-pills-and-its-perils)
+- [Curing insomnia through CBT](#curing-insomnia-through-cbt)
+- [Work culture](#work-culture)
+- [School culture](#school-culture)
+- [Doctors](#doctors)
+- [Technological help](#technological-help)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## 12 for Healthy Sleep
+
+1. Stick to a sleep schedule
+1. Exercise is great, but not too late in the day.
+1. Avoid caffeine and nicotine
+1. Avoid alcoholic drinks before bed
+1. Avoid large meals and beverages late at night
+1. Avoid medicines that delay or disrupt your sleep
+1. Don’t take naps after 3 p.m.
+1. Relax before bed. Don’t over-schedule your day so that no time is left for unwinding.
+1. Take a hot bath before bed
+1. Dark bedroom, cool bedroom, smart phone-free bedroom.
+1. Have the right sunlight exposure.
+1. Don’t lie in bed awake.
 
 ## Side effects of not sleeping
 
@@ -907,210 +938,119 @@ Avoid carbohydrates or sleeping too full or hungry
 
 > Nevertheless, for healthy sleep, the scientific evidence suggests that you should **avoid going to bed too full or too hungry**, and shy away from diets that are excessively **biased toward carbohydrates** (greater than 70 percent of all energy intake), especially sugar.
 
+## Work culture
+
 Sleep is not like a bank!
 
 > Each weekend, vast numbers of people are desperately trying to pay back a sleep debt they’ve accrued during the week. As we have learned time and again throughout the course of this book, sleep is not like a credit system or the bank. The brain can never recover all the sleep it has been deprived of.
 
+Glorifying sleep deprivation
+
+> **We glorify the high-powered executive** on email until 1:00 a.m., and then in the office by 5:45 a.m.; we laud the airport “warrior” who has traveled through five different time zones on seven flights over the past eight days.
+
+Punctuality is not productivity
+
+> This mentality has persisted, in part, because **certain business leaders mistakenly believe that time on-task equates with task completion and productivity**. Even in the industrial era of rote factory work, this was untrue. It is a misguided fallacy, and an expensive one, too.
+
+What truly matters in the end?
+
+> Numerous employee traits determine these measures, but commonly they include: **creativity, intelligence, motivation, effort, efficiency, effectiveness when working in groups, as well as emotional stability, sociability, and honesty**. All of these are systematically dismantled by insufficient sleep.
+
+Insufficient makes people choose less challenging problems
+
+> Give participants the ability to choose between work tasks of varying effort, from easy (e.g., listening to voice mails) to difficult (e.g., helping design a complex project that requires thoughtful problem solving and creative planning), and you find that those individuals who obtained less sleep in the preceding days are the same people who **consistently select less challenging problems**.
+
+Maybe insufficient sleep is causing tasks to take long?
+
+> People often tell me that they do not have enough time to sleep because they have so much work to do. Without wanting to be combative in any way whatsoever, I respond by informing them that perhaps **the reason they still have so much to do at the end of the day is precisely because they do not get enough sleep at night**.
+
+Risk of having under-slept employees
+
+> Under-slept employees are not only **less productive, less motivated, less creative, less happy, and lazier, but they are also more unethical**. Reputation in business can be a make-or-break factor. Having under-slept employees in your business makes you more vulnerable to that risk of disrepute.
+
+Effective and stable leadership day in and out
+
+> Differences in individual leadership performance fluctuate dramatically from one day to the next, and the size of that difference far exceeds the average difference from one individual leader to another. So what explains the **ups and downs of a leader’s ability to effectively lead**, day to day? The amount of sleep they are getting is one clear factor.
+
+Benefits of arriving at work well rested
+
+> Allowing and encouraging employees, supervisors, and executives to arrive at work well rested **turns them from simply looking busy yet ineffective, to being productive, honest, useful individuals** who inspire, support, and help each other.
+
+Nap corners in offices
+
+> Littered throughout their corporate headquarters are **dedicated relaxation rooms with “nap pods.”** Employees can indulge in sleep throughout the workday in these “shh” zones, germinating productivity and creativity while **enhancing wellness and reducing absenteeism**.
+
+Adjusting working hours
+
+> Everyone would be present during a **core window for key interactions—say, twelve to three p.m.** Yet there would be **flexible tail ends** either side to accommodate all individual chronotypes. Owls could start work late (e.g., noon) and continue into the evening, giving their full force of mental capacity and physical energy to their jobs.
 
 
-> We glorify the high-powered executive on email until 1:00 a.m., and then in the office by 5:45 a.m.; we laud the airport “warrior” who has traveled through five different time zones on seven flights over the past eight days.
+## School culture
 
+Circadian rhythm of teenagers
 
+> Previously, we noted that the **circadian rhythm of teenagers shifts forward dramatically by one to three hours**. So really the question I should ask you, if you are an adult, is this: Could you concentrate and learn anything after having forcefully been woken up at 3:15 a.m., day after day after day?
 
-> This mentality has persisted, in part, because certain business leaders mistakenly believe that time on-task equates with task completion and productivity. Even in the industrial era of rote factory work, this was untrue. It is a misguided fallacy, and an expensive one, too.
+Early school start times are vulnerable
 
+> **Forced by the hand of early school start times**, this state of chronic sleep deprivation is especially concerning considering that adolescence is the most susceptible phase of life for developing chronic mental illnesses, such as **depression, anxiety, schizophrenia, and suicidality.**
 
+REM sleep and mental diagnoses
 
-> Numerous employee traits determine these measures, but commonly they include: creativity, intelligence, motivation, effort, efficiency, effectiveness when working in groups, as well as emotional stability, sociability, and honesty. All of these are systematically dismantled by insufficient sleep.
+> Only then did scientists realize the rather profound conclusions of the experiment: **REM sleep is what stands between rationality and insanity**. Describe these symptoms to a psychiatrist without informing them of the REM-sleep deprivation context, and the clinician will give clear diagnoses of **depression, anxiety disorders, and schizophrenia.**
 
+REM sleep happens in the final hours of sleep
 
+> It is the lack of **REM sleep—that critical stage occurring in the final hours of sleep** that we strip from our children and teenagers by way of early school start times—that creates the difference between a stable and unstable mental state.
 
-> Give participants the ability to choose between work tasks of varying effort, from easy (e.g., listening to voice mails) to difficult (e.g., helping design a complex project that requires thoughtful problem solving and creative planning), and you find that those individuals who obtained less sleep in the preceding days are the same people who consistently select less challenging problems.
+Schools used to have later start times
 
+> century ago, **schools in the US started at nine a.m.** As a result, 95 percent of all children woke up without an alarm clock. Now, the inverse is true, caused by the incessant marching back of school start times—**which are in direct conflict with children’s evolutionarily preprogrammed need to be asleep** during these precious, REM-sleep-rich morning hours.
 
-
-> People often tell me that they do not have enough time to sleep because they have so much work to do. Without wanting to be combative in any way whatsoever, I respond by informing them that perhaps the reason they still have so much to do at the end of the day is precisely because they do not get enough sleep at night.
-
-
-
-> Under-slept employees are not only less productive, less motivated, less creative, less happy, and lazier, but they are also more unethical. Reputation in business can be a make-or-break factor. Having under-slept employees in your business makes you more vulnerable to that risk of disrepute.
-
-
-
-> Differences in individual leadership performance fluctuate dramatically from one day to the next, and the size of that difference far exceeds the average difference from one individual leader to another. So what explains the ups and downs of a leader’s ability to effectively lead, day to day? The amount of sleep they are getting is one clear factor.
-
-
-
-> Allowing and encouraging employees, supervisors, and executives to arrive at work well rested turns them from simply looking busy yet ineffective, to being productive, honest, useful individuals who inspire, support, and help each other.
-
-
-
-> Littered throughout their corporate headquarters are dedicated relaxation rooms with “nap pods.” Employees can indulge in sleep throughout the workday in these “shh” zones, germinating productivity and creativity while enhancing wellness and reducing absenteeism.
-
-
-
-> Previously, we noted that the circadian rhythm of teenagers shifts forward dramatically by one to three hours. So really the question I should ask you, if you are an adult, is this: Could you concentrate and learn anything after having forcefully been woken up at 3:15 a.m., day after day after day?
-
-
-
-> Forced by the hand of early school start times, this state of chronic sleep deprivation is especially concerning considering that adolescence is the most susceptible phase of life for developing chronic mental illnesses, such as depression, anxiety, schizophrenia, and suicidality.
-
-
-
-> Only then did scientists realize the rather profound conclusions of the experiment: REM sleep is what stands between rationality and insanity. Describe these symptoms to a psychiatrist without informing them of the REM-sleep deprivation context, and the clinician will give clear diagnoses of depression, anxiety disorders, and schizophrenia.
-
-
-
-> It is the lack of REM sleep—that critical stage occurring in the final hours of sleep that we strip from our children and teenagers by way of early school start times—that creates the difference between a stable and unstable mental state.
-
-
-
-> century ago, schools in the US started at nine a.m. As a result, 95 percent of all children woke up without an alarm clock. Now, the inverse is true, caused by the incessant marching back of school start times—which are in direct conflict with children’s evolutionarily preprogrammed need to be asleep during these precious, REM-sleep-rich morning hours.
-
-
-
-> Genetic Studies of Genius, Terman found that no matter what the age, the longer a child slept, the more intellectually gifted they were. He further found that sleep time was most strongly connected to a reasonable (i.e., a later) school start time:
-
-
+Lower socioeconomic students are in greater danger
 
 > Children from lower socioeconomic backgrounds are less likely to be taken to school in a car, in part because their parents often have jobs in the service industry demanding work start times at or before six a.m. Such children therefore rely on school buses for transit, and must wake up earlier than those taken to school by their parents.
 
+Later finishing time also protects the kids
 
+> In addition, later start times beneficially mean a later finish time. This **protects many teens from the well-researched “danger window” between three and six p.m.,** when schools finish but before parents return home. This unsupervised, vulnerable time period is a recognized cause of **involvement in crime and alcohol and substance abuse.**
 
-> In addition, later start times beneficially mean a later finish time. This protects many teens from the well-researched “danger window” between three and six p.m., when schools finish but before parents return home. This unsupervised, vulnerable time period is a recognized cause of involvement in crime and alcohol and substance abuse.
-
-
-
-> An added reason for making sleep a top priority in the education and lives of our children concerns the link between sleep deficiency and the epidemic of ADHD (attention deficit hyperactivity disorder). Children with this diagnosis are irritable, moodier, more distractible and unfocused in learning during the day, and have a significantly increased prevalence of depression and suicidal ideation.
-
-
-
-> Most people know the name of the common ADHD medications: Adderall and Ritalin. But few know what these drugs actually are. Adderall is amphetamine with certain salts mixed in, and Ritalin is a similar stimulant, called methylphenidate. Amphetamine and methylphenidate are two of the most powerful drugs we know of to prevent sleep and keep the brain of an adult (or a child, in this case) wide awake. That is the very last thing that such a child needs.
-
-
+ADHD and sleep deprivation
 
 > I am in no way contesting the disorder of ADHD, and not every child with ADHD has poor sleep. But we know that there are children, many children, perhaps, who are sleep-deprived or suffering from an undiagnosed sleep disorder that masquerades as ADHD.
 
+## Doctors
 
+The legend of Halsted
 
-> Fledgling residents had to suffer long, consecutive work shifts, day and night. To Halsted, sleep was a dispensable luxury that detracted from the ability to work and learn. Halsted’s mentality was difficult to argue with, since he himself practiced what he preached, being renowned for a seemingly superhuman ability to stay awake for apparently days on end without any fatigue.
+> Fledgling residents had to suffer long, consecutive work shifts, day and night. To Halsted, sleep was a dispensable luxury that detracted from the ability to work and learn. Halsted’s mentality was difficult to argue with, since he himself practiced what he preached, being renowned for a **seemingly superhuman ability to stay awake for apparently days on end without any fatigue.**
 
+No amount of experience can solve sleep deprivation
 
+> No amount of years on the job helps a doctor “learn” **how to overcome a lack of sleep and develop resilience**. How could it? Mother Nature spent millions of years implementing this essential physiological need. To think that bravado, willpower, or a few decades of experience can absolve you (a surgeon) of **an evolutionarily ancient necessity is the type of hubris** that, as we know from the evidence, costs lives.
 
-> No amount of years on the job helps a doctor “learn” how to overcome a lack of sleep and develop resilience. How could it? Mother Nature spent millions of years implementing this essential physiological need. To think that bravado, willpower, or a few decades of experience can absolve you (a surgeon) of an evolutionarily ancient necessity is the type of hubris that, as we know from the evidence, costs lives.
+## Technological help
 
+Using technology to help with sleep
 
+> Within three to five years, I am quite certain there will be **commercially available, affordable devices that track an individual’s sleep and circadian rhythm with high accuracy**. When that happens, we can marry these individual sleep trackers with the revolution of in-home networked devices like **thermostats and lighting**.
 
-> Within three to five years, I am quite certain there will be commercially available, affordable devices that track an individual’s sleep and circadian rhythm with high accuracy. When that happens, we can marry these individual sleep trackers with the revolution of in-home networked devices like thermostats and lighting.
+Natural rise and fall in temperature
 
+> Better still, we could program a **natural circadian lull and rise in temperature** across the night that is in harmony with each body’s expectations, rather than the constant nighttime temperature set in most homes and apartments.
 
+LED lights with yellow or blue light depending the time of the day
 
-> Better still, we could program a natural circadian lull and rise in temperature across the night that is in harmony with each body’s expectations, rather than the constant nighttime temperature set in most homes and apartments.
+> Soon, we should be able to engineer **LED bulbs with filters that can vary the wavelength of light that they emit, ranging from warm yellow colors less harmful to melatonin**, to strong blue light that powerfully suppresses it.
 
+Catering to a sudden change in an early morning meeting
 
+> For example, if you have an **unusually early morning meeting in the middle of the workweek, this technology, synched to your online calendar, would gradually begin shifting you** (your circadian rhythm) to a slightly earlier bed and rise time starting on Monday.
 
-> Soon, we should be able to engineer LED bulbs with filters that can vary the wavelength of light that they emit, ranging from warm yellow colors less harmful to melatonin, to strong blue light that powerfully suppresses it.
-
-
-
-> Come the morning, we can reverse this trick. We can now saturate our indoor environments with powerful blue light that shuts off any lingering melatonin.
-
-
-
-> For example, if you have an unusually early morning meeting in the middle of the workweek, this technology, synched to your online calendar, would gradually begin shifting you (your circadian rhythm) to a slightly earlier bed and rise time starting on Monday.
-
-
-
-> Some of the highest rates of drowsy-driving accidents occur during mornings, especially early mornings. What if car cockpits could be bathed in blue light during early-morning commutes?
-
-
+Early morning blue light exposure
 
 > The bulbs were to be installed in the space station to bathe the astronauts in a much more Earth-like cycle of twenty-four-hour light and dark. With regulated environmental light came a superior regulation of the astronauts’ biological melatonin rhythms, including their sleep, thereby reducing operations errors associated with fatigue.
 
 
 
-> Harnessing smartphones as a central hub to gather an individual’s health data from various sources—physical activity (such as number of steps or minutes and intensity of exercise), light exposure, temperature, heart rate, body weight, food intake, work productivity, or mood—we show each individual how their own sleep is a direct predictor of their own physical and mental health.
-
-
-
-> Moreover, you would discover that during months of the year when you were averaging more sleep, you were sick less; your weight, blood pressure, and medication use were all lower; and your relationship or marriage satisfaction, as well as sex life, were better.
-
-
-
-> You will recall from chapter 8 that getting four to six hours of sleep a night in the week before your flu shot means that you will produce less than half of the normal antibody response required, while seven or more hours of sleep consistently returns a powerful and comprehensive immunization response.
-
-
-
-> This is hardly a scientific data set, but still, some form of dietary, exercise, and health-related schooling appears to be part of a worldwide educational plan that most children in developed nations receive. When I asked this same diverse set of individuals if they had received any education about sleep, the response was equally universal in the opposite direction: 0 percent received any educational materials or information about sleep.
-
-
-
-> Bertolini’s empirically justified wisdom overrides misconceptions about grinding down employees with sixteen- to eighteen-hour workdays, burning them out in a model of disposability and declining productivity, littered with sick days, all the while triggering low morale and high turnover rates.
-
-
-
-> Everyone would be present during a core window for key interactions—say, twelve to three p.m. Yet there would be flexible tail ends either side to accommodate all individual chronotypes. Owls could start work late (e.g., noon) and continue into the evening, giving their full force of mental capacity and physical energy to their jobs.
-
-
-
-> Upset by the noisy, unfamiliar ICU environment, sleep takes longer to initiate, is littered with awakenings, is shallower in depth, and contains less overall REM sleep.
-
-
-
-> Imagine trying to sleep in constant light for twenty-four hours a day. Unsurprisingly, infants do not sleep normally under these conditions.
-
-
-
-> Having worked with several large automakers, I can report that soon we will have smart technology inside of cars that may help us know, from a driver’s reactions, eyes, driving behavior, and the nature of the crash, what the prototypical “signature” is of a clearly drowsy-driving accident.
-
-
-
-> Twelve Tips for Healthy Sleep
-
-
-
-> Stick to a sleep schedule. Go to bed and wake up at the same time each day.
-
-
-
-> Exercise is great, but not too late in the day.
-
-
-
-> Avoid caffeine and nicotine. Coffee, colas, certain teas, and chocolate contain the stimulant caffeine, and its effects can take as long as eight hours to wear off fully.
-
-
-
-> Avoid alcoholic drinks before bed. Having a nightcap or alcoholic beverage before sleep may help you relax, but heavy use robs you of REM sleep, keeping you in the lighter stages of sleep.
-
-
-
-> Avoid large meals and beverages late at night. A light snack is okay,
-
-
-
-> If possible, avoid medicines that delay or disrupt your sleep. Some commonly prescribed heart, blood pressure, or asthma medications, as well as some over-the-counter and herbal remedies for coughs, colds, or allergies, can disrupt sleep patterns.
-
-
-
-> Don’t take naps after 3 p.m.
-
-
-
-> Relax before bed. Don’t overschedule your day so that no time is left for unwinding.
-
-
-
-> Take a hot bath before bed. The drop in body temperature after getting out of the bath may help you feel sleepy,
-
-
-
-> Dark bedroom, cool bedroom, gadget-free bedroom.
-
-
-
-> Have the right sunlight exposure.
-
-
-
-> Don’t lie in bed awake.
+> Harnessing smartphones as a central hub to gather an individual’s health data from various sources—physical activity (such as number of steps or minutes and intensity of exercise), **light exposure, temperature, heart rate, body weight, food intake, work productivity**, or mood—we show each individual how their own sleep is a direct predictor of their own physical and mental health.
