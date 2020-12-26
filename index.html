@@ -2,41 +2,30 @@
 layout: default
 ---
 
-<div class="home">
-  <h1 class="title">Books</h1>
-
-  <p>Recorded below is a list of only {{ site.posts | size }} books that I have read so far. But the number of books in my <a href="https://www.brainpickings.org/2015/03/24/umberto-eco-antilibrary/">antilibrary</a> keeps growing every day.</p>
-
-  <blockquote cite="https://www.amazon.com/Black-Swan-Second-Improbable-Incerto-ebook/dp/B00139XTG4">
-    You will accumulate more knowledge and more books as you grow older, and the growing number of unread books on the shelves will look at you menacingly. Indeed, the more you know, the larger the rows of unread books. Let us call this collection of unread books an antilibrary.
-    <br>
-    <br>
-    ~ Umberto Eco’s Antilibrary, The Black Swan
-  </blockquote>
-
-  <table class="post-list">
-    <thead>
-      <tr>
-        <th>date</th>
-        <th>title</th>
-        <th>author(s)</th>
-      </tr>
-    </thead>
-    {% for post in site.posts %}
-      <tr class="click-row" data-href="{{ post.url | prepend: site.baseurl }}">
-        <td>{{ post.date | date: "%-d %b %Y" }}</td>
-        <td>{{ post.title }}</td>
-        <td>{{ post.authors }}</td>
-      </tr>
-    {% endfor %}
-  </table>
-</div>
-
-<script>
-  var elements = document.getElementsByClassName("click-row")
-  Array.prototype.forEach.call(elements, function(el) {
-    el.addEventListener('click', function() {
-      window.location.href = this.dataset.href
-    })
-  })
-</script>
+<section class="section is-small">
+  <div class="container">
+    <div class="content is-large">
+      <table class="table">
+        <tbody>
+          {% for post in site.posts %}
+          <tr>
+            <td>
+              <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              <p class="is-hidden-tablet">
+                <span class="tag is-light">{{ post.authors }}</span>
+                <span class="tag is-white">{{ post.date | date: "%-d %b %Y" }}</span>
+              </p>
+            </td>
+            <td class="has-text-right is-hidden-mobile">
+              {% if post.authors %}
+              <span class="tag is-light">{{ post.authors }}</span>
+              {% endif %}
+              <span class="tag is-white">{{ post.date | date: "%-d %b %Y" }}</span>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>

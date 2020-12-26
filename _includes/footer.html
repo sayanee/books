@@ -1,3 +1,20 @@
-<footer>
-  
-</footer>
+<section class="section is-small">
+  <div class="container">
+    <div class="field is-grouped is-grouped-multiline">
+      {% assign counter = 0 %}
+      {% for post in site.posts %}
+        {% assign thisyear = post.date | date: "%Y" %}
+        {% assign prevyear = post.previous.date | date: "%Y" %}
+        {% assign counter = counter | plus: 1 %}
+        {% if thisyear != prevyear %}
+          <div class="control">
+            <div class="tags has-addons">
+              <span class="tag is-dark">{{ thisyear }}</span>
+              <span class="tag is-light">{{ counter }}</span>
+            </div>
+          </div>
+          {% assign counter = 0 %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>

@@ -1,6 +1,5 @@
 title: Books
-subtitle: my reading notes
-description: Book reviews of the stuff I read
+description: Collection of highlights from the books I have read over the years
 url: "https://books.sayan.ee"
 markdown: kramdown
 permalink: /:title
