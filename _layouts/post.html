@@ -1,26 +1,28 @@
----
-layout: default
----
-<article>
-  <header>
-    <p class="meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
-       •
-      <span>by {{ page.authors }}</span>
-       •
-      <span title="Estimated read time">
-        {% assign words = content | number_of_words %}
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body>
+  <section class="is-medium">
+    <div class="container">
+      <div class="content is-large">
+        <p>{{ page.date | date: "%b %-d, %Y" }}</p>
+      {% if page.author %}
+        {{ page.author }}
+      {% endif %}
+
+      <p>{% assign words = content | number_of_words %}
         {% if words < 360 %}
           1 min
         {% else %}
           {{ words | divided_by:180 }} mins
         {% endif %}
-      </span>
-    </p>
-    <h1>{{ page.title }}</h1>
-  </header>
+      </p>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-</article>
+      <h1>{{ page.title }}</h1>
+
+      {{ content }}
+      </div>
+    </div>
+  </section>
+</body>
+</html>
