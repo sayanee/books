@@ -2,15 +2,7 @@
 
 # start Jekyll server locally
 serve:
-	bundle exec jekyll serve
-
-# build CSS from SASS
-build:
-	sass css/main.sass:css/main.css
-
-# watch SASS compile to CSS
-watch:
-	sass --watch css/main.sass:css/main.css
+	bundle exec jekyll serve --drafts
 
 # install dependancies
 install:
