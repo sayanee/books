@@ -1,26 +1,44 @@
 <!DOCTYPE html>
 <html>
 {% include head.html %}
-<body>
+<body class="has-navbar-fixed-top">
+  {% include nav.html %}
   <section class="is-medium">
     <div class="container">
       <div class="content is-large">
-        <p>{{ page.date | date: "%b %-d, %Y" }}</p>
-      {% if page.author %}
-        {{ page.author }}
-      {% endif %}
+        <h1 class="title my-6">{{ page.title }}</h1>
 
-      <p>{% assign words = content | number_of_words %}
-        {% if words < 360 %}
-          1 min
-        {% else %}
-          {{ words | divided_by:180 }} mins
-        {% endif %}
-      </p>
+        <div class="field is-grouped is-grouped-multiline">
+          <div class="control">
+            <div class="tags has-addons">
+              <span class="tag is-light">date</span>
+              <span class="tag is-dark">{{ page.date | date: "%b %-d, %Y" }}</span>
+            </div>
+          </div>
 
-      <h1>{{ page.title }}</h1>
+          {% if page.authors %}
+          <div class="control">
+            <div class="tags has-addons">
+              <span class="tag is-light">authors</span>
+              <span class="tag is-dark">{{ page.authors }}</span>
+            </div>
+          </div>
+          {% endif %}
 
-      {{ content }}
+          <div class="control">
+            <div class="tags has-addons">
+              <span class="tag is-light">reading time</span>
+              {% assign words = content | number_of_words %}
+              {% if words < 360 %}
+              <span class="tag is-dark">1 min</span>
+              {% else %}
+                <span class="tag is-dark">{{ words | divided_by:180 }} mins</span>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+
+        {{ content }}
       </div>
     </div>
   </section>
