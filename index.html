@@ -12,15 +12,11 @@ layout: default
             <td>
               <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
               <p class="is-hidden-tablet">
-                <span class="tag is-light">{{ post.authors }}</span>
-                <span class="tag is-white">{{ post.date | date: "%-d %b %Y" }}</span>
+                {% include info.html %}
               </p>
             </td>
             <td class="has-text-right is-hidden-mobile">
-              {% if post.authors %}
-              <span class="tag is-light">{{ post.authors }}</span>
-              {% endif %}
-              <span class="tag is-white">{{ post.date | date: "%-d %b %Y" }}</span>
+              {% include info.html %}
             </td>
           </tr>
           {% endfor %}

@@ -8,10 +8,6 @@ authors: Siddhartha Mukherjee
 
 ## Definition of Cancer
 
-What kind of disease
-
-> Cancer is not one disease but many diseases. We call them all “cancer” because they share a fundamental feature: the **abnormal growth of cells**.
-
 Leukemia
 
 > Leukemia is cancer of the white blood cells—cancer in one of its most explosive, violent incarnations. As one nurse on the wards often liked to remind her patients, with this disease “even a paper cut is an emergency.”
@@ -28,36 +24,7 @@ Cells' drive to grow
 
 > Looking at cancerous growths through his microscope, Virchow discovered an **uncontrolled growth of cells** — hyperplasia in its extreme form. As Virchow examined the architecture of cancers, the growth often seemed to have acquired a life of its own, as if the cells had become possessed by a new and mysterious drive to grow.
 
-Types of cancer
-
-> Cancer came in diverse forms — **breast, stomach, skin, and cervical cancer, leukemias and lymphomas**. But all these diseases were deeply connected at the cellular level. In every case, cells had all acquired the same characteristic: uncontrollable pathological cell division.
-
-Expansionist
-
-> Cancer is an expansionist disease; it invades through tissues, sets up colonies in hostile landscapes, seeking “sanctuary” in one organ and then immigrating to another. It lives desperately, inventively, fiercely, territorially, cannily, and defensively—at times, as if teaching us how to survive.
-
-Mutation
-
-> Every generation of cancer cells creates a small number of cells that is genetically different from its parents. When a chemotherapeutic drug or the immune system attacks cancer, mutant clones that can resist the attack grow out. The fittest cancer cell survives.
-
-Cancer means crab
-
-> It was in the time of Hippocrates, around 400 BC, that a word for cancer first appeared in the medical literature: karkinos, from the Greek word for “crab.” ... For some, the hardened, matted surface of the tumor was reminiscent of the tough carapace of a crab’s body. Others felt a crab moving under the flesh as the disease spread stealthily throughout the body. For yet others, the sudden stab of pain produced by the disease was like being caught in the grip of a crab’s pincers.
-
-Oncology word
-
-> onkos, a word used occasionally to describe tumors, from which the discipline of oncology would take its modern name. Onkos was the Greek term for a mass or a load, or more commonly a burden; cancer was imagined as a burden carried by the body.
-
-Choromosal chaos
-
-> Cancer was not disorganized chromosomal chaos. It was organized chromosomal chaos: specific and identical mutations existed in particular forms of cancer.
-
-
 ## History
-
-Tuberculosis
-
-> Both drain vitality; both stretch out the encounter with death; in both cases, dying, even more than death, defines the illness. But despite such parallels, tuberculosis belongs to another century. TB (or consumption) was Victorian romanticism brought to its pathological extreme—febrile, unrelenting, breathless, and obsessive.
 
 Oldest diesease
 
@@ -67,20 +34,11 @@ Cancer has always existed
 
 > In most ancient societies, people didn’t live long enough to get cancer. Men and women were **long consumed by tuberculosis, dropsy, cholera, smallpox, leprosy, plague, or pneumonia**. If cancer existed, it remained submerged under the sea of other illnesses... Indeed, cancer’s emergence in the world is the product of a double negative: it becomes common only when all other killers themselves have been killed... The link was correct, but the causality was not: civilization did not cause cancer, but by extending human life spans—civilization unveiled it.
 
-Discovery of Radium and radiation linked to cancer
-
-> It would take biologists decades to fully decipher the mechanism that lay behind these effects, but the spectrum of damaged tissues—skin, lips, blood, gums, and nails—already provided an important clue: radium was attacking DNA. DNA is an inert molecule, exquisitely resistant to most chemical reactions, for its job is to maintain the stability of genetic information.
-
 ## Process
 
 Science, counting and measuring
 
 > And despite its many idiosyncrasies, leukemia possessed a singularly attractive feature: it could be measured. Science begins with counting. To understand a phenomenon, a scientist must first describe it; to describe it objectively, he must first measure it. If cancer medicine was to be transformed into a rigorous science, then cancer would need to be counted somehow—measured in some reliable, reproducible way.
-
-Improving public health with medicine and hygiene
-
-> New drugs appeared at an astonishing rate: by 1950, more than half the medicines in common medical use had been unknown merely a decade earlier. Perhaps even more significant than these miracle drugs, shifts in public health and **hygiene also drastically altered the national physiognomy of illness**.
-
 
 Discovery of failure is dealt alone
 
@@ -90,16 +48,11 @@ Organising mundane tasks
 
 > But collecting specimens was a rather mundane task; Hodgkin’s particular genius lay in organizing them. He became a librarian as much as a pathologist; he devised his own systematics for pathology.
 
-
 ## Cure
 
 Surgery or radiation
 
 > To cure cancer (if it could be cured at all), doctors had only two strategies: excising the tumor surgically or incinerating it with radiation—a choice between the hot ray and the cold knife.
-
-Possible cure with folic acid
-
-> And case by case, an incredible pattern emerged: the antifolates could drive leukemia cell counts down, occasionally even resulting in their complete disappearance—at least for a while. There were other remissions as dramatic as Sandler’s.
 
 Relapse
 
@@ -108,30 +61,6 @@ Relapse
 Stomach cancer reduced, but lung cancer increased
 
 > With the introduction of modern refrigeration (and possibly changes in public hygiene that have diminished the rate of endemic infection), the stomach cancer epidemic seems to have abated. In contrast, lung cancer incidence in men increased dramatically in the 1950s as a result of an increase in cigarette smoking during the early twentieth century.
-
-Vesalius vs Galen: Theory vs empirical
-
-> The lymphatic system carried a pale, watery fluid; the blood vessels were filled, as expected, with blood. Yellow bile was in the liver. But black bile—Galen’s oozing carrier of cancer and depression—could not be found anywhere... Vesalius hedged about his discovery. Guiltily, he heaped even more praise on the long-dead Galen. But, an empiricist to the core, Vesalius left his drawings just as he saw things, leaving others to draw their own conclusions.
-
-The pain of surgery
-
-> As if the pain during surgery were not bad enough, the threat of infections after surgery loomed. Those who survived the terrifying crucible of the operating table often died even more miserable deaths in their own beds soon afterward.
-
-Anaesthesia
-
-> Anaesthesia — the dissociation of pain from surgery—allowed surgeons to perform prolonged operations, often lasting several hours. But the hurdle of postsurgical infection remained. Until the mid-nineteenth century, such infections were common and lethal, but their cause remained a mystery.
-
-Closed wounds
-
-> Lister began with an old clinical observation: wounds left open to the air would quickly turn gangrenous, while closed wounds would often remain clean and uninfected.
-
-Theory of germs by Louis Pasteur
-
-> Based on these observations, Pasteur had made a bold claim: the turbidity was caused by the growth of invisible microorganisms—bacteria—that had fallen out of the air into the broth. Lister took Pasteur’s reasoning further. An open wound—a mixture of clotted blood and denuded flesh—was, after all, a human variant of Pasteur’s meat broth, a natural petri dish for bacterial growth.
-
-Removal of tumours
-
-> These procedures represented pivotal advances in the treatment of cancer. By the early twentieth century, many locally restricted cancers (i.e., primary tumors without metastatic lesions) could be removed by surgery. These included uterine and ovarian cancer, breast and prostate cancer, colon cancer, and lung cancer. If these tumors were removed before they had invaded other organs, these operations produced cures in a significant fraction of patients.
 
 Remerging of cancer at the margins
 
@@ -145,29 +74,9 @@ How is survival rate calculated? Longitudinal test
 
 > To determine whether Halsted had truly cured breast cancer, one needed to track not immediate survival, or even survival over five or ten months, but survival over five or ten years... The procedure had to be put to a test by following patients longitudinally in time.
 
-Conclusion: Not extensive surgery, but extensive cancer
-
-> The ultimate survival from breast cancer, in short, had little to do with how extensively a surgeon operated on the breast; it depended on how extensively the cancer had spread before surgery.
-
 Being a scientist is like being a bookkeeper with skepticism
 
 > By now the perpetually changing landscape of breast cancer was beginning to tire him out. Trials, tables, and charts had never been his forte; he was a surgeon, not a bookkeeper. “It is especially true of mammary cancer,” he wrote, “that the surgeon interested in furnishing the best statistics may in perfectly honorable ways provide them.” That statement—almost vulgar by Halsted’s standards—exemplified his **growing skepticism** about putting his own operation to a test.
-
-More surgery did not mean more effective
-
-> But what Halsted could not prove, despite his most strenuous efforts, was far more revealing. After nearly two decades of data gathering, having been levitated, praised, analyzed, and reanalyzed in conference after conference, the superiority of radical surgery in “curing” cancer still stood on shaky ground. **More surgery had just not translated into more effective therapy.**
-
-Potential dangers of indiscriminate irradiation
-
-> But like surgery, radiation medicine also struggled against its inherent limits. Emil Grubbe had already encountered the first of these limits with his earliest experimental treatments: since X-rays could only be directed locally, radiation was of limited use for cancers that had metasta-sized. One could double and quadruple the doses of radiant energy, but this did not translate into more cures. Instead, indiscriminate irradiation left patients scarred, blinded, and scalded by doses that had far exceeded tolerability. The second limit was far more insidious: radiation produced cancers.
-
-Toxins, dyes and antitoxins
-
-> The biological universe was full of molecules picking out their partners like clever locks designed to fit a key: toxins clinging inseparably to antitoxins, dyes that highlighted only particular parts of cells, chemical stains that could nimbly pick out one class of germs from a mixture of microbes.
-
-Chemotherapy: poison or drug
-
-> Every drug, the sixteenth-century physician Paracelsus once opined, is a poison in disguise. Cancer chemotherapy, consumed by its fiery obsession to obliterate the cancer cell, found its roots in the obverse logic: every poison might be a drug in disguise.
 
 Randomising trials
 
@@ -201,22 +110,6 @@ Why technological projects are different from medical projects
 
 > The Apollo mission and the Manhattan Project, the two models driving this War on Cancer were both technological achievements that stood on the shoulders of long and deep scientific discoveries (atomic physics, fluid mechanics, and thermodynamics). In contrast, even a cursory understanding of the process that made cells become malignant was missing.
 
-Comparison on cancer fight with moon landing
-
-> argued, “An all-out effort at this time would be like trying to land a man on the moon without knowing Newton’s laws of gravity.” James Watson, who had discovered the structure of DNA, unloosed a verbal rampage against the Senate bill. “Doing ‘relevant’ research is not necessarily doing ‘good’ research,” Watson would later write.
-
-War analogy on cancer is also wrong!
-
-> Scientists, too, withdrew from the war—in part, because they had little to contribute to it. The rhetoric of this war implied that **its tools, its weapons, its army, its target, and its strategy had already been assembled**. Science, the discovery of the unknown, was pushed to the peripheries of this battle.
-
-Why aggressive surgery is not required
-
-> If the tumor was locally confined to start with, Crile argued, then it would be adequately removed by local surgery and radiation, and manically stripping away extra nodes and muscles could add no possible benefit. In contrast, if breast cancer had already spread outside the breast, then surgery would be useless anyway, and more aggressive surgery would simply be more aggressively useless.
-
-Power
-
-> To measure the confidence in a negative claim, Neyman and Pearson invoked a statistical concept called power. “Power” in simplistic terms, is a measure of the ability of a test or trial to reject a hypothesis. Intuitively, Neyman and Pearson reasoned that a scientist’s capacity to reject a hypothesis depends most critically on how intensively he has tested the hypothesis—and thus, on the number of samples that have independently been tested.
-
 Recruiting for trials
 
 > For any trial to be adequately “powered,” it needs to **recruit an adequate number of patients**. But to recruit patients, a trialist has to convince doctors to participate in the trial—and yet these doctors are often precisely those who have the least interest in having a theory rejected or disproved.
@@ -228,22 +121,6 @@ Controlled trials for radical surgery
 Experience != Scientific validity
 
 > “The clinician, no matter how venerable, must accept the fact that **experience, voluminous as it might be, cannot be employed as a sensitive indicator of scientific validity**,” Fisher wrote in an article. He was willing to have faith in divine wisdom, but not in Halsted as divine wisdom. “In God we trust,” he brusquely told a journalist. “**All others [must] have data**.”
-
-How data proved that radical mastectomy is not required
-
-> In 1981, the results of the trial were finally made public. The rates of breast cancer recurrence, relapse, death, and distant cancer metastasis were statistically identical among all three groups. The group treated with the radical mastectomy had paid heavily in morbidity, but accrued no benefits in survival, recurrence, or mortality.
-
-Every single patient's recovery adds to saving a million more!
-
-> At the NIH, Alsop wrote pointedly, “Saving the individual patient is not the essential mission. Enormous efforts are made to do so, or at least to prolong the patient’s life to the last possible moment. But the **basic purpose is not to save that patient’s particular life but to find means of saving the lives of others**.”
-
-At the height of chemotherapy
-
-> Between 1984 and 1985, at the midpoint of the most aggressive expansion of chemotherapy, nearly **six thousand articles were published on the subject in medical journals**. Not a single article reported a new strategy for the definitive cure of an advanced solid tumor by means of combination chemotherapy alone.
-
-Healing prostrate cancer
-
-> If he injected the castrated dogs with purified testosterone, the exogenous hormone saved the prostate from shriveling. Prostate cells were thus acutely dependent on the hormone testosterone for their growth and function. Female sexual hormones kept breast cells alive; male hormones had a similar effect on prostate cells.
 
 Combining surgery and chemotherapy
 
@@ -265,33 +142,15 @@ Early detection tests
 
 > Finally, Cairns factored in screening strategies such as Pap smears and mammograms that detected cancer in its early stages. These, he estimated loosely, saved an additional 10,000 to 15,000 cancer-related deaths per year. The grand tally, generously speaking, amounted to about 35,000 to 40,000 lives per year.
 
-Increase in lung cancer
-
-> Bailar and Smith found that even Cairns had been overgenerous: between 1962 and 1985, cancer-related deaths had increased by 8.7 percent. That increase reflected many factors—most potently, an increase in smoking rates in the 1950s that had resulted in an increase in lung cancer.
-
 How to measure success rate of cancer?
 
 > A young woman cured of lymphoma, with fifty additional years of life, was judged by the same metric as an elderly woman cured of breast cancer, who might succumb to some other cause of death in the next year. If “years of life saved” was used as a measure of progress on cancer, then the numbers turned far more palatable. Now, instead of losing the War on Cancer, it appeared that we were winning it.
-
-Funds for prevention vs treatment
-
-> A vast majority of the institute’s grants, 80 percent, were directed toward treatment strategies for cancer; prevention research received about 20 percent. (By 1992, this number had increased to 30 percent;
 
 3 approaches to cancer
 
 > Frank Rauscher, wrote effusively about its three-pronged approach to cancer: “Treatment, Rehabilitation and Continuing Care.” That there was no mention of either prevention or early detection was symptomatic: the institute did not even consider cancer prevention a core strength.
 
-Challenge in overdiagnosis and underdiagnosis
-
-> The trouble is that overdiagnosis and underdiagnosis are often intrinsically conjoined, locked perpetually on two ends of a seesaw. Screening tests that strive to limit overdiagnosis—by narrowing the criteria by which patients are classified as positive—often pay the price of increasing underdiagnosis because they miss patients that lie in the gray zone between positive and negative.
-
-Being overenthusiastic is dangerous
-
-> Like all patients, Carla smells overenthusiasm with deep suspicion: a doctor who raves disproportionately about small victories is the same doctor who might be preparing his patient for some ultimate defeat.
-
-
-
-## Scrotal cancer
+## Various types of cancer
 
 Link between scrotal cancer and soot!
 
@@ -301,39 +160,13 @@ External agents causing cancer
 
 > The implication of Pott’s work was far-reaching. If soot, and not some mystical, numinous humor (à la Galen), caused scrotal cancer, then two facts had to be true. First, external agents, rather than imbalances of internal fluids, had to lie at the root of carcinogenesis!... Second, if a foreign substance was truly the cause, then cancer was potentially preventable.
 
-Removal of Carcinogens
-
-> There was no need to purge the body of fluids. Since the illness was man-made, its solution could also be man-made. Remove the carcinogen—and cancer would stop appearing.
-
-How scrotal cancer was prevented in young boys
-
-> By the late eighteenth century, the embarrassing plight of London’s climbing-boys was publicly exposed, and social reformers in England sought to create laws to regulate the occupation. In 1788, the Chimney Sweepers Act was passed in Parliament, preventing master sweeps from employing children under eight... Pott did not live to see the changes—he contracted pneumonia and died in 1788—but the man-made epidemic of scrotal cancer among sweeps vanished over several decades.
-
-## Lung Cancer
-
 How lunch cancer spread
 
 > By 1855, English, Russian, and French soldiers were all puffing their tobacco rations rolled up in paper. When these soldiers returned from the war, they brought their habits, like viruses again, to their respective homelands with them.
 
-How cigarettes spread
-
-> In the turbulent century between 1850 and 1950, the world offered conflict, atomization, and disorientation. The cigarette offered its equal and opposite salve: camaraderie, a sense of belonging, and the familiarity of habits. If cancer is the quintessential product of modernity, then so, too, is its principal preventable cause: tobacco.
-
-When something is so permissive in life, how to derive any linkages?
-
-> By the early 1940s, asking about a connection between tobacco and cancer was like asking about an association between sitting and cancer.” If nearly all men smoked, and only some of them developed cancer, then how might one tease apart the statistical link between one and the other?
-
 Linking lung cancer with smoking
 
 > By May 1, 1948, 156 interviews had come in. And as Doll and Hill sifted through the preliminary batch of responses, only one solid and indisputable statistical association with lung cancer leapt out: cigarette smoking. As more interviews poured in week after week, the **statistical association strengthened**... In the middle of the survey, sufficiently alarmed, he gave up smoking.
-
-How to collect stats about correlating deaths and cigarette
-
-> Each time a death in the cohort was reported, they contacted the registrar’s office to determine the precise cause of death. Deaths from lung cancer were tabulated for smokers versus nonsmokers. Doll and Hill could now sit back and watch cancer unfold in real time.
-
-Data proves lung cancer and smoking
-
-> In the twenty-nine months between October 1951 and March 1954, 789 deaths were reported in Doll and Hill’s original cohort. Thirty-six of these were attributed to lung cancer. When these lung cancer deaths were counted in smokers versus nonsmokers, the correlation virtually sprang out: **all thirty-six of the deaths had occurred in smokers**.
 
 Smoking and lung cancer
 
@@ -343,26 +176,6 @@ Smoking has a long afterlife of 30 years!
 
 > Yet, old sins have long shadows, and carcinogenic sins especially so. The lag time between tobacco exposure and lung cancer is **nearly three decades**, and the lung cancer epidemic in America will have an afterlife long after smoking incidence has dropped.
 
-## Vaginal and uterine cancer
-
-DES as carcinogens
-
-> DES was widely prescribed to pregnant women in the 1950s to prevent premature deliveries (although it was of only questionable benefit in this regard). A generation later, when women with vaginal and uterine cancer were questioned about their exposures to estrogens, a peculiar pattern emerged: the women had not been exposed to the chemical directly, but their mothers had been. The carcinogen had skipped a generation.
-
-Chemicals and carcinogen link
-
-> Ames could now test thousands of chemicals to create a catalog of chemicals that increased the mutation rate—mutagens. And as he populated his catalog, he made a seminal observation: **chemicals that scored as mutagens in his test tended to be carcinogens as well**. Dye derivatives, known to be potent human carcinogens, scored floridly, causing hundreds of colonies of bacteria. So did X-rays, benzene compounds, and nitrosoguanidine derivatives—all known to cause cancers in rats and mice. In the tradition of all good tests,** Ames’s test transformed the unobservable and immeasurable into the observable and measurable**.
-
-Why carcinogens cause cancer?
-
-> But despite its shortcomings, the Ames test provided an important link between a purely descriptive approach toward cancer prevention and a mechanistic approach. Carcinogens, Ames suggested, had a common, distinctive functional property: **they altered genes**.
-
-How to identify carcinogens?
-
-> why was the capacity to cause mutations linked to the ability to induce cancer? But he had demonstrated that carcinogens could be found experimentally—not retrospectively (by investigating cases and controls in human subjects) but **by prospectively identifying chemicals** that could cause mutations in a rather simple and elegant biological assay.
-
-## Cervical Cancer
-
 Reason for Pap smear
 
 > Papanicolaou verbalized a strand of thought that he had been spinning internally for nearly a decade. The thought almost convulsed out of him. The **real use of the Pap smear was not to find cancer, but rather to detect its antecedent**, its precursor—the portent of cancer... “A Pap smear would give a woman a chance to receive preventive care [and] greatly decrease the likelihood of her ever developing cancer.” Cervical cancer typically arises in an outer layer of the cervix, then grows in a flaky, superficial whirl before burrowing inward into the surrounding tissues.
@@ -370,14 +183,6 @@ Reason for Pap smear
 Curable cancer
 
 > The Pap smear had, in effect, **pushed the clock of cancer detection forward** by nearly two decades, and changed the spectrum of cervical cancer from predominantly incurable to predominantly curable.
-
-
-
-Challenges in screening tests
-
-> We want every cancer test to **operate with perfect specificity and sensitivity**. But the technologies for screening are not perfect. Screening tests thus routinely fail because they cannot even cross this preliminary hurdle—the **rate of over- or underdiagnosis is unacceptably high**.
-
-## Breast cancer
 
 Mamography helps!
 
@@ -387,72 +192,11 @@ AIDS and Cancer
 
 > Like cancer patients, AIDS patients were also paralyzed and shrouded by those metaphors—stripped bare, like the cancer patient in Solzhenitsyn’s Cancer Ward, then forced to don the ghoulish uniform of their disease. The **stigmas attached to cancer—guilt, secrecy, shame**—were recycled and refitted for AIDS, acquiring tenfold force and potency: sexual guilt, sexual secrecy, sexual shame.
 
-## Improvements
-
-Colon cancer
-
-> Death rates from colon cancer, for instance, had fallen by nearly 30 percent, and from cervical and uterine cancer by 20. Both diseases could be detected by screening tests (colonoscopy for colon cancer, and Pap smears for cervical cancer) and at least part of the decrease in mortality was the likely consequence of earlier detection.
-
-Lung Cancer
-
-> The incidence of lung cancer was highest in those above fifty-five, and was lower in men and women below fifty-five, a **consequence of changes in smoking behavior since the 1950s**. The decrease in cancer mortality in younger men and women had been perfectly offset by the increase in cancer mortality in older men and women.
-
 ## Biology and cells
-
-Chromosomes
-
-> But was it cause or effect? Had cancer altered the structure of chromosomes? Or had chromosomal changes precipitated cancer? Von Hansemann had observed a correlation between chromosomal change and cancer.
-
-X-Rays causing more mutation
-
-> Muller found that he could accelerate the incidence of these accidents. Using X-rays to bombard flies, he found that he could produce hundreds of mutant flies over a few months—more than Morgan and his colleagues had produced using their vast breeding program over nearly two decades.
 
 Virologists, vs Epidemiologists vs Geneticians
 
 > By the early 1950s, cancer researchers had thus split into three feuding camps. The virologists, led by Rous, claimed that viruses caused cancer, although no such virus had been found in human studies. Epidemiologists, such as Doll and Hill, argued that exogenous chemicals caused cancer, although they could not offer a mechanistic explanation for their theory or results. The third camp, of Theodor Boveri’s successors, stood at the farthest periphery. They possessed weak, circumstantial evidence that genes internal to the cell might cause cancer, but had neither the powerful human data of the epidemiologists
-
-Why non-smokers also have lung cancer?
-
-> The theory clarified why the same kind of cancer might arise in smokers and nonsmokers, albeit at different rates: both smokers and nonsmokers have the same proto-oncogenes in their cells, **but smokers develop cancer at a higher rate** because carcinogens in tobacco increase the mutation rate of these genes.
-
-
-
-
-
-
-> Genes are units of inheritance: they shuttle properties—traits—from one generation to the next. If genes cause cancer, Knudson reasoned, then he might capture a pattern in the inheritance of cancer, much as Mendel had captured the idea of a gene by studying the inheritance of flower color or plant height in peas.
-
-
-
-> He wondered whether he could discern a subtle difference in the development of cancer between the sporadic and the inherited versions using mathematical analyses. He performed the simplest of experiments: he grouped children with the sporadic form into one cohort and children with the familial form in a second.
-
-
-
-> In inherited retinoblastoma, cancer onset was rapid, with diagnosis typically two to six months after birth. Sporadic retinoblastoma typically appeared two to four years after birth.
-
-
-
-> These children are thus predisposed to the cancer, and they develop cancer faster, producing the “rapid velocity” tumors that Knudson saw in his statistical charts. Knudson called this the two-hit hypothesis of cancer. For certain cancer-causing genes, two mutational “hits” were needed to provoke cell division and thus produce cancer.
-
-
-
-> When this unanticipated fact proves true or the event does occur, the theory gains credibility and robustness. Newton’s understanding of gravitation was most spectacularly validated when it accurately presaged the return of Halley’s comet in 1758. Einstein’s theory of relativity was vindicated in 1919 by the demonstration that light from distant stars is “bent” by the mass of the sun, just as predicted by the theory’s equations.
-
-
-
-> By the mid-1970s, Weinberg had acquired a reputation among his colleagues as a careful, technically competent scientist, but one who lacked direction. Weinberg felt his work was stagnating. What he needed was a simple, clear question.
-
-
-
-> Of the twenty thousand genes in a cancer cell, Weinberg reasoned the vast majority were likely normal and only a small minority were mutated proto-oncogenes. Now imagine, for a moment, being able to take all twenty thousand genes in the cancer cell, the good, the bad, the ugly, and transferring them into twenty thousand normal cells, such that each cell receives one of the genes. The normal, unmutated genes will have little effect on the cells.
-
-
-
-> If activated oncogenes existed within cancer cells, then transferring these genes into normal cells should induce these normal cells to divide and proliferate.
-
-
-
-> In cancer cells, the gene was mutated, just as Varmus and Bishop had predicted. Mutated ras encoded a berserk, perpetually hyperactive protein permanently locked “on.” This mutant protein produced an unquenchable signal for a cell to divide—and to keep dividing. It was the long-sought “native” human oncogene, captured in flesh and blood out of a cancer cell.
 
 
 
@@ -854,28 +598,9 @@ Why non-smokers also have lung cancer?
 
 > It’s gotten vastly better because the prior years have been humbling, and the disciplines have become less isolated. These days, there is hardly a cancer center in which there are not collaborative groups between surgeons, chemotherapists, and radiation oncologists. I think that model evolved out of those humbling experiences—the idea that you can’t just use one weapon to battle cancer
 
+Areas of improvements
 
-
-> There are four significant areas. The first is the role of the immune system in certain kinds of cancer.
-
-
-
-> The second area is cancer metabolism.
-
-
-
-> The third area of interest is the role of gene regulation in cancer cells. Nearly
-
-
-
-> The final area of promising investigation is the role of the microenvironment of cancer cells, and its relationship with growth, invasion, and metastasis.
-
-
-
-
-Thinking positively does not cure!
-
-> But there is no “correct” response to a diagnosis of cancer. I am deeply offended when people say to a patient: “you are not healing properly because you aren’t thinking positively” or “negative thoughts cause cancer—think positively.”,, This form of thinking is medieval—it blames the victim and increases the burden of illness. I know dozens of cancer patients who thought “positively”—but inevitably succumbed to a deadly variant of cancer. And I know dozens who had no “positive” response but are alive today.
+> There are four significant areas. The first is the role of the immune system in certain kinds of cancer... The second area is cancer metabolism... The third area of interest is the role of gene regulation in cancer cells... The final area of promising investigation is the role of the microenvironment of cancer cells, and its relationship with growth, invasion, and metastasis.
 
 Possible changes in lifestyle
 

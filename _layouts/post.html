@@ -11,28 +11,28 @@
         <div class="field is-grouped is-grouped-multiline">
           <div class="control">
             <div class="tags has-addons">
-              <span class="tag is-light">date</span>
-              <span class="tag is-dark">{{ page.date | date: "%b %-d, %Y" }}</span>
+              <span class="tag is-medium is-light">date</span>
+              <span class="tag is-medium is-light is-warning">{{ page.date | date: "%b %-d, %Y" }}</span>
             </div>
           </div>
 
           {% if page.authors %}
           <div class="control">
             <div class="tags has-addons">
-              <span class="tag is-light">authors</span>
-              <span class="tag is-dark">{{ page.authors }}</span>
+              <span class="tag is-medium is-light">authors</span>
+              <span class="tag is-medium is-primary is-light">{{ page.authors }}</span>
             </div>
           </div>
           {% endif %}
 
           <div class="control">
             <div class="tags has-addons">
-              <span class="tag is-light">reading time</span>
+              <span class="tag is-medium is-light">reading time</span>
               {% assign words = content | number_of_words %}
               {% if words < 360 %}
-              <span class="tag is-dark">1 min</span>
+              <span class="tag is-medium is-danger is-light">1 min</span>
               {% else %}
-                <span class="tag is-dark">{{ words | divided_by:180 }} mins</span>
+                <span class="tag is-medium is-danger is-light">{{ words | divided_by:180 }} mins</span>
               {% endif %}
             </div>
           </div>

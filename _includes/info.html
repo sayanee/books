@@ -1,0 +1,11 @@
+<span class="tag is-light is-warning">{{ post.date | date: "%-d %b %Y" }}</span>
+{% if post.authors %}
+<span class="tag is-light is-info">{{ post.authors }}</span>
+{% endif %}
+
+{% assign words = post.content | number_of_words %}
+{% if words < 360 %}
+<span class="tag is-danger is-light">1 min</span>
+{% else %}
+<span class="tag is-danger is-light">{{ words | divided_by:180 }} mins</span>
+{% endif %}
