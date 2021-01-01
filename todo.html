@@ -5,14 +5,14 @@ layout: default
 <section class="section is-small">
   <div class="container">
     <div class="content is-large">
-      <h2>Process long reading times more than 30 mins</h2>
+      <h2>Process long reading times more than 25 mins</h2>
       <table class="table">
         <tbody>
           {% for post in site.posts  %}
           {% assign words = post.content | number_of_words %}
-          {% if words >= 10800 %}
+          {% if words >= 9000 %}
           <!-- Book review highlights that takes more than 15 minutes to read -->
-          <!-- 10800 = 360*30 -->
+          <!-- 9000 = 360*25 -->
           <tr>
             <td>
               <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
