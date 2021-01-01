@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<section class="section is-small">
+  <div class="container">
+    <div class="content is-large">
+      <h2>Process long reading times more than 1 hour</h2>
+      <table class="table">
+        <tbody>
+          {% for post in site.posts  %}
+          {% assign words = post.content | number_of_words %}
+          {% if words >= 21600 %}
+          <!-- Book review highlights that takes more than 15 minutes to read -->
+          <!-- 21600 = 360*60 -->
+          <tr>
+            <td>
+              <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              <p class="is-hidden-tablet">
+                {% include info.html %}
+              </p>
+            </td>
+            <td class="has-text-right is-hidden-mobile">
+              {% include info.html %}
+            </td>
+          </tr>
+          {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+
+
