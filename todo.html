@@ -10,9 +10,9 @@ layout: default
         <tbody>
           {% for post in site.posts  %}
           {% assign words = post.content | number_of_words %}
-          {% if words >= 21600 %}
+          {% if words >= 43200 %}
           <!-- Book review highlights that takes more than 15 minutes to read -->
-          <!-- 21600 = 360*60 -->
+          <!-- 43200 = 360*120 -->
           <tr>
             <td>
               <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
