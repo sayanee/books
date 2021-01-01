@@ -5,9 +5,6 @@ authors: Heidi Murkoff and Sharon Mazel
 
 ---
 
-Why read?
-
-> As a high-risk obstetrician who has delivered thousands of babies, often to mothers with very complicated medical and obstetrical conditions, I know that **a well-informed patient is the cornerstone to a successful outcome**.
 
 ## First signs of pregnancy
 

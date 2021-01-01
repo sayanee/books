@@ -8,12 +8,13 @@ authors: Matthew Walker
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [12 Tips for Healthy Sleep](#12-tips-for-healthy-sleep)
-- [Side effects of not sleeping](#side-effects-of-not-sleeping)
-- [Characteristics of sleep](#characteristics-of-sleep)
-- [What causes sleep disruption](#what-causes-sleep-disruption)
+
+- [12 Tips](#12-tips)
+- [Side effects](#side-effects)
+- [Characteristics](#characteristics)
+- [Sleep disruption](#sleep-disruption)
 - [What is sleep?](#what-is-sleep)
-- [Animal kingdom and human evolution](#animal-kingdom-and-human-evolution)
+- [Animal kingdom and evolution](#animal-kingdom-and-evolution)
 - [From fetus, newborns to adults](#from-fetus-newborns-to-adults)
 - [Learning and Sleep](#learning-and-sleep)
 - [Dreams](#dreams)
@@ -22,7 +23,6 @@ authors: Matthew Walker
 - [Curing insomnia through CBT](#curing-insomnia-through-cbt)
 - [Work culture](#work-culture)
 - [School culture](#school-culture)
-- [Doctors](#doctors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
