@@ -2,7 +2,7 @@
 
 # start Jekyll server locally
 serve:
-	bundle exec jekyll serve --drafts
+	bundle exec jekyll serve
 
 # install dependancies
 install:

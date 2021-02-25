@@ -8,6 +8,7 @@ authors: Many
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
+- [IoT devices](#iot-devices)
 - [Challenges](#challenges)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -56,7 +57,7 @@ Challenges:
 
 Challenges in UI
 
-Despite the differences in form factors, users need to feel as if they are using a coherent service rather than a set of disjointed UIs. It’s important to consider **not just the usability of individual UIs but inter-usability: distributed user experience across multiple devices.**
+> Despite the differences in form factors, users need to feel as if they are using a coherent service rather than a set of disjointed UIs. It’s important to consider **not just the usability of individual UIs but inter-usability: distributed user experience across multiple devices.**
 
 Real-world objects vs internet
 
@@ -358,10 +359,6 @@ We can then use that documentation in interviews to elicit richer and more detai
 * **Timelines** help people tell more detailed and more concrete stories about past events.
 * **Diaries and usage logs** help you understand what your users do, think, and feel when you’re not around.
 
-Balance in doing waterfall vs agile
-
-> Building a connected consumer product without upfront investigation will likely waste your time and money. However, we’re not advocating a traditional waterfall model, in which you do extensive research, build the product, and only then evaluate it. That’s likely to waste time and money, too.
-
 Product summary
 
 > Let’s structure it as a fill-in-the-blank exercise: Product name is a(n) type of object that **helps category of people name of job to be done by technical means**.
@@ -386,204 +383,193 @@ Nuanced and adaptive products
 
 > In a technology-driven project, a grounded innovation approach might start with **what a platform can do and work backward**. Home automation products are **still un-nuanced and un-adaptive compared to humans**. But that doesn’t mean owners can’t enjoy having them around.
 
+Full automation vs sensors for helping
 
-> Certainly, you can install an automated watering system to keep your plants from dying. Or you can use a wireless moisture sensor such as Botanicalls (www.botanicalls.com) that telephones or tweets when the plant needs more water. Both options will help plants survive. However, the first option means paying less attention to your plants and their environment. The second means spending more time on gardening. For the many people who find gardening relaxing and healthy, there’s no question that the second option is preferable.
+> Certainly, you can install an automated watering system to keep your plants from dying. Or you can use a wireless moisture sensor such as Botanicalls (www.botanicalls.com) that telephones or tweets when the plant needs more water. Both options will help plants survive. However, the first option means paying less attention to your plants and their environment. The **second means spending more time on gardening**. For the many people who find gardening relaxing and healthy, there’s no question that the second option is preferable.
 
-We can sum up many of the potential issues as imbalances in effort and reward. That is: Who (or what) does the work necessary for the product or service to function? Who (or what) reaps the rewards? Are those rewards meaningful in light of the effort, or cost, of providing or using a service?
+Effort vs Reward
 
-If your home security product requires labor from people who don’t find it inherently rewarding, don’t feel like their effort will be compensated appropriately, and don’t care about poor outcomes (e.g., teenagers), it is likely to fail.
+> We can sum up many of the potential issues as **imbalances in effort and reward**. That is: **Who (or what) does the work** necessary for the product or service to function? Who (or what) **reaps the rewards**? Are those rewards **meaningful in light of the effort, or cost**, of providing or using a service?
 
-we’ve referenced three common sources of friction:
-* Persuasion and behavior change
-* Data ownership and data sharing
-* Machine automation and human action
+Three common sources of friction:
 
-If you’re designing a product intended for behavior change, then any calculation of effort and reward needs to factor in not just the work of changing one’s habits, but also the work of using and maintaining the product intended to foster that change. So who or what benefits from all that work?
+- Persuasion and behavior change
+- Data ownership and data sharing
+- Machine automation and human action
 
-There’s a tendency in connected products and services design to assume that having machines take over human work is a good in itself. Who doesn’t want to offload work—whether mental or physical—onto a machine? However, there are good reasons to treat automation as a choice, not a default. Instead of talking about automation, philosophers of technology often talk about “delegation”—that is, the distribution of responsibility and effort
+Total work = effort + maintenance
 
-Many resource-sharing services (e.g., Lyft, Airbnb, etc.) are popular precisely because they automate one part of the service while creating more work for humans elsewhere.
+> If you’re designing a product intended for behavior change, then any calculation of effort and reward needs to factor in not just the work of changing one’s habits, but also the work of using and maintaining the product intended to foster that change. So who or what benefits from all that work?
 
-Interviews with existing users of smart energy monitoring revealed ways in which the need for data could vary over time. For example, one Greenhouse resident recalled: “In the first year I used to check it a lot. Now I’d probably check it more when it starts to get warmer or starts to get colder.”
+Automation as a choice,not default
 
-Rather than making “smart homes” that would try to second-guess their inhabitants’ future intentions with complex theoretical rules, the aim was to make “smart homeowners” who would feel more confident and in control of their new living environments.
+> There’s a tendency in connected products and services design to assume that having machines take over human work is a good in itself. Who doesn’t want to offload work—whether mental or physical - onto a machine? However, there are **good reasons to treat automation as a choice, not a default**. Instead of talking about automation, philosophers of technology often talk about “delegation”—that is, the distribution of responsibility and effort
 
-you’ll often hear that “hardware is hard.” This conclusion speaks to those fundamental differences to software. Designing software revolves around the ability to release early, iterate continuously, and easily address a global market. Hardware involves high upfront costs, can’t change once manufactured, and every market requires individual due diligence.
+Automation means creating work elsewhere
 
-The Demise of “Form Follows Function”
-The form of physical products used to be heavily influenced by the technology within them. Television sets or old monitors had to accommodate a cathode ray tube, so they were big boxes that often tapered toward the back. Photographic cameras had to fit a film spinning from one cylinder into another with enough space to move it across a shutter, so they were cuboids.
+> Many resource-sharing services (e.g., Lyft, Airbnb, etc.) are popular precisely because they automate one part of the service while creating more work for humans elsewhere.
 
-So in many ways, the physical design of a connected object needs to work much harder than before. Sadly it seems that the opposite is often the case at the moment. More often than not connected products are nondescript plastic boxes with cables and blinking lights.
+Data becomes not so exciting after prolonged usage
 
-Don Norman points out:
-The virtual worlds of software are worlds of cognition: ideas and concepts presented without physical substance. Physical objects involve the world of emotion, where you experience things, whether the comfortable sensuousness of some surfaces or the grating, uncomfortable feel of others.
+> Interviews with existing users of smart energy monitoring revealed ways in which the **need for data could vary over time**. For example, one Greenhouse resident recalled: “In the first year I used to check it a lot. Now I’d probably check it more when it starts to get warmer or starts to get colder.”
 
-* Behavioral design is largely what we briefly described earlier: the aspects of usability and affordance, how the design makes us behave.
-* Visceral design is less quantifiable. It is the kind of design that simply pleases our senses and is attractive. Similar to the way humans find symmetric faces more attractive, it is a sort of gut reaction.
-Reflective design concerns the image the design portrays and how it makes the owner feel.
+Aim of smart home
 
-If we analyze the relationship between these two considerations, three clusters emerge that a connected device will likely sit within (see Figure 7-6):
-* Devices that are hidden away and only rarely interacted with beyond initial setup.
-* Devices that are interacted with occasionally, but that are more conspicuous and abundant due to what they do.
-* Devices that are interacted with frequently and that are likely to be on display to be easily accessible or visible.
+> Rather than making “smart homes” that would try to second-guess their inhabitants’ future intentions with complex theoretical rules, the aim was to make “smart homeowners” who would **feel more confident and in control of their new living environments**.
 
-Devices that are hidden away and only rarely interacted with beyond initial setup
-(Interaction: Rare; Placement: Inconspicuous)
-Bridges, gateways, and hubs are the physical devices required to make an IoT system work; they provide infrastructure.
+Software vs Hardware
 
-The placement is often constrained by technical requirements like a wired connection to the main broadband router or a power connection. These devices are often hidden away in cupboards, corners of the room, or stuck behind shelves or other furniture.
+> Designing software revolves around the ability to **release early, iterate continuously, and easily address a global market**. Hardware involves high upfront costs, **can’t change once manufactured**, and every market requires individual due diligence.
 
-The industrial design of devices in this group should embrace the interaction and visibility characteristics by making the device quite compact, stackable and placeable or mountable in different orientations. External hard drives have a similar design context and some manufacturers have embraced this by offering stackable designs.
+The Demise of "Form Follows Function"
 
-The design might even take into account that the only interaction beyond the initial setup is likely to be a system reset. Why hide the reset button away, or make it difficult to operate if it’s the only interaction
+> The **form of physical products used to be heavily influenced by the technology within them**. Television sets or old monitors had to accommodate a cathode ray tube, so they were big boxes that often tapered toward the back. Photographic cameras had to fit a film spinning from one cylinder into another with enough space to move it across a shutter, so they were cuboids.
 
-Devices that are interacted with occasionally, but that are more conspicuous and abundant due to what they do
-(Interaction: Rare; Placement: Relatively conspicuous)
-Smart plugs or motion sensors also provide a kind of infrastructure. But they are more specific to the purpose of the product and there might be lots of them. The placement, too, is more about the product purpose rather than purely connectivity.
+Types of designs
 
-Devices that are interacted with frequently and that are likely to be on display to be easily accessible or visible
-(Interaction: Frequent; Placement: Conspicuous)
-The connected devices “where the action happens.” They can be only for user input, only for “output,” or a mixture of the two.
-An example for an input-only device is the Amazon Dash (Figure 7-12), a candy bar–sized device that connects to its owners’ Amazon Fresh grocery delivery account via WiFi.
+- **Behavioral design** is largely what we briefly described earlier: the aspects of usability and affordance, how the design **makes us behave**.
+- **Visceral design** is less quantifiable. It is the kind of design that simply pleases our senses and is attractive. Similar to the way humans find symmetric faces more attractive, it is a sort of **gut reaction**.
+- **Reflective design** concerns the image the design portrays and how it makes the owner **feel**.
 
-Product Designers focus on a product’s conceptual aspects—what it does, how it’s used, how it looks—as well as give some thought to how it might be made. Industrial Designers, in contrast, are more involved in the engineering of a product and its manufacturing. Design Engineers have an understanding of the design process, but as the title suggests focus specifically on engineering and manufacturing.
+Three clusters emerge that a connected device will likely sit within:
 
-The lesson here is that it is useful to understand that, like in digital design, there is a spectrum of skills that isn’t covered by a single person, or single agency. Some might offer engineering services and manage manufacturing. Others might only develop concepts that engineering firms need to take further.
+1. Devices that are **hidden away and only rarely interacted** with beyond initial setup.
+	- Interaction: Rare
+	- Placement: Inconspicuous
+	- Examples: Bridges, gateways, and hubs
+1. Devices that are **interacted with occasionally**, but that are more conspicuous and abundant due to what they do.
+	- Interaction: Rare
+	- Placement: Relatively conspicuous
+	- Examples: Smart plugs or motion sensors
+1. Devices that are **interacted with frequently** and that are likely to be on display to be easily accessible or visible.
+	- Interaction: Frequent
+	- Placement: Conspicuous
 
-The commitment involved in manufacturing is bigger than in software. For obvious reasons, you can’t make changes to a physical product once released, or offer an update for people to download. Modern software development with continuous iteration even after release means the “design” is never finished. In contrast, physical design projects have a “design freeze” point. This is the point on the project timeline when the current state of the design is “frozen in time” and handed over for manufacturing.
+Product designers vs Industrial designers vs Design engineers
 
-Digital UX design often operates within established platforms like the Web or Apple’s iOS. This provides a lot of constraints and building blocks right from the start.
-This is different in industrial design.
+> Product Designers focus on a product’s **conceptual aspects**—what it does, how it’s used, how it looks—as well as give some thought to how it might be made. Industrial Designers, in contrast, are more involved in the engineering of a product and its **manufacturing**. Design Engineers have an understanding of the design process, but as the title suggests focus specifically on **engineering and manufacturing**.
 
-Mood boards are a great addition to personas, a tool that should be familiar from UX design. In this case, the collages help describe what products, brands, CMF (color, material, finish), or environments are relevant to the persona. This is useful to set a design direction early and focus the concept generation phase.
+Difference between software releases and hardware manufacturing
 
-Like in digital design, using high-fidelity representations too early can lead to distraction when clients react to color or form details that aren’t decided yet. To manage this, it is not uncommon to make drawings “sketchy” for client meetings. Designers add “wrong” lines to make the sketches more ambiguous and prevent the conversation from getting bogged down in details.
+> The commitment involved in manufacturing is bigger than in software. For obvious reasons, you can’t make changes to a physical product once released, or offer an update for people to download. Modern software development with **continuous iteration even after release** means the “design” is never finished. In contrast, physical design projects have a “**design freeze**” point. This is the point on the project timeline when the current state of the design is “frozen in time” and handed over for manufacturing.
 
-Sometimes, product renderings are even used to replace photography on packaging or advertisement. Believe it or not, 75% of the images in IKEA’s catalog are renders instead of photography.[98] To IKEA, using computer-generated images makes creating and maintaining their catalog easier and more efficient.
+DFM and certification
 
-Two essential aspects of this stage that won’t be familiar to UX designers are design for manufacturability (DFM) and product certification. DFM is where the design is reviewed and developed further taking into account costs and efficiency of the actual manufacturing techniques. Product certification is about obtaining the required certificates that allow the product to be sold in different markets.
+> DFM is where the design is reviewed and developed further taking into account **costs and efficiency of the actual manufacturing techniques**. Product certification is about obtaining the required certificates that **allow the product to be sold in different markets**.
 
-The care and skill applied during this phase decides whether people will perceive a product as low or high quality. What we pick out as elegant and simple products more often than not involves complex engineering and DFM.
+Work that goes into DFM
 
-In the documentary film Objectified, Apple designer Jonathan Ive describes the effort that goes into DFM. He points out that Apple’s designers spend more time designing the fixtures and jigs used during manufacturing and finishing than the parts themselves.
+> In the documentary film Objectified, Apple designer Jonathan Ive describes the effort that goes into DFM. He points out that Apple’s designers **spend more time designing the fixtures and jigs used during manufacturing** and finishing than the parts themselves.
 
-Design for assembly (DFA) is another part of this area of consideration. The aim here is to take into account how a worker will put the product together, and how quality is assured. Again, the design of parts might need to change to allow for quicker assembly, or reduce the number of steps.
+DFA
 
-In order for UX designers and industrial designers to collaborate successfully, Mesut urges both sides to “unite under a common purpose,” “develop a shared vocabulary,” “share work regularly,” and “prototype together.
+> Design for assembly (DFA) is another part of this area of consideration. The aim here is to take into account **how a worker will put the product together, and how quality is assured**. Again, the design of parts might need to change to **allow for quicker assembly**, or **reduce the number of steps**.
 
-We’ll break the design of connected objects into three areas:
-Form, function, and usability
-What does it do? How is it used? What does the way it looks tell you?
-Aesthetics and appearance
-How does it look? What color does it have? What’s the surface finish?
-Materials, manufacturing, and maintenance
-What is it made of? How is it made? How is it assembled? How is it maintained?
+Suggestions for collaboration
 
-A typical remote, even for a high-priced television, weighs about 100g and is made of plastic. With 290g, Bang and Olufsen’s remote is almost three times that weight. It uses metal elements that provide a cold sensation when touched. This isn’t the case with plastic made to look like metal so it confirms the authenticity of the material. All this carries through the brand’s image of high quality and luxury.
+> In order for UX designers and industrial designers to collaborate successfully, Mesut urges both sides to **“unite under a common purpose,” “develop a shared vocabulary,” “share work regularly,” and “prototype together"**.
 
-Until now, designers and engineers often aimed to reduce BOM cost as much as possible. In the case of connected products, this isn’t necessarily good. Removing components or replacing them with alternatives to reduce costs can close the door on future functionalities. Designers need to make trade-offs between cost and longevity of a device.
+Design of connected objects into three areas:
 
-Our bodies and abilities define how we can “talk” to devices (input). Our sensory system defines how we can “listen” to devices (output).
-Igoe and O’Sullivan point out: “To change how the computer reacts to us, we have to change how it sees us.”
+1. Form, function, and usability
+	- What does it do? How is it used? What does the way it looks tell you?
+1. Aesthetics and appearance
+	- How does it look? What color does it have? What’s the surface finish?
+1. Materials, manufacturing, and maintenance
+	- What is it made of? How is it made? How is it assembled? How is it maintained?
 
-To get an idea for how nuanced the tactile quality of a button can feel, just read a few reviews on the blog http://knobfeel.tumblr.com. It’s not exactly a serious resource, but it gives an idea of how certain physical controls feel to somebody over other ones.
+Trade-offs in designing for longterm
 
-Using unconventional physical controls that are integrated with the device design can have drawbacks. Discovering the controls can be hard when they are nonobvious. Users need to learn where the controls are and how they work. Good usability can also be a challenge
+> Until now, designers and engineers often aimed to reduce BOM cost as much as possible. In the case of connected products, this isn’t necessarily good. Removing components or replacing them with alternatives to reduce costs can close the door on future functionalities. Designers need to make **trade-offs between cost and longevity of a device**.
 
-Almost every electronic device has at least one LED somewhere showing that it is switched on or communicating a particular status. Connected devices often have more things to communicate.
+Discovering controls
 
-When devices need to communicate even more, it can get complicated. Color-coding or blink patterns might be required to convey complex information through a simple LED. This can make understanding what is going on tedious.
+> Using unconventional physical controls that are integrated with the device design can have drawbacks. Discovering the controls can be hard when they are nonobvious. Users need to learn **where the controls are and how they work**. Good usability can also be a challenge.
 
-Lights
-Are great...	... for glanceable and nonintrusive information outpu
-Are less appropriate...	... for conveying complex informatio
+Conventional electronic device vs connection device
 
-Segmented character set displays don’t have to be ugly. The creators of the CST-1 watch designed a custom segmented font to display numeric characters
+> Almost every electronic device has at least one LED somewhere showing that it is switched on or communicating a particular status. Connected devices **often have more things to communicate**.
 
-Electronic ink displays resemble the appearance of traditional ink and paper, and are easy to read in direct sunlight. Unlike the previously described technologies, they only require electricity to change the state, not to hold it. This means the device uses less power.
+Adding more features to one LED
 
-Firstly, screens obviously increase the cost of a device. Having a screen means extra components and adds design and development effort.
-Secondly, and perhaps more importantly, there are usability considerations, too. When designing apps or websites, a lot of work has already been done for designers. They can rely on platform features, design frameworks, and widely familiar interaction patterns. If you add a screen to a connected device, you essentially need to develop an interaction paradigm from scratch.
+> When devices need to communicate even more, it can get complicated. **Color-coding or blink patterns might be required** to convey complex information through a simple LED. This can make understanding what is going on tedious.
 
-Moreover, once a screen is available, it becomes harder to say “no” to adding all sorts of information and features since real estate seems endless. So it becomes harder to keep devices simple and focused.
+Types of indicators
 
-That’s why designers need to take a step back early on in the design process to ask: What if this product didn’t have a screen? Could it still work? You might just discover an opportunity for a beautifully simple and easy-to-use connected product.
+1. Lights
+	- ++ glanceable and nonintrusive information output
+	- -- less appropriate for conveying complex informatio
+1. Segmented character
+	- ++ designed a custom segmented font to display numeric characters
+1. Electronic ink displays resemble the appearance of traditional ink and paper
+	- ++ easy to read in direct sunlight
+	- ++ only require electricity to change the state, not to hold it
+1. Screens 
+	- ++ For making physical objects dynamic
+	- -- Increase the cost of a device, extra components and adds design and development effort
+	- -- Essentially need to develop an interaction paradigm from scratch
+	- -- Becomes harder to say “no” to adding all sorts of information and features since real estate seems endless
+1. Audio
+	- ++ Urgent and time-critical alerts
+	- ++ easy to grab users' attention
+	- -- Not great for environments where it becomes annoying
+1. Speech recognition
+	- -- Still unreliable
+	- -- Commands are misinterpreted
+	- -- Feedback mechanisms are required to confirm correct recognition
+	- -- Users must recall what "functions" are available or how to phrase commands
+	- -- Needs a reliable and fast data connection
+1. Gestures
+	- -- When precision and lengthy interactions are required
+	- -- Always a risk of false positive input detection
+	- ++ Great for video games or for short interactions
+1. Context-Sensitive Interfaces
+	- ++ Manage levels of complexity with little interaction
+	- -- ULimiting options or taking action on behalf of the user might be undesired and perceived as negative and overbearing
+1. Computer Vision and Barcodes
+	- ++ Replacing cumbersome inputs
+	- -- When the interaction is more complex than its alternatives
 
-Screens
-Are great...	... for making physical objects dynamic
-Are less appropriate...	... for keeping the user experience simple
+> That’s why designers need to take a step back early on in the design process to ask: What if this product didn’t have a screen? Could it still work? You **might just discover an opportunity for a beautifully simple and easy-to-use connected product**.
 
+Context-sensitive interaction
 
-Audio Output
-Is great...	... for urgent an
-time-critical alerts. Because audio is pervasive, it is great to quickly grab a user’s attention.... to give a product emotional qualities
+> The opportunity of context-sensitive interaction is to enable products that behave in ways that **fit better into the user’s routine and behaviors** — for example, by **transforming active user input into more passive input**. Instead of gesturing to make a command, simply being (or not being) in a certain room can provide input to a system, too.
 
-Is less appropriate...	... for environments where it becomes annoying
+A device taking actions for the user
 
+> Ideally, a device could take actions for the user, or tailor the user experience, because it **understands the context and what the user would desire**. This is a slippery slope and **finding the right balance between taking action on behalf of the user and keeping the user in control needs to be found**.
 
-But there are also a few challenges with the technology.
-Speech recognition is still unreliable. Anyone that has used it has encountered situations where commands were misinterpreted. Feedback mechanisms are required to confirm correct recognition.
+A device suggesting choices for the user
 
-Another challenge is to know what commands are possible in the first place. Users must recall (instead of recognize) what “functions” are available, or how they need to phrase commands.
+> The device also captures the data and the actual choice the customer made for marketing analytics. To some users, even the idea of a vending machine prescribing choices, **trivializing social norms, and collecting user data is shocking**. The sensitivity to features like this is different in different cultures.
 
-Lastly, most of the current voice recognition features rely on server-side processing to interpret what a user has said. This means the feature relies on the device having a reliable and fast data connection, which fundamentally limits the number of situations where it can be used.
+Flexibility-Usability tradeoff
 
-Holding out your arms in front of your body, gesturing, or doing precise motions for extended periods of time causes aching muscles and stiffness. This condition has been dubbed “gorilla arm.” Rumor has it that Tom Cruise had to take breaks from even just acting the scenes for the movie.
+> Adding interactivity to a device is a cost question. Buttons, switches, and the components required **add to the bill of materials and increase development costs**. It’s also a usability question. Designers need to strike a balance between **easy-to-use devices and ones with many features and functions**. This is sometimes referred to as the “flexibility usability tradeoff”
 
-In gestural interfaces, there is always a risk of false positive input detection. In the case of the Nest “wave to hush” feature, the possibility of users unintentionally activating it (perhaps waving their hands during a real fire) could delay an alarm. In April 2014, Nest had halted sales and disabled the feature on already installed units to investigate potential problems with the feature.
+Balancing the benefits and drawbacks of physical controls
 
-Gestural Input
-Is great...	... for video games
-for short interactions
+> E.g. Cloudwash, BERG’s connected washing machine prototype. The physical device has some controls that only cover selected functions. Full control is delivered through a smartphone app. But users can perform the everyday tasks without needing the smartphone app. Also, the device uses a combination of physical controls with displays.
 
-Is less appropriate...	... when precision and lengthy interaction is required
+Usage of E-ink
 
+> The legends for these washes are in e-ink so **they can be updated but still feel like part of the legends one would expect to find on a washing machine**. They can be far **more descriptive than the descriptions on a traditional dial**, since there’s no need for generalisations like “cottons.”
 
-ones that work through manipulating tokens or placing a product in a certain way to give input (we’ll call these tangible user interfaces), and interfaces that involve haptic or tactile feedback like vibration or force feedback.
+Using web / mobile to offload features
 
-Experimenting with tangible user interfaces is thought provoking and inspiring. But interfaces involving many small physical tokens to manipulate or represent data have an obvious impracticality: if you lose parts, the interface breaks.
+> Even if not appropriate for all connected products, using web UIs and mobile phones especially is a great way for designers to off-load complex and rarely used features, and to keep the physical device simple.
 
-The opportunity of context-sensitive interaction is to enable products that behave in ways that fit better into the user’s routine and behaviors—for example, by transforming active user input into more passive input. Instead of gesturing to make a command, simply being (or not being) in a certain room can provide input to a system, too.
+Ambient Devices
 
-The interface is sensitive to proximity, which is far from sensing all there is to the user’s context, but it allows for some basic interpretation: If the user is across the room, they might benefit from the product providing information in a condensed way that is readable from a distance. If they are standing right in front of the product, font sizes can reduce and the user might benefit from more detailed information.
-
-Ideally, a device could take actions for the user, or tailor the user experience, because it understands the context and what the user would desire. This is a slippery slope and finding the right balance between taking action on behalf of the user and keeping the user in control needs to be found.
-
-Context-Sensitive Interfaces
-Are great...	... to manage levels of complexity with little interaction.
-Are less appropriate...	... when it might be perceived as patronizing. Limiting options or taking action on behalf of the user might be undesired and perceived as negative and overbearing
-
-This power of simplification is also handy when users need to enter information from the physical world (like a book title) to start a digital interaction.
-
-The device also captures the data and the actual choice the customer made for marketing analytics. To some users, even the idea of a vending machine prescribing choices, trivializing social norms, and collecting user data is shocking. The sensitivity to features like this is different in different cultures.
-
-Marketing applications aside, there are also practical uses of such interfaces. A well-known example is QR codes. It’s a useful way for users to input complex information with a minimal interface. Instead of manually entering WiFi credentials, for example, users could present them using a QR code for a device to decode.
-
-Computer Vision and Barcodes
-Are great...	... for replacing cumbersome inp
-Are less appropriate...	... when the interaction is more complex than its alternatives
-
-Adding interactivity to a device is a cost question. Buttons, switches, and the components required add to the bill of materials and increase development costs. It’s also a usability question. Designers need to strike a balance between easy-to-use devices and ones with many features and functions. This is sometimes referred to as the “flexibility usability tradeoff”
-
-There are ways to balance the benefits and drawbacks of physical controls. An example is Cloudwash, BERG’s connected washing machine prototype (see Figure 8-33). The physical device has some controls that only cover selected functions. Full control is delivered through a smartphone app. But users can perform the everyday tasks without needing the smartphone app. Also, the device uses a combination of physical controls with displays.
-
-The legends for these washes are in e-ink so they can be updated but still feel like part of the legends one would expect to find on a washing machine. They can be far more descriptive than the descriptions on a traditional dial, since there’s no need for generalisations like “cottons.”
-
-Even if not appropriate for all connected products, using web UIs and mobile phones especially is a great way for designers to off-load complex and rarely used features, and to keep the physical device simple.
-
-Consider how a wall clock “disappears” into our surrounding. We completely ignore it for the most part. The moment we’re interested in the time, we can get it at a glance. Even from across the room. We might only be able to see roughly the angle of the two main hands—but it’s enough to give us an idea of what time it is. If we want more detail, we can walk closer to see exactly what time it is.
-
-The ambient devices mentioned earlier are attempts to achieve similar characteristics. That can mean devices that only grab the user’s attention when required, like the Ambient Umbrella
-
-Ambient Devices, has created a list of these characteristics that designers can use to inform and inspire the design of their products:[118]
-Pre-attentive
-Glanceable; no cognitive load required
-Calm
-Nonintrusive; seamless with environment (e.g., Evergreen, Friendly)
-Universal
-No language, characters, or numbers
-Open
-Able to represent multiple types of data; coded, private
+- Pre-attentive
+- Glanceable; no cognitive load required
+- Calm
+- Nonintrusive; seamless with environment (e.g., Evergreen, Friendly)
+- Universal
+- No language, characters, or numbers
+- Open
+- Able to represent multiple types of data; coded, private
 
 The smart body scale supports multiple users, each with their own accounts. It automatically identifies which user is standing on it by comparing the reading with its historic data. If the new reading is within a realistic extrapolation of only one account, it can only be that person.
 This doesn’t always work.
