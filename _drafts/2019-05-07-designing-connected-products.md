@@ -13,7 +13,6 @@ authors: Many
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-
 | | Multi-purpose computer | Specialized embedded devices | Connected sensors | Passively tracked Objects
 | ------ | ------ | ------ | ------ | ------ |
 | User Interaction | Rich-onboard interaction capabilities E.g. through screens and keyboards | May have limited inputs/outputs; advanced interactions handled via web/mobile apps | Via Web / mobile apps | Via web / mobile apps
@@ -504,7 +503,7 @@ Types of indicators
 1. Electronic ink displays resemble the appearance of traditional ink and paper
 	- ++ easy to read in direct sunlight
 	- ++ only require electricity to change the state, not to hold it
-1. Screens 
+1. Screens
 	- ++ For making physical objects dynamic
 	- -- Increase the cost of a device, extra components and adds design and development effort
 	- -- Essentially need to develop an interaction paradigm from scratch
@@ -558,7 +557,7 @@ Usage of E-ink
 
 Using web / mobile to offload features
 
-> Even if not appropriate for all connected products, using web UIs and mobile phones especially is a great way for designers to off-load complex and rarely used features, and to keep the physical device simple.
+> Even if not appropriate for all connected products, using web UIs and mobile phones especially is a great way for designers to **off-load complex and rarely used features**, and to **keep the physical device simple**.
 
 Ambient Devices
 
@@ -571,121 +570,98 @@ Ambient Devices
 - Open
 - Able to represent multiple types of data; coded, private
 
-The smart body scale supports multiple users, each with their own accounts. It automatically identifies which user is standing on it by comparing the reading with its historic data. If the new reading is within a realistic extrapolation of only one account, it can only be that person.
-This doesn’t always work.
+## Case studies
 
-But instead of having specific controls for this situation, the designers found a solution that keeps the interface simple. They work with the capabilities available. In this case, the display shows a selection between the likely accounts. Users then lift either their left or the right foot to make a selection
+Smart weighing scale and person detection
 
-Navigating and controlling Apple TV with the minimalistic remote is sufficient for most of the time. When it comes to entering search terms or login credentials, using the remote becomes tedious. By supporting an iPhone as an alternative input device, users can switch to the more capable device when require
+> If the new reading is within a realistic extrapolation of only one account, it can only be that person... This doesn’t always work. But instead of having specific controls for this situation, the designers found a solution that keeps the interface simple. They work with the capabilities available. In this case, the **display shows a selection between the likely accounts**. Users then lift either their l**eft or the right foot to make a selection**.
 
-Checklists published by organizations such as the Royal National Institute of Blind People (RNIB) help designers with this task.
-Here is an excerpt from the “handling” section of RNIB’s checklist “35 Questions to ask yourself when designing products for people with sight loss, disabilities and older people”:
+Searching terms with a remote control
 
-Another simple but powerful method that helps designers make products accessible is to simulate disabilities. You can close your eyes and see if you can still use your prototype. You can even use props, often called “empathy tools” to help you. Wear earplugs and earmuffs to simulate deafness. Or wear gardening gloves to simulate how somebody with arthritis might experience your product.
+> Navigating and controlling Apple TV with the minimalistic remote is sufficient for most of the time. When it comes to entering search terms or login credentials, using the remote becomes tedious. By **supporting an iPhone as an alternative input device**, users can switch to the more capable device when require
 
-You could say the approach assumes that everybody is disabled sometimes: listening to music with headphones means you’re temporarily “deaf” to other audio alerts; carrying your grocery shopping in one hand means you temporarily only have one hand available for other interactions. Universal design aims to make products usable in the broadest range of situations, whether the user is permanently disabled or not.
+## External resources
 
-The seven principles of universal design can help with that:[119]
-Principle 1: Equitable Use
-The design is useful and marketable to people with diverse abilities.
-Principle 2: Flexibility in Use
-The design accommodates a wide range of individual preferences and abilities.
-Principle 3: Simple and Intuitive Use
-Use of the design is easy to understand, regardless of the user’s experience,
-Principle 4: Perceptible Information
-The design communicates necessary information effectively to the user, regardless of ambient conditions or the user’s sensory abilities.
-Principle 5: Tolerance for Error
-The design minimizes hazards and the adverse consequences of accidental or unintended actions.
-Principle 6: Low Physical Effort
-The design can be used efficiently and comfortably and with a minimum of fatigue.
-Principle 7: Size and Space for Approach and Use
-Appropriate size and space is provided for approach, reach, manipulation, and use regardless of user’s body size, posture, or mobility.
+1. [35 Questions to ask yourself when designing products for people with sight loss, disabilities and older people](http://www.designingconnectedproducts.com/wp-content/uploads/2015/05/35questionschecklist.pdf)
 
-Deciding on the input and output capabilities of an embedded device almost always involves compromising on either the device’s flexibility or its usability. It’s the designer’s role to pick the right trade-off.
+The seven principles of universal design can help with that:
 
-App platform features can be utilized and smartphone capabilities tapped into. However, the devices might not always be available, and going through a smartphone can be slower compared to direct on-device control.
+1. Principle 1: Equitable Use
+	- The design is useful and marketable to people with diverse abilities.
+1. Principle 2: Flexibility in Use
+	- The design accommodates a wide range of individual preferences and abilities.
+1. Principle 3: Simple and Intuitive Use
+	- Use of the design is easy to understand, regardless of the user’s experience
+1. Principle 4: Perceptible Information
+	- The design communicates necessary information effectively to the user, regardless of ambient conditions or the user’s sensory abilities.
+1. Principle 5: Tolerance for Error
+	- The design minimizes hazards and the adverse consequences of accidental or unintended actions.
+1. Principle 6: Low Physical Effort
+	- The design can be used efficiently and comfortably and with a minimum of fatigue.
+1. Principle 7: Size and Space for Approach and Use
+	- Appropriate size and space is provided for approach, reach, manipulation, and use regardless of user’s body size, posture, or mobility.
 
-As the number of devices people own increases, creating interfaces that require less attention, are less intrusive, and require less cognitive load will become more important. But only some interface types are suitable to create such glanceable or ambient interfaces.
-When input and output capabilities are limited, designers need to develop strategies to enable edge-case interactions that require complex interaction.
+Pros and cons of apps
 
-here are some of the things to consider with different interface types:
-* Physical controls are great for direct, fast control, especially when precise or fine adjustments might be required. They also make it easier for users with impaired vision to still use a product. Bear in mind that physical controls can’t be easily changed
-* Lights can be useful to create glanceable and less intrusive information output, but using LEDs has limitations: you might need blink patterns and color coding to convey more complex information.
-* Screens are of course useful to create dynamic interfaces and keeping the UI flexible and updateable, but having a screen often makes it difficult for design teams to keep interfaces simple because there is no extra cost to add more features or UI elements.
-* Audio output often trumps light output and can grab the user’s attention. It also inherently carries emotional qualities you need to design. On the flip side, it can quickly become annoying and users might want to turn it off.
-* Voice interfaces are a powerful way to input or output fairly complex information and users can operate them while doing other things. At the moment, though, they tend to be unreliable, only available in particular geographic regions (due to language support), and often require an Internet connection for server-side processing.
-* Gestural input works well for gaming, or when it is short and the commands are obvious. Longer interactions lead to fatigue and muscle pain, and false positive inputs can be an issue.
-* Tangible user interfaces can be great for interactive experiences in museums, educational products, or for musical instruments. They are also interesting for giving digital content physical representations. Losing tokens or parts of the interface can render them unusable.
-* Tactile output is a promising field with concept products conveying information in ways
-* that are subtle and that require less attention. Vibration output aside, this is currently mostly research and there are few commercial products using tactile output.
-* Context-sensitive interfaces can reduce complexity by making decisions for the user or tailoring interfaces based on context. They only ever sense data points that are proxies for context, and that might be wrongly interpreted. There is also a risk that users see them as patronizing or overbearing.
-* Computer vision and barcodes can replace cumbersome input. But they can sometimes be a clumsy solution that is easier done differently.
+> App platform features can be utilized and smartphone capabilities tapped into. However, the devices might not always be available, and going through a smartphone can be slower compared to direct on-device control.
 
-When we ask drivers to adjust their cabin temperature, they tend to look for an adjustable knob or a physical Temperature Up button. However, we are seeing many high-end automotive companies move their climate controls to the glass. Is this a mental model that will change and become permanent?
+Interface with increasing devices
 
-The integration and implementation of over-the-air (OTA) systems on the frontend, and data analytics capture and analysis on the backend are the platforms for continuous improvement. This “closed loop” of understanding and improvement is critical for success and safety. However, this level of infrastructure is costly and time consuming to achieve.
+> As the number of devices people own increases, creating interfaces that **require less attention, are less intrusive, and require less cognitive load** will become more important. But only some interface types are suitable to create such glanceable or ambient interfaces.
 
-Like carving a sculpture from a block of marble, we shaped the system through iterative prototyping—from low-fidelity paper and cardboard models to high-fidelity simulator and drivable prototypes—and continuous consumer validation and measurement. Then statistical validation of large consumer sample sizes ensured that we were on the right track and had designed a highly competitive and useful system.
+Here are some of the things to consider with different interface types:
 
-Many of the tools of UX design and HCI originate from a time when an interaction was usually a single user using a single device. This was almost always a desktop computer, which they’d be using to complete a work-like task, giving it more or less their full attention.
+- **Physical controls** are great for direct, fast control, especially when precise or fine adjustments might be required. They also make it easier for users with impaired vision to still use a product. Bear in mind that physical controls can’t be easily changed
+- **Lights** can be useful to create glanceable and less intrusive information output, but using LEDs has limitations: you might need blink patterns and color coding to convey more complex information.
+- **Screens** are of course useful to create dynamic interfaces and keeping the UI flexible and updateable, but having a screen often makes it difficult for design teams to keep interfaces simple because there is no extra cost to add more features or UI elements.
+* **Audio output** often trumps light output and can grab the user’s attention. It also inherently carries emotional qualities you need to design. On the flip side, it can quickly become annoying and users might want to turn it off.
+- **Voice interfaces** are a powerful way to input or output fairly complex information and users can operate them while doing other things. At the moment, though, they tend to be unreliable, only available in particular geographic regions (due to language support), and often require an Internet connection for server-side processing.
+- **Gestural input** works well for gaming, or when it is short and the commands are obvious. Longer interactions lead to fatigue and muscle pain, and false positive inputs can be an issue.
+- **Tangible user interfaces** can be great for interactive experiences in museums, educational products, or for musical instruments. They are also interesting for giving digital content physical representations. Losing tokens or parts of the interface can render them unusable.
+- **Tactile output** is a promising field with concept products conveying information in ways that are subtle and that require less attention. Vibration output aside, this is currently mostly research and there are few commercial products using tactile output.
+- **Context-sensitive interfaces** can reduce complexity by making decisions for the user or tailoring interfaces based on context. They only ever sense data points that are proxies for context, and that might be wrongly interpreted. There is also a risk that users see them as patronizing or overbearing.
+- **Computer vision and barcodes** can replace cumbersome input. But they can sometimes be a clumsy solution that is easier done differently.
 
-the ultimate goal of cross-platform design is that the experience should feel coherent. Does the service feel like the devices are working in concert, or does the UX feel fragmented?
-They define three key concepts for cross-platform service UX, which together ensure a coherent experience:
-* Composition (how devices and functionality are organized)
-* Appropriate consistency of interfaces across different devices
-Continuity of content and data to ensure smooth transitions between platforms
+Adjusting to conventional mental models
 
-As Norman puts it: “The problem is to design the system so that, first, it follows a consistent, coherent conceptualization—a design model—and second, so that the user can develop a mental model of the system—a user model—consistent with the design model.”
+> When we ask drivers to adjust their cabin temperature, they tend to look for an adjustable knob or a physical Temperature Up button. However, we are seeing many high-end automotive companies move their climate controls to the glass. **Is this a mental model that will change and become permanent?**
 
-The similarity between the design model and the user’s mental model is a core determinant of usability in any system, not just IoT. How easy is it for the user to figure out how to achieve a particular goal using the system
+Three key concepts for cross-platform service UX, which together ensure a coherent experience:
 
-What’s most appropriate for your system will depend on what it does and your users’ expectations. An intruder alarm should not fail completely because the Internet went down. But it’s not a disaster if your energy monitoring system is occasionally unavailable for short periods of time, as long as data is not lost.
+- **Composition** (how devices and functionality are organized)
+- **Appropriate consistency** of interfaces across different devices
+- **Continuity of content** and data to ensure smooth transitions between platforms
 
-Interviewed in Dan Saffer’s book Designing Interactions, Tesler says: “I postulated that every application must have an inherent amount of irreducible complexity. The only question is who will have to deal with it.”[128] His point was that shielding users from complexity would involve extra work from designers and developers.
+Recommendation
 
-Smartphone interfaces are much cheaper to develop than physical interfaces, as components like screens and buttons are relatively expensive. It’s an elegant choice for a small household occupied mainly by smartphone owners, but there are trade-offs. If you don’t have your phone in hand, or the battery is dead, or you’re a guest in the house without access to the phone UI, you have limited control.
+> As Norman puts it: “The problem is to design the system so that, first, it follows a **consistent, coherent conceptualization**—a **design model**—and second, so that the user can develop a mental model of the system—a **user model**—consistent with the design model.”... The **similarity between the design model and the user’s mental model is a core determinant of usability in any system**, not just IoT. How easy is it for the user to figure out how to achieve a particular goal using the system.
 
-And user interaction components, such as screens and buttons, add significantly to manufacturing costs of embedded devices. The right decision will balance the usefulness, cost, and usability of putting various features on different devices.
+Who takes on the complexity? The user or the designers?
 
-You may be able to consider adding or removing interaction capabilities (like screens, buttons, audio beeps, or LEDs) to embedded devices. However, these typically add to production costs, so you will probably need to keep these to a minimum and offload more complex functionality onto a mobile or web UI.
+> Interviewed in Dan Saffer’s book Designing Interactions, Tesler says: “I postulated that **every application must have an inherent amount of irreducible complexity**. The only question is who will have to deal with it.” His point was that shielding users from complexity would involve extra work from designers and developers.
 
-What best fits the context of use?
-What connectivity and power issues do you need to consider?
-Can you work with preexisting devices?
-What interaction capabilities do the various devices have (or could you cost-effectively include on a custom device?)
-Does the system need to work if some devices are unavailable?
-How accurate does sensing need to be?
-Do users have set expectations of devices?
-How do you balance cost, upgradeability, and flexibility?
-How central to the service are the devices?
+Design consideraions:
 
-Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform conventions.
-—JAKOB NIELSEN, 1994
-
-Do you make all the buttons look the same so they are easy to identify as buttons? Or does that cause confusion by implying that certain functions are similar, when in fact they are not? Too much consistency, or consistency between the wrong things, can be as damaging as too little.
+1. What best fits the context of use?
+1. What connectivity and power issues do you need to consider?
+1. Can you work with preexisting devices?
+1. What interaction capabilities do the various devices have (or could you cost-effectively include on a custom device?)
+1. Does the system need to work if some devices are unavailable?
+1. How accurate does sensing need to be?
+1. Do users have set expectations of devices?
+1. How do you balance cost, upgradeability, and flexibility?
+1. How central to the service are the devices?
 
 Other elements that may need to be consistent to some degree across devices include the following:
+
 * Aesthetic/visual design (to make the devices look, feel, and sound like a family)
 * Interaction architecture (how functionality is organized)
 * Interaction logic (how tasks are structured or the types of control used)
 
 Use consistent terminology
-As a rule of thumb, the highest priority is to use consistent wording across devices. This ensures that data and actions across different platforms are understood to be the same thing. Whatever the display capabilities of each device, you can always give functions or data the same label even if you can’t make them look the same.
 
-Follow platform conventions
-The second priority is for each UI to be consistent to the platform conventions of the device.
+> As a rule of thumb, the highest priority is to use consistent wording across devices. This ensures that data and actions across different platforms are understood to be the same thing. Whatever the display capabilities of each device, you can always give functions or data the same label even if you can’t make them look the same.
 
-A heating control app for iOS must be a good iOS app as well as recognizably part of the heating service. It does not have to be a skeuomorphic representation of a heating controller. But this works both ways: a heating controller does not have to pretend to be an iPhone just because it has an iPhone app. The goal is to ensure that interfaces are appropriate to each device, yet also feel like parts of a coherent service.
-
-Audio is another way to use aesthetic design to create a sense of coherence. Tapping the down/up arrows on the Nest smartphone app produces the same clicking noise per increment as the bezel on the wall thermostat.
-
-Where visual elements also convey meaning it is vital that they are used in the same way. This is called semantic consistency. To continue with the heating example, you may use red/orange/blue colors to indicate temperature. Or a particular icon might indicate that the water tank is heating up. The icon may be higher resolution on devices with better screens, but it must be recognizably the same thing
-
-Interaction architecture is the logical hierarchy (or other structure) of the UI as mapped to the controls. This is likely to be less consistent across devices and more platform-dependent. Devices may have different functions in the service.
-
-You may also need to use modes, in which the same buttons perform different actions in different states. Modes are typically more difficult to use, but they may be an essential compromise if you’re stuck with the hardware (see Figure 9-25). Structure your mobile or tablet app to be a great solution for that device, and don’t let it be constrained by the limitations of the embedded device.
-
-UIs on different devices don’t all have to have the same features, but where they do, the functionality should be consistent. For example, if a heating controller supports a six-phase schedule (six phases throughout the day) but the companion phone app only supports four,
 
 There are two key components of continuity in cross-device UX. Data and content must be synchronized, and cross-device interactions must be clearly signposted. In our experience, some of the biggest usability challenges in IoT are continuity issues.
 
@@ -785,7 +761,7 @@ Protecting information from being modified or deleted by unauthorized parties (e
 Availability
 Protecting the system from threats that would stop it working properly, resulting in loss of access to resources
 
-Systems can never really be assumed to be 100% “secure” or “insecure.” Effective security is a question of risk management. Determining how much and what type of security is appropriate involves considering the value of the  
+Systems can never really be assumed to be 100% “secure” or “insecure.” Effective security is a question of risk management. Determining how much and what type of security is appropriate involves considering the value of the
 assets, the impact of their potential loss, and the potential vulnerabilities and threats.
 
 This means ensuring that the system and user can be confident of each other’s identity. This is often done through a shared secret. Shared secrets are often
