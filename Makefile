@@ -7,3 +7,6 @@ serve:
 # install dependancies
 install:
 	bundle install
+
+draft:
+	bundle exec jekyll server --watch --drafts
