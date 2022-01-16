@@ -4,6 +4,17 @@ title:  "Steal Like an Artist"
 authors: Austin Kleon
 ---
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Quotes](#quotes)
+- [New ideas](#new-ideas)
+- [The artist](#the-artist)
+- [Process of creativity](#process-of-creativity)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Quotes
 
 By T. S. Eliot
