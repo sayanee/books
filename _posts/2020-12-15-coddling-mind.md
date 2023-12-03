@@ -48,16 +48,6 @@ Cognitive Behavioral Therapy
 
 > If you can get people to examine these beliefs and consider counterevidence, it gives them at least some moments of relief from negative emotions, and if you release them from negative emotions, they become more open to questioning their negative beliefs.
 
-1. EMOTIONAL REASONING
-1. CATASTROPHIZING: Focusing on the worst possible outcome and seeing it as most likely.
-1. OVERGENERALIZING: Perceiving a global pattern of negatives on the basis of a single incident.
-1. DICHOTOMOUS THINKING (also known variously as “black-and-white thinking,” “all-or-nothing thinking,” and “binary thinking”):
-1. MIND READING: Assuming that you know what people think without having sufficient evidence of their thoughts.
-1. LABELING: Assigning global negative traits to yourself or others
-1. NEGATIVE FILTERING: You focus almost exclusively on the negatives and seldom notice the positives.
-1. DISCOUNTING POSITIVES: Claiming that the positive things you or others do are trivial, so that you can maintain a negative judgment.
-1. BLAMING: Focusing on the other person as the source of your negative feelings; you refuse to take responsibility for changing yourself.
-
 The current state
 
 > In 2017, 58% of college students said it is “important to be part of a campus community where **I am not exposed to intolerant and offensive ideas**.” This statement was endorsed by 63% of very liberal students, but it’s a view that is not confined to the left; almost half of very conservative students (45%) endorsed that statement, too.
