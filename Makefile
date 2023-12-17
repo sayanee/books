@@ -1,4 +1,4 @@
-.PHONY: help serve install draft update
+.PHONY: help serve install draft update leftover
 
 default: serve
 
@@ -17,3 +17,10 @@ draft: ## Start the Jekyll serve with draft posts
 update: ## Update ruby gems
 	rm Gemfile.lock
 	bundle update
+
+leftover:
+	@current_drafts=$$(ls -al _drafts | wc -l); \
+	months_left=$$(echo "scale=2; ($$current_drafts / (1 * 4.33))" | bc); \
+	rounded_months=$$(echo $$months_left | awk '{print int($$1+0.99)}'); \
+	echo "Current drafts: $$current_drafts"; \
+	echo "Approximately $$rounded_months months left at 1 draft per week."
