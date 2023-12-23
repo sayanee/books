@@ -2,6 +2,7 @@
 layout: post
 title:  "Meditations"
 authors: Marcus Aurelius
+tags: [2]
 ---
 
 What is work?

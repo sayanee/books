@@ -2,6 +2,7 @@
 layout: post
 title:  "Take Your Shot"
 authors: Robin Waite and Dan Meredith
+tags: [5,3]
 ---
 
 ## Challenes

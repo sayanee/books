@@ -4,7 +4,8 @@ url: "https://books.sayan.ee"
 markdown: kramdown
 permalink: /:title
 tag_mapping:
-  1: "self-help"
+  1: "excellence"
   2: "spirituality"
   3: "fiction"
   4: "biography"
+  5: "business"

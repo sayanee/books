@@ -2,6 +2,7 @@
 layout: post
 title:  "The Compound Effect"
 authors: Darren Hardy
+tags: [1]
 ---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
