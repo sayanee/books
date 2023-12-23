@@ -11,6 +11,8 @@ layout: default
           <tr>
             <td>
               <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              {% include tags.html %}
+
               <p class="is-hidden-tablet">
                 {% include info.html %}
               </p>

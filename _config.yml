@@ -3,3 +3,8 @@ description: Collection of highlights from the books I have read over the years
 url: "https://books.sayan.ee"
 markdown: kramdown
 permalink: /:title
+tag_mapping:
+  1: "self-help"
+  2: "spirituality"
+  3: "fiction"
+  4: "biography"

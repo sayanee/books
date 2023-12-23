@@ -1,0 +1,9 @@
+{% assign tag_mapping = site.tag_mapping %}
+{% if post.tags %}
+{% for tag_number in post.tags %}
+{% assign tag_number = tag_number | plus: 1 | strip %}
+{% if tag_mapping[tag_number] %}
+  <span class="tag is-info">{{ tag_mapping[tag_number] }}</span>
+{% endif %}
+{% endfor %}
+{% endif %}

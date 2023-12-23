@@ -2,6 +2,7 @@
 layout: post
 title:  "Siddhartha"
 authors: Hermann Hesse
+tags: [2,3]
 ---
 
 Awakening
