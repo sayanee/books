@@ -2,6 +2,7 @@
 layout: post
 title:  "Man's Search for Meaning"
 authors: Viktor E. Frankl
+tags: [2]
 ---
 
 Why did anyone who's been through the holocaust even survived is the bigger question

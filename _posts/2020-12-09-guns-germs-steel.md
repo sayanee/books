@@ -2,6 +2,7 @@
 layout: post
 title:  "Guns, Germs, and Steel"
 authors: Jared Diamond
+tags: [6]
 ---
 
 ## Different development

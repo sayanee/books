@@ -2,6 +2,7 @@
 layout: post
 title:  "Nonviolent Communication"
 authors: Marshall B. Rosenberg
+tags: [8]
 ---
 
 Why did I decide to read this book?

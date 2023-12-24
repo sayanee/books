@@ -2,6 +2,7 @@
 layout: post
 title:  "The Coddling of the American Mind"
 authors: Jonathan Haidt and Greg Lukianoff
+tags: [6]
 ---
 
 > Prepare the child for the road, not the road for the child.

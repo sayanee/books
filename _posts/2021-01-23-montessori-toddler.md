@@ -2,6 +2,7 @@
 layout: post
 title:  "The Montessori Toddler"
 authors: Simone Davies and Hiyoko Imai
+tags: [7]
 ---
 
 ## Needs of a toddler
