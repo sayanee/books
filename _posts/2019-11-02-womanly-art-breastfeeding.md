@@ -2,6 +2,7 @@
 layout: post
 title:  "The Womanly Art of Breastfeeding"
 authors: La Leche League
+tags: [7]
 ---
 
 I did not agree with many things in this book. Unmedicated normal birth and 100% breastfeeding are not always possible to do. But love the baby and a healthy baby will turn out all fine eventually. Formula feeding to topup the breastmilk is fine too!

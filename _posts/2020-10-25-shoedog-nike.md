@@ -2,6 +2,7 @@
 layout: post
 title:  "Shoe Dog: A Memoir by the Creator of Nike"
 authors: Phil Knight
+tags: [4,5]
 ---
 
 > The cowards never started and the weak died along the way. That leaves us, ladies and gentlemen. Us.- Phil Knight

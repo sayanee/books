@@ -2,6 +2,7 @@
 layout: post
 title:  "Atomic Habits"
 authors: James Clear
+tags: [1]
 ---
 
 Habit

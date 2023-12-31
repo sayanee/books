@@ -2,6 +2,7 @@
 layout: post
 title:  "Advice for a Young Investigator"
 authors: Santiago Ramón y Cajal
+tags: [1,9]
 ---
 
 ## The process of Science
