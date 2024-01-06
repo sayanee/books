@@ -2,6 +2,7 @@
 layout: post
 title:  "The Working Memory Advantage: Train Your Brain to Function Stronger, Smarter, Faster"
 authors: Tracy Alloway, Ross Alloway
+tags: [13]
 ---
 
 How is working memory used?
@@ -466,7 +467,7 @@ Recalling recipes
 
 | Age | Instructions |
 | ------ | ------ |
-| 5 to 6	| 2 instructions		
+| 5 to 6	| 2 instructions
 | 7 to 9	| 3 instructions
 | 10 to 12	| 4 instructions
 | 13 to 15	| 5 instructions

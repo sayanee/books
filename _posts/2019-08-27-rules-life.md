@@ -2,6 +2,7 @@
 layout: post
 title:  "12 Rules for Life: An Antidote to Chaos"
 authors: Jordan B. Peterson
+tags: [14]
 ---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->

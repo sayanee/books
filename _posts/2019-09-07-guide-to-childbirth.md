@@ -2,6 +2,7 @@
 layout: post
 title:  "Ina May's Guide to Childbirth"
 authors: Ina May Gaskin
+tags: [7]
 ---
 My thoughts:
 

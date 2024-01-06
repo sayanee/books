@@ -2,6 +2,7 @@
 layout: post
 title:  "The Emperor of All Maladies: A Biography of Cancer"
 authors: Siddhartha Mukherjee
+tags: [13]
 ---
 
 Reading this book not only gave me an insights into cancer, but also the appreciation on how medical cures are found after many trials, tests, and collection of data. And not to mention, the cure for the patients equally involves the mental and emotional.

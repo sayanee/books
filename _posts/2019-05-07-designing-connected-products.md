@@ -2,6 +2,7 @@
 layout: post
 title:  "Designing Connected Products: UX for the Consumer Internet of Things"
 authors: Many
+tags: [10,12]
 ---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
