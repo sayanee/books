@@ -2,6 +2,7 @@
 layout: post
 title:  "Creative Selection"
 authors: Ken Kocienda
+tags: [5, 15]
 ---
 
 Pretty cool insight by an engineer into product development through demos at the hay days of Apple!
@@ -518,6 +519,6 @@ Not all features in V1
 
 > Even so, that first iPhone had some glaring software gaps that seem remarkable now, and among them was a lack of cut, copy, and paste. It’s hard to believe that the iPhone was out in the world for nearly two full years without a basic feature that had shipped with the first Mac in 1984. That’s how technology development goes.
 
-Continuous progress 
+Continuous progress
 
 > Either way, I have some advice: **Get busy. Decide what it means to do great work, and then try to make it happen**. Success is never assured, and the effort might not be easy, but if you love what you’re doing, it won’t seem so hard.

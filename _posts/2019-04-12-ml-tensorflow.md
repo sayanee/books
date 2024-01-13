@@ -2,6 +2,7 @@
 layout: post
 title:  "Machine Learning with Tensorflow"
 authors: Nishant Shukla
+tags: [10]
 ---
 
 ## Machine Learning
@@ -166,4 +167,4 @@ Viterbi decoding algorithm
 
 Reinforcement learning
 
-> Whereas supervised and unsupervised learning appear at opposite ends of the spectrum, reinforcement learning (RL) exists somewhere in the middle. It’s not supervised learning, because the **training data comes from the algorithm deciding between exploration and exploitation**. And it’s not unsupervised, because the **algorithm receives feedback from the environment**. 
+> Whereas supervised and unsupervised learning appear at opposite ends of the spectrum, reinforcement learning (RL) exists somewhere in the middle. It’s not supervised learning, because the **training data comes from the algorithm deciding between exploration and exploitation**. And it’s not unsupervised, because the **algorithm receives feedback from the environment**.

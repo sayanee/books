@@ -2,6 +2,7 @@
 layout: post
 title:  "Thinking, Fast and Slow"
 authors: Daniel Kahneman
+tags: [16]
 ---
 
 ## Concepts
