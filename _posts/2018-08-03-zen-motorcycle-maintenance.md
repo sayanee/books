@@ -2,7 +2,7 @@
 layout: post
 title:  "Zen and the Art of Motorcycle Maintenance"
 authors: Robert M. Pirsig
-
+tags: [17, 11]
 ---
 
 Possibly my first book into philosophy and I'm glad I read it because it was always intertwined with technology.

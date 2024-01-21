@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World"
+title:  "Stuff Matters"
 authors: Mark Miodownik
-
+tags: [9,10]
 ---
 
 This is a book essentially about material science, but through practical stories of history and how we use them today! Great to know some of the most used materials in the modern world of civilisation today.

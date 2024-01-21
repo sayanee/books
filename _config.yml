@@ -4,14 +4,14 @@ url: "https://books.sayan.ee"
 markdown: kramdown
 permalink: /:title
 tag_mapping:
-  1: "excellence"
+  1: "performance"
   2: "spirituality"
   3: "fiction"
   4: "biography"
   5: "business"
   6: "anthropology"
   7: "parenting"
-  8: "relationships"
+  8: "communication"
   9: "science"
   10: "engineering"
   11: "creativity"
@@ -20,3 +20,6 @@ tag_mapping:
   14: "self-help"
   15: innovation˝
   16: "psychology"
+  17: "philosophy"
+  18: "probability"
+  19: "fitness"

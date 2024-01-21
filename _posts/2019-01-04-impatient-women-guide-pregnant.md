@@ -2,7 +2,7 @@
 layout: post
 title:  "The Impatient Woman's Guide to Getting Pregnant"
 authors: Jean M. Twenge
-
+tags: [13,7]
 ---
 
 ## Todo before trying to conceive
@@ -227,7 +227,7 @@ Balance it all out
 
 Some takeaways to prepare
 
-1. Avoid rumination  
+1. Avoid rumination
 1. Get out in natural sunlight
 1. Take an omega-3 supplement
 1. Exercise regularly

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Black Swan"
 authors: Nassim Nicholas Taleb
-
+tags: [16,18]
 ---
 
 What is a Black Swan?

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "The Yoga Sutras of Patanjali: Commentary on the Raja Yoga Sutras"
+title:  "The Yoga Sutras of Patanjali"
 authors: Sri Swami Satchidananda
-
+tags: [19, 17]
 ---
 
 Yoga as a physical practice is merely a means for meditation

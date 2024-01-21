@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Real Food for Pregnancy: The Science and Wisdom of Optimal Prenatal Nutrition"
+title:  "Real Food for Pregnancy"
 authors: Lily Nichols and Melissa Powell
-
+tags: [13,7]
 ---
 
 Why prenatal food is important?

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "5 Most Common Yoga Injuries (And How You Can Avoid Them)"
+title:  "5 Most Common Yoga Injuries"
 authors: Garrett Neill, Ksenia Sapunkova, Anastasia Buterina
-
+tags: [19]
 ---
 
 A great book which gave practical insights on how to counter and prevent injuries. There are some good diagrams and exercise photos in the book as well. Practice safely, with movement, variety and consistently!

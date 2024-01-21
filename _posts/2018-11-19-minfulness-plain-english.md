@@ -2,7 +2,7 @@
 layout: post
 title:  "Mindfulness In Plain English"
 authors: Ven. Henepola Gunaratana
-
+tags: [2,16,17]
 ---
 
 ## Vipassana
