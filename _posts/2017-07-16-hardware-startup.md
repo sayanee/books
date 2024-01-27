@@ -2,7 +2,7 @@
 layout: post
 title:  "The Hardware Startup"
 authors: DiResta, Renee; Forrest, Brady; Vinyard, Ryan
-
+tags: [5,10]
 ---
 
 Building software company is much easier now

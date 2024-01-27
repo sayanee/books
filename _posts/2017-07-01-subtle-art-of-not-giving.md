@@ -2,7 +2,7 @@
 layout: post
 title:  "The Subtle Art of Not Giving a F*ck"
 authors: Mark Manson
-
+tags: [8,14]
 ---
 
 Backward Law

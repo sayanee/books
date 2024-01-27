@@ -2,7 +2,7 @@
 layout: post
 title:  "The Life-Changing Magic of Tidying Up"
 authors: Marie Kondo
-
+tags: [14,1,17]
 ---
 
 Tidying up clutter == tidying up life -- life transforming

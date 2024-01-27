@@ -2,7 +2,7 @@
 layout: post
 title:  "Deskbound: Standing up to a sitting world"
 authors: kelly Starrett
-
+tags: [13,19]
 ---
 
 Posture !== exercise

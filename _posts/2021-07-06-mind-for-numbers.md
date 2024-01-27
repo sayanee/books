@@ -2,6 +2,7 @@
 layout: post
 title:  "A Mind For Numbers"
 authors: Barbara Oakley
+tags: [1,11,16]
 ---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
