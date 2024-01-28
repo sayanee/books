@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Little Book of Skin Care: Korean Beauty Secrets for Healthy, Glowing Skin"
+title:  "The Little Book of Skin Care"
 authors: Charlotte Cho
 tags: [13]
 ---

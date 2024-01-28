@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Culture of Growth: The Origins of the Modern Economy"
+title:  "A Culture of Growth"
 authors: Mokyr, Joel
 
 ---

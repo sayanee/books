@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Silent Intelligence - The Internet of Things"
+title:  "The Silent Intelligence"
 authors: Daniel Kellmereit and Daniel Obodovski
 
 ---

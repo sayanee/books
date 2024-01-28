@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deskbound: Standing up to a sitting world"
+title:  "Deskbound"
 authors: kelly Starrett
 tags: [13,19]
 ---

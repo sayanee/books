@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "12 Rules for Life: An Antidote to Chaos"
+title:  "12 Rules for Life"
 authors: Jordan B. Peterson
 tags: [14]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Designing Connected Products: UX for the Consumer Internet of Things"
+title:  "Designing Connected Products"
 authors: Many
 tags: [10,12]
 ---

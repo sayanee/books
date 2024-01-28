@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Working Memory Advantage: Train Your Brain to Function Stronger, Smarter, Faster"
+title:  "The Working Memory Advantage"
 authors: Tracy Alloway, Ross Alloway
 tags: [13]
 ---

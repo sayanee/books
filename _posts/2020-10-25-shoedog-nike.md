@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shoe Dog: A Memoir by the Creator of Nike"
+title:  "Shoe Dog"
 authors: Phil Knight
 tags: [4,5]
 ---

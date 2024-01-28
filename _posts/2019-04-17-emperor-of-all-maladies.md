@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Emperor of All Maladies: A Biography of Cancer"
+title:  "The Emperor of All Maladies"
 authors: Siddhartha Mukherjee
 tags: [13]
 ---
