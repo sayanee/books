@@ -1,4 +1,4 @@
-.PHONY: help serve install draft update leftover
+.PHONY: help serve install draft update leftover move_draft
 
 default: serve
 
@@ -24,3 +24,8 @@ leftover:
 	rounded_months=$$(echo $$months_left | awk '{print int($$1+0.99)}'); \
 	echo "Current drafts: $$current_drafts"; \
 	echo "Approximately $$rounded_months months left at 1 draft per week."
+
+move_draft:
+	@file_to_move=$$(ls -1 _drafts | sort | head -n 1); \
+	mv _drafts/$$file_to_move _posts/; \
+	echo "Moved file: $$file_to_move"
