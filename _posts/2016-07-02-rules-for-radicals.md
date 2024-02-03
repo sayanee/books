@@ -2,7 +2,7 @@
 layout: post
 title:  "Rules for Radicals"
 authors: Saul Alinsky
-
+tags: [20, 8, 21]
 ---
 
 I didn't agree with everything in the book, but I had to read this book to understand what does extreme left-wing political activism look like.

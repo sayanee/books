@@ -2,7 +2,7 @@
 layout: post
 title:  "Enchanted Objects"
 authors: David Rose
-
+tags: [22, 12]
 ---
 
 I highly recommend this book to any IoT engineers, product managers and designers. We should be evolving from the current world of screens to a world where everyday ordinary objects are transformed by wireless connectivity, low power consumption and quiet glanceable presence.

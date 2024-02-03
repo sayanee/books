@@ -2,7 +2,7 @@
 layout: post
 title:  "Data and Goliath"
 authors: Bruce Schneier
-
+tags: [10, 22]
 ---
 
 Every web developer / engineers working with the Internet should read this so that we are aware of what we are engineering, so that we can effectively build transparent and accountable data collection, so that we build systems that uses encryption and safety vulnerability declaration.

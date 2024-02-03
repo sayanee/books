@@ -2,7 +2,7 @@
 layout: post
 title:  "On the Shortness of Life"
 authors: Seneca
-
+tags: [17]
 ---
 
 Awareness of ending

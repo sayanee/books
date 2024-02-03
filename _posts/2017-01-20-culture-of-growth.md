@@ -2,7 +2,7 @@
 layout: post
 title:  "A Culture of Growth"
 authors: Mokyr, Joel
-
+tags: [22, 15]
 ---
 
 After reading about the history of Silicon Valley, this book of Industrial Revolution gave me more insights on the critical ingredients required for innovation and progress. In summary they are:

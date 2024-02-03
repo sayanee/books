@@ -2,7 +2,7 @@
 layout: post
 title:  "The Silent Intelligence"
 authors: Daniel Kellmereit and Daniel Obodovski
-
+tags: [9, 10]
 ---
 
 Taking years for acceptance

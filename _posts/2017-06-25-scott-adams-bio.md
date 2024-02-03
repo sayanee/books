@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Fail at Almost Everything and Still Win Big"
 authors: Scott Adams
-
+tags: [14]
 ---
 
 The Six Filters for Truth:

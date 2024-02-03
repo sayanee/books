@@ -2,7 +2,7 @@
 layout: post
 title:  "The Hardware Hacker"
 authors: Andrew “bunnie” Huang
-
+tags: [10, 22, 12]
 ---
 
 ## Attitude

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Startup Owner's Manual"
 authors: Steve Blank and Bob Dorf
-
+tags: [5, 22]
 ---
 
 **Reading period**: 3 August 2016 - 28 August 2016

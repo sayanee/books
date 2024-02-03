@@ -2,7 +2,7 @@
 layout: post
 title:  "Abusing the Internet of Things"
 authors: Nitesh Dhanjani
-
+tags: [10]
 ---
 
 This book has plenty of real-life consumer device examples to learn from.

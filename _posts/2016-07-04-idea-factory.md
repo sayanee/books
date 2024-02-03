@@ -2,7 +2,7 @@
 layout: post
 title:  "The Idea Factory"
 authors: Jon Gertner
-
+tags: [9, 11, 15]
 ---
 
 Reading Bell Labs history was important for me. It's inventions, work and the works of scientists (Nyquist, Shanon, Shockley, etc) have paved the way for many uses of technology. It can be summarised with this quote:

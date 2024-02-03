@@ -2,7 +2,7 @@
 layout: post
 title:  "The Art of approximation in Science and Engineering"
 authors: MIT
-
+tags: [9, 10]
 ---
 
 This book is almost like a life skill - how to approximate things, but in the process how to make sense of it, derive knowledge from existing knowledge. There are plenty of classical physics examples to show how such approximations can be done especially in the context of mechanics (physics) and engineering.
@@ -15,8 +15,8 @@ Making models
 
 These reasoning tools are of three types:
 
-1. Organizing complexity   
-  - Divide and conquer   
+1. Organizing complexity
+  - Divide and conquer
   - Abstraction
 2. Lossless compression
   - Symmetry and conservation
