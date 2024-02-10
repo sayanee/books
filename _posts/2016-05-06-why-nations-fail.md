@@ -2,7 +2,7 @@
 layout: post
 title:  "Why Nations Fail"
 authors: Daron Acemoglu and James Robinsonn
-
+tags: [23, 20, 27]
 ---
 
 Colonization and gold

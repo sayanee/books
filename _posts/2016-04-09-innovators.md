@@ -2,7 +2,7 @@
 layout: post
 title:  "Innovators"
 authors: Walter Issacson
-
+tags: [4, 22, 17, 11, 23]
 ---
 
 ## History

@@ -2,7 +2,7 @@
 layout: post
 title:  "Good to Great"
 authors: Jim Collins
-
+tags: [5, 22, 21]
 ---
 
 Great to read how a current "good" company can make a leap to being "great". This is not about startup, but about a business at its maturity.

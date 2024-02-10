@@ -2,7 +2,7 @@
 layout: post
 title:  "Ogilvy on Advertising"
 authors: David Ogilvy
-
+tags: [26, 12, 5]
 ---
 
 I am not a professional marketer, PR person, growth hacker, etc etc. But I felt it was important to read how products get marketed. I wanted to read what David Ogilvy himself had to say. It gave me insights into the world of advertising. It was good and different from my daily dose of engineering and technical topics.

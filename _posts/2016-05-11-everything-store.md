@@ -2,7 +2,7 @@
 layout: post
 title:  "The Everything Store"
 authors: Brad Stone
-
+tags: [4, 5, 15]
 ---
 
 This is a good starting book to get an insight on how Amazon was built by its founding team.

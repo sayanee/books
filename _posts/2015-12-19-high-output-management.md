@@ -2,7 +2,7 @@
 layout: post
 title:  "High Output Management"
 authors: Andrew S. Grove
-
+tags: [5, 21, 15, 22]
 ---
 
 [Andy Grove](https://en.wikipedia.org/wiki/Andrew_Grove), the former CEO of Intel, has thoroughly written down how to run teams and production line with metrics, thinking and process. It was an immense insight to how he led Intel.
