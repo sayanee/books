@@ -2,7 +2,7 @@
 layout: post
 title:  "Manufacturing and Supply Chain turnaround"
 authors: Charles Clark
-
+tags: [5, 1]
 ---
 
 Everything in tip-top condition

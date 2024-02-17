@@ -2,7 +2,7 @@
 layout: post
 title:  "Creativity Inc"
 authors: Ed Catmuli
-
+tags: [5, 11, 15]
 ---
 
 [This was an insightful book on creativity](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration-ebook/dp/B00FUZQYBO), leadership, team work and excellence in the pursuit of making animation films, but the concepts in this book can be applied to any creative or engineering fields

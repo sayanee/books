@@ -2,7 +2,7 @@
 layout: post
 title:  "Becoming Steve Jobs"
 authors: Brent Schlender, Rick Tetzeli
-
+tags: [4,22,15]
 ---
 
 Forward thinking >> Past veneration

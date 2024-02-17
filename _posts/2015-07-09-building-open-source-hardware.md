@@ -2,7 +2,7 @@
 layout: post
 title:  "Building Open Source Hardware"
 authors: Alicia Gibb
-
+tags: [10, 5, 22]
 ---
 
 Motive

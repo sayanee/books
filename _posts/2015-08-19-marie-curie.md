@@ -2,7 +2,7 @@
 layout: post
 title:  "Madame Curie"
 authors: Eve Curie
-
+tags: [4,9]
 ---
 
 Wealth and honors did not matter

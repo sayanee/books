@@ -2,7 +2,7 @@
 layout: post
 title:  "The Architecture of Open Source Applications"
 authors: Several authors
-
+tags: [10, 22]
 ---
 
 This books is [available online for reading and buying](http://aosabook.org/en/index.html).

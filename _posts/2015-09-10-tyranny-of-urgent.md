@@ -2,7 +2,7 @@
 layout: post
 title:  "Tyranny of the Urgent"
 authors: Charles E. Hummel
-
+tags: [2,14,17]
 ---
 
 Pile of unfinished task
