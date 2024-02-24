@@ -2,7 +2,7 @@
 layout: post
 title:  "Universal Principles of Design"
 authors: Lidwell, Holden and Butler
-
+tags: [12]
 ---
 
 80/20
@@ -49,7 +49,7 @@ Display
 
 > In environments where noise or stress can interfere with concentration, consider chunking critical display information in anticipation of diminished short-term memory capacity.
 
-COnfirmation dialogs
+Confirmation dialogs
 
 > Confirmations are primarily used to prevent a class of errors called slips, which are unintended actions. Confirmations slow task performance, and should be reserved for use with critical or irreversible operations only.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Influence"
 authors: Robert B. Cialdini
-
+tags: [23]
 ---
 
 Influence principles

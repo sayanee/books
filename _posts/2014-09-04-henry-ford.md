@@ -2,9 +2,7 @@
 layout: post
 title:  "My Life and Work"
 authors: Henry Ford
-
-
-
+tags: [4,5,10,15]
 ---
 
 Always a thirst of progress

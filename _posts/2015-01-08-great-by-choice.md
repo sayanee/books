@@ -2,7 +2,7 @@
 layout: post
 title:  "Great by Choice"
 authors: Jim Collins, Morten T. Hansen
-
+tags: [5,15]
 ---
 
 Myth of visionary

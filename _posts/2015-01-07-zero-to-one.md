@@ -2,7 +2,7 @@
 layout: post
 title:  "Zero to One"
 authors: Peter Thiel
-
+tags: [22,5,15]
 ---
 
 Thinking from first principles

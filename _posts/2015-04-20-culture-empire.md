@@ -2,7 +2,7 @@
 layout: post
 title:  "Culture & Empire"
 authors: Pieter Hintjens
-
+tags: [5,15,22]
 ---
 
 Units of functions - cells
@@ -78,7 +78,7 @@ Sharing
 
 > **Remixing is a natural way of working that has a long history with roots in our social psychology**. Sharing one's ideas and work is good for everyone. No one likes a hoarder: imagine the reaction to a doctor who discovers the cure for a disease -- using all the knowledge given to him by others -- and refuses to share his new knowledge with others.
 
-COnnectivity in the past
+Connectivity in the past
 
 > There was no other way to connect to the world except through a tiny handful of ports and the cities that grew around them. Control those precious gateways to the outside world, and a life of luxury is guaranteed.
 
