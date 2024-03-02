@@ -2,7 +2,7 @@
 layout: post
 title:  "Shape of Design"
 authors: Frank Chimero
-
+tags: [12, 11]
 ---
 
 Go ahead [download](http://shapeofdesignbook.com/) and make a quiet afternoon reflection on all things making and design.

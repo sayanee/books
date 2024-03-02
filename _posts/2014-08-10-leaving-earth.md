@@ -2,7 +2,7 @@
 layout: post
 title:  "Leaving Earth"
 authors: Andrew Rader
-
+tags: [5, 10, 22, 15]
 ---
 
 Technology and livable environments

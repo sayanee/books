@@ -2,7 +2,7 @@
 layout: post
 title:  "Andrew Carnegie"
 authors: Andrew Carnegie
-
+tags: [4, 5]
 ---
 
 I was curious how someone from a relatively disadvantaged background can become the richest man in the world.

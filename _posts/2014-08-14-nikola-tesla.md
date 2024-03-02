@@ -2,7 +2,7 @@
 layout: post
 title:  "My Inventions"
 authors: Nikola Tesla
-
+tags: [4,9]
 ---
 
 Nikola Tesla writes this at the age of 63 after a deep career and work in the field of electricity and mechanics.
