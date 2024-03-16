@@ -2,7 +2,7 @@
 layout: post
 title:  "Where Good Ideas Come From"
 authors: Steven Johnson
-
+tags: [5,11,22,15]
 ---
 
 City effect == more creative

@@ -2,7 +2,7 @@
 layout: post
 title: Hackers & Painters and Essays
 authors: Paul Graham
-
+tags: [10, 11, 15, 22]
 ---
 
 - **Book**: [Hackers &amp; Painters](http://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/0596006624) and [Essays](http://paulgraham.com/articles.html) by Paul Graham

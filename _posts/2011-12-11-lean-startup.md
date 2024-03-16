@@ -2,7 +2,7 @@
 layout: post
 title:  "Lean Startup"
 authors: Eris Reis
-
+tags: [5,22,15]
 ---
 
 Sections of entrepreneurship

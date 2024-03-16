@@ -2,7 +2,7 @@
 layout: post
 title:  "Steve Jobs"
 authors: Walter Issacson
-
+tags: [4,5,15,22]
 ---
 
 Who is Steve Jobs?

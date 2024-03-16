@@ -2,7 +2,7 @@
 layout: post
 title:  "Autobiography of a Yogi"
 authors: Paramahansa Yogananda
-
+tags: [2,4]
 ---
 
 Evenmindedness

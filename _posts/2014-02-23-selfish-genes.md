@@ -2,7 +2,7 @@
 layout: post
 title:  "Selfish Genes"
 authors: Richard Dawkins
-
+tags: [6, 25, 28]
 ---
 
 Apart from my work in programming and technology, I always want to get views from other subjects such as biology, history, arts and philosophy. This book gives an insight into how genes are expressed in animals and living being. Towards the end of the book, it does a contrast with human culture and how similar and different it is with the perpetuation of the genes.
