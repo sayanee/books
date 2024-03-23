@@ -2,7 +2,7 @@
 layout: post
 title: Responsive Web Design
 authors: Ethan Marcotte
-
+tags: [12, 10]
 ---
 
 - **Title**: [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design)

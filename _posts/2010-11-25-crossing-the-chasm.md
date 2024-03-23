@@ -2,7 +2,7 @@
 layout: post
 title: Crossing the Chasm
 authors: Geoffrey Moore
-
+tags: [5, 15]
 ---
 
 - **Book Title**: Crossing the Chasm - Marketing and Selling Disruptive products to Mainstream customers

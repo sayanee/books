@@ -2,7 +2,7 @@
 layout: post
 title: Best software writing
 authors: Joel Spolsky
-
+tags: [10]
 ---
 
 - **Title**: [The Best Software Writings, I](http://www.amazon.com/Best-Software-Writing-Selected-Introduced/dp/1590595009)
