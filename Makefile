@@ -19,7 +19,7 @@ update:
 	bundle update
 
 leftover:
-	@current_drafts=$$(ls -al _drafts | wc -l); \
+	@current_drafts=$$(ls -al _drafts/*.md | wc -l); \
 	months_left=$$(echo "scale=2; ($$current_drafts / (1 * 4.33))" | bc); \
 	rounded_months=$$(echo $$months_left | awk '{print int($$1+0.99)}'); \
 	echo "Current drafts: $$current_drafts"; \
